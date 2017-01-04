@@ -1,4 +1,4 @@
-# awesome-notes
+# Awesome Notes
 
 ### Docker
  - [awesome-docker](https://github.com/veggiemonk/awesome-docker/blob/master/README.md)
