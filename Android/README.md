@@ -76,12 +76,12 @@
  - [(译)RxJava中文文档](https://github.com/mcxiaoke/RxDocs)
  - [(译)在正确的线程上观察](http://www.jianshu.com/p/72911b9ba2d7)
  - [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
- - [`segmentfault`谜之RxJava(一) -- 最基本的观察者模式](https://segmentfault.com/a/1190000004049490)
- - [谜之RxJava(二) -- Magic Lift](https://segmentfault.com/a/1190000004049841)
- - [迷之RxJava(三) -- 线程切换](https://segmentfault.com/a/1190000004051191)
- - [迷之RxJava(三)update -- 线程切换(二)](https://segmentfault.com/a/1190000004855661)
- - [迷之RxJava(三)update 2 -- subscribeOn 和 observeOn 的区别](https://segmentfault.com/a/1190000004856071)
- - [迷之RxJava(四) -- Retrofit和RxJava的基情](https://segmentfault.com/a/1190000004077117)
+ - [`segmentfault` 谜之RxJava(一) -- 最基本的观察者模式](https://segmentfault.com/a/1190000004049490)
+ - [`segmentfault` 谜之RxJava(二) -- Magic Lift](https://segmentfault.com/a/1190000004049841)
+ - [`segmentfault` 迷之RxJava(三) -- 线程切换](https://segmentfault.com/a/1190000004051191)
+ - [`segmentfault` 迷之RxJava(三)update -- 线程切换(二)](https://segmentfault.com/a/1190000004855661)
+ - [`segmentfault` 迷之RxJava(三)update 2 -- subscribeOn 和 observeOn 的区别](https://segmentfault.com/a/1190000004856071)
+ - [`segmentfault` 迷之RxJava(四) -- Retrofit和RxJava的基情](https://segmentfault.com/a/1190000004077117)
  - [RxJava与Retrofit结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
 
 ### agera
