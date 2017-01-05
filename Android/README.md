@@ -57,3 +57,33 @@
  - [Android逆向之旅---解析编译之后的AndroidManifest文件格式](http://blog.csdn.net/jiangwei0910410003/article/details/50568487)
  - [Android逆向之旅---解析编译之后的Resource.arsc文件格式](http://blog.csdn.net/jiangwei0910410003/article/details/50628894)
  - [Android逆向之旅---解析编译之后的Dex文件格式](http://blog.csdn.net/jiangwei0910410003/article/details/50668549)
+
+### Android 性能优化
+ - [Android性能优化视频，文档以及工具](https://github.com/Juude/awesome-android-performance)
+ - [胡凯-性能优化](http://hukai.me/blog/archives/)
+ - [Android最佳性能实践(1)：合理管理内存](http://blog.csdn.net/guolin_blog/article/details/42238627)
+ - [Android最佳性能实践(2)：分析内存的使用情况](http://blog.csdn.net/guolin_blog/article/details/42238633)
+ - [Android最佳性能实践(3)：高性能编码优化](http://blog.csdn.net/guolin_blog/article/details/42318689)
+ - [Android最佳性能实践(4)：布局优化技巧](http://blog.csdn.net/guolin_blog/article/details/43376527)
+ - [blockcanary-轻松找出Android App界面卡顿元凶](https://github.com/moduth/blockcanary)
+ - [Android Splash页秒开 Activity白屏 Activity黑屏](http://blog.csdn.net/yanzhenjie1003/article/details/52201896)
+
+### RxJava
+ - [ReactiveX](http://reactivex.io/)
+ - [RxJava Github](https://github.com/ReactiveX/RxJava/)
+ - [RxAndroid Github](https://github.com/ReactiveX/RxAndroid)
+ - [Awesome RxJava](https://github.com/lzyzsd/Awesome-RxJava)
+ - [(译)RxJava中文文档](https://github.com/mcxiaoke/RxDocs)
+ - [(译)在正确的线程上观察](http://www.jianshu.com/p/72911b9ba2d7)
+ - [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
+ - [`segmentfault`谜之RxJava(一) -- 最基本的观察者模式](https://segmentfault.com/a/1190000004049490)
+ - [谜之RxJava(二) -- Magic Lift](https://segmentfault.com/a/1190000004049841)
+ - [迷之RxJava(三) -- 线程切换](https://segmentfault.com/a/1190000004051191)
+ - [迷之RxJava(三)update -- 线程切换(二)](https://segmentfault.com/a/1190000004855661)
+ - [迷之RxJava(三)update 2 -- subscribeOn 和 observeOn 的区别](https://segmentfault.com/a/1190000004856071)
+ - [迷之RxJava(四) -- Retrofit和RxJava的基情](https://segmentfault.com/a/1190000004077117)
+ - [RxJava与Retrofit结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
+
+### agera
+- [android-agera](https://code-labs.cn/codelabs/android-agera/#0)
+- [agera](https://github.com/google/agera/wiki)
