@@ -1,6 +1,6 @@
 # Android
 
-### Android插件化开发与动态加载
+### Android 插件化与动态加载
  - [OpenAtlas，已改名为ACDD，可以在手机淘宝中见到踪影](https://github.com/bunnyblue/ACDD)
  - [360的DroidPlugin](https://github.com/Qihoo360/DroidPlugin)
  - [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk)
@@ -17,13 +17,13 @@
  - [掌阅-最简单易懂的Android插件补丁框架](https://github.com/iReaderAndroid/ZeusPlugin)
  - [ANROID动态加载技术 系列索引](https://zhuanlan.zhihu.com/p/20515113)
 
-### Android 热更新
- - [dexposed](https://github.com/alibaba/dexposed)
- - [AndFix](https://github.com/alibaba/AndFix)
- - [QQ空间热修复](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a&scene=0#wechat_redirect)
- - [QQ空间热修复实现方案](https://github.com/dodola/HotFix)
+### Android HotPatch/HotFix
+ - [`alibaba` dexposed](https://github.com/alibaba/dexposed)
+ - [`alibaba` AndFix](https://github.com/alibaba/AndFix)
+ - [`QQ空间终端开发团队` 安卓App热补丁动态修复技术介绍](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a&scene=0#wechat_redirect)
+ - [RocooFix](https://github.com/dodola/RocooFix)
  - [Nuwa 女娲](https://github.com/jasonross/Nuwa)
- - [Android HotPatch从入门到“放弃”](https://mp.weixin.qq.com/s?__biz=MzIzMDEyNzM4NQ==&mid=2650956297&idx=1&sn=f4bfdd7b16f95b6d34c6f34d8ce392e0&scene=0&uin=MTY4NDEwODc2Mg%3D%3D&key=cf237d7ae24775e8a8b56c7ea2bb2868382d9036f67165867c202e363b23bb4e596335de9da22825b530281867b47449&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.6+build(15G31)&version=12000006&lang=zh_CN&nettype=WIFI&fontScale=100&pass_ticket=95LpBT0hMvr3CsOzDCiFvaRxltvzQUdRKYWgyVX2qwUNRC1PW%2Bmf8ebbmyh6bwrH)
+ - [`微店技术团队` Android HotPatch从入门到“放弃”](https://mp.weixin.qq.com/s?__biz=MzIzMDEyNzM4NQ==&mid=2650956297&idx=1&sn=f4bfdd7b16f95b6d34c6f34d8ce392e0&scene=0&uin=MTY4NDEwODc2Mg%3D%3D&key=cf237d7ae24775e8a8b56c7ea2bb2868382d9036f67165867c202e363b23bb4e596335de9da22825b530281867b47449&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.6+build(15G31)&version=12000006&lang=zh_CN&nettype=WIFI&fontScale=100&pass_ticket=95LpBT0hMvr3CsOzDCiFvaRxltvzQUdRKYWgyVX2qwUNRC1PW%2Bmf8ebbmyh6bwrH)
  - [Android Patch 方案与持续交付](http://wereadteam.github.io/2016/07/26/AndroidPatch/?from=timeline&isappinstalled=0)
  - [Android N混合编译与对热补丁影响解析](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286341&idx=1&sn=054d595af6e824cbe4edd79427fc2706&scene=2&srcid=0804Rg6BqGmPSPyeUOOLXds3&from=timeline&isappinstalled=0&uin=MTY4NDEwODc2Mg%3D%3D&key=cf237d7ae24775e86d7c5f57902ee2b81f05b64d1b6baf39ba9ad8115ea453e72d5d9f36a58c506d01f2a84e9b6c2eca&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.6+build(15G31)&version=12000006&lang=zh_CN&nettype=WIFI&fontScale=100&pass_ticket=95LpBT0hMvr3CsOzDCiFvaRxltvzQUdRKYWgyVX2qwUNRC1PW%2Bmf8ebbmyh6bwrH)
  - [微信Android热补丁实践演进之路](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286306&idx=1&sn=d6b2865e033a99de60b2d4314c6e0a25&scene=0&uin=MTY4NDEwODc2Mg%3D%3D&key=cf237d7ae24775e8857eb5c8144bf27076228deefafb6a0afd4416d54ed479daa6a67f0363c96df893d5cf4e4d3db423&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.6+build(15G31)&version=12000006&lang=zh_CN&nettype=WIFI&fontScale=100&pass_ticket=95LpBT0hMvr3CsOzDCiFvaRxltvzQUdRKYWgyVX2qwUNRC1PW%2Bmf8ebbmyh6bwrH)
@@ -70,8 +70,8 @@
 
 ### RxJava
  - [ReactiveX](http://reactivex.io/)
- - [RxJava Github](https://github.com/ReactiveX/RxJava/)
- - [RxAndroid Github](https://github.com/ReactiveX/RxAndroid)
+ - [`Github` RxJava ](https://github.com/ReactiveX/RxJava/)
+ - [`Github` RxAndroid](https://github.com/ReactiveX/RxAndroid)
  - [Awesome RxJava](https://github.com/lzyzsd/Awesome-RxJava)
  - [(译)RxJava中文文档](https://github.com/mcxiaoke/RxDocs)
  - [(译)在正确的线程上观察](http://www.jianshu.com/p/72911b9ba2d7)

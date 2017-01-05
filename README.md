@@ -14,3 +14,11 @@
  - [从启用 HTTP/2 导致网站无法访问说起](https://imququ.com/post/why-tls-handshake-failed-with-http2-enabled.html?f=http://blogread.cn/)
 
 ### [Android](https://github.com/motcwang/awesome-notes/blob/master/Android/README.md)
+ - Android插件化开发与动态加载
+ - Android HotPatch/HotFix
+ - Android 加固与反编译
+ - Android 性能优化
+ - RxJava
+ - agera
+
+### [前端]()
