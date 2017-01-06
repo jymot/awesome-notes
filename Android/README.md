@@ -73,8 +73,8 @@
  - [`Github` RxJava ](https://github.com/ReactiveX/RxJava/)
  - [`Github` RxAndroid](https://github.com/ReactiveX/RxAndroid)
  - [Awesome RxJava](https://github.com/lzyzsd/Awesome-RxJava)
- - [(译)RxJava中文文档](https://github.com/mcxiaoke/RxDocs)
- - [(译)在正确的线程上观察](http://www.jianshu.com/p/72911b9ba2d7)
+ - [`(译)` RxJava中文文档](https://github.com/mcxiaoke/RxDocs)
+ - [`(译)` 在正确的线程上观察](http://www.jianshu.com/p/72911b9ba2d7)
  - [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
  - [`segmentfault` 谜之RxJava(一) -- 最基本的观察者模式](https://segmentfault.com/a/1190000004049490)
  - [`segmentfault` 谜之RxJava(二) -- Magic Lift](https://segmentfault.com/a/1190000004049841)
@@ -87,3 +87,14 @@
 ### agera
 - [android-agera](https://code-labs.cn/codelabs/android-agera/#0)
 - [agera](https://github.com/google/agera/wiki)
+
+### Gradle
+ - [Gradle for Android](https://segmentfault.com/a/1190000004229002)
+ - [谷歌Gradle官方文档](http://google.github.io/android-gradle-dsl/current/)
+ - [Android Gradle 构建系统·初探](https://mp.weixin.qq.com/s?__biz=MzIzNTA3MjQwNw==&mid=2650672318&idx=1&sn=74fb2afc4e409be3014ea83aa623a792&scene=2&srcid=0814iBs3jyLcRldTGb3oqFIT&from=timeline&isappinstalled=0&uin=MTY4NDEwODc2Mg%3D%3D&key=cf237d7ae24775e8ab813a673c218977220f758d689261e1700639f2be2698a142186e9c68a3727f6e55683cee9ee94e&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.6+build(15G31)&version=12000006&lang=zh_CN&nettype=WIFI&fontScale=100&pass_ticket=95LpBT0hMvr3CsOzDCiFvaRxltvzQUdRKYWgyVX2qwUNRC1PW%2Bmf8ebbmyh6bwrH)
+ - [Gradle系列之从init.gradle说起](http://blog.csdn.net/sbsujjbcy/article/details/52079413)
+ - [深入理解Android之Gradle](http://blog.csdn.net/innost/article/details/48228651)
+
+### Android 单元测试
+ - [使用Mockito和Roboletric进行Android单元测试](http://mp.weixin.qq.com/s?__biz=MzIwOTQ1MjAwMg==&mid=2247483744&idx=1&sn=e322c5dc19952c563e00a24815399300&scene=0#wechat_redirect)
+ - [Robolectric](http://robolectric.org/)
