@@ -1,12 +1,15 @@
 # Awesome Notes
 
 ### [Android](https://github.com/motcwang/awesome-notes/blob/master/Android/README.md)
- - Android插件化开发与动态加载
+ - Android 插件化,动态加载以及Dex相关
  - Android HotPatch/HotFix
  - Android 加固与反编译
  - Android 性能优化
  - RxJava
  - agera
+ - Gradle
+ - Android 单元测试
+ - 调试相关
 
 ### [网络编程](https://github.com/motcwang/awesome-notes/blob/master/Net/README.md)
  - HTTP2.0
