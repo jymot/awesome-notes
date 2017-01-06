@@ -11,7 +11,7 @@
 ### [网络编程](https://github.com/motcwang/awesome-notes/blob/master/Net/README.md)
  - HTTP2.0
 
-### [Cross Platform]
+### [Cross Platform]()
  - [weex](http://alibaba.github.io/weex/)
  - [深入源码探索 ReactNative 通信机制](https://segmentfault.com/a/1190000004586390)
  - [React Native首屏白屏优化](https://segmentfault.com/a/1190000004743424)

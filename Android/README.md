@@ -1,6 +1,6 @@
 # Android
 
-### Android 插件化与动态加载
+### Android 插件化,动态加载以及Dex相关
  - [OpenAtlas，已改名为ACDD，可以在手机淘宝中见到踪影](https://github.com/bunnyblue/ACDD)
  - [360的DroidPlugin](https://github.com/Qihoo360/DroidPlugin)
  - [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk)
@@ -16,6 +16,8 @@
  - [Android Dex分包之旅](http://yydcdut.com/2016/03/20/split-dex/)
  - [掌阅-最简单易懂的Android插件补丁框架](https://github.com/iReaderAndroid/ZeusPlugin)
  - [ANROID动态加载技术 系列索引](https://zhuanlan.zhihu.com/p/20515113)
+ - [MultiDex工作原理分析和优化方案](https://zhuanlan.zhihu.com/p/24305296)
+ - [其实你不知道MultiDex到底有多坑](http://blog.zongwu233.com/the-touble-of-multidex)
 
 ### Android HotPatch/HotFix
  - [`alibaba` dexposed](https://github.com/alibaba/dexposed)
@@ -67,6 +69,9 @@
  - [Android最佳性能实践(4)：布局优化技巧](http://blog.csdn.net/guolin_blog/article/details/43376527)
  - [blockcanary-轻松找出Android App界面卡顿元凶](https://github.com/moduth/blockcanary)
  - [Android Splash页秒开 Activity白屏 Activity黑屏](http://blog.csdn.net/yanzhenjie1003/article/details/52201896)
+ - [Android GC 那点事](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw%3D%3D&hmsr=toutiao.io&idx=1&mid=400021278&scene=0&sn=0e971807eb0e9dcc1a81853189a092f3&utm_medium=toutiao.io&utm_source=toutiao.io)
+ - [GC那些事儿--Android内存优化第一弹](http://www.jianshu.com/p/5db05db4f5ab)
+ - [基于Android Studio的内存泄漏检测与解决全攻略](http://wetest.qq.com/lab/view/?id=99)
 
 ### RxJava
  - [ReactiveX](http://reactivex.io/)
