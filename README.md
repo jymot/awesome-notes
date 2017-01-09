@@ -32,8 +32,6 @@
  - [【React Native for Android】jsBridge实现原理](http://blog.desmondyao.com/2016/07/02/rn-bridge/)
  - [其实没那么复杂！探究react-native通信机制](http://zjutkz.net/2016/05/03/%E5%85%B6%E5%AE%9E%E6%B2%A1%E9%82%A3%E4%B9%88%E5%A4%8D%E6%9D%82%EF%BC%81%E6%8E%A2%E7%A9%B6react-native%E9%80%9A%E4%BF%A1%E6%9C%BA%E5%88%B6/)
 
-### Docker
- - [awesome-docker](https://github.com/veggiemonk/awesome-docker/blob/master/README.md)
-
 ### [Web]()
  - [`(译)` 值得前端开发者在2017学习的东西](https://zhuanlan.zhihu.com/p/24612841)
+ - [awesome-docker](https://github.com/veggiemonk/awesome-docker/blob/master/README.md)
