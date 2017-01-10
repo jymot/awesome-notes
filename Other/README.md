@@ -8,7 +8,7 @@
  - [Git工作流指南：Forking工作流](http://blog.jobbole.com/76861/)
 
 ### UI Design
- - [https://dribbble.com/](https://dribbble.com/)
- - [http://pttrns.com/](http://pttrns.com/)
- - [http://capptivate.co/](http://capptivate.co/)
+ - [dribbble](https://dribbble.com/)
+ - [pttrns](http://pttrns.com/)
+ - [capptivate.co](http://capptivate.co/)
  - [Ant Design](https://ant.design/index-cn)
