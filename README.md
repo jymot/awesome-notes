@@ -14,7 +14,7 @@
 ### [网络编程](https://github.com/motcwang/awesome-notes/blob/master/Net/README.md)
  - HTTP2.0
 
-### [Cross Platform]()
+### [Cross Platform](https://github.com/motcwang/awesome-notes/blob/master/Cross%20Platform/README.md)
  - weex
  - 深入源码探索 ReactNative 通信机制
  - React Native首屏白屏优化
@@ -32,9 +32,9 @@
  - React Native for Android -- jsBridge实现原理
  - 其实没那么复杂！探究react-native通信机制
 
-### [Web]()
+### [Web](https://github.com/motcwang/awesome-notes/blob/master/Web/README.md)
  - `(译)` 值得前端开发者在2017学习的东西
  - awesome-docker
 
-### [Other]()
+### [Other](https://github.com/motcwang/awesome-notes/blob/master/Other/README.md)
  - 进攻即是最好的防御！19个练习黑客技术的在线网站
