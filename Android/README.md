@@ -108,3 +108,30 @@
 
 ### 调试相关
  - [`WebView调试`spy-debugger](https://github.com/wuchangming/spy-debugger)
+
+### `国外`个人博客
+ - [Jakewharton](http://jakewharton.com/blog)
+ - [Romain Guy](http://www.curious-creature.com/)
+ - [Cyril Mottier](http://cyrilmottier.com/)
+ - [Mark Allison](http://blog.stylingandroid.com/)
+ - [Daniel Lew](http://blog.danlew.net/)
+ - [Ravi Tamada](http://www.androidhive.info/)
+ - [Chris Nash](http://loseyourmarbles.co/about-me/)
+ - [juhani@fatrobot.io](http://www.androiduipatterns.com/)
+ - [Wolfram Rittmeyer](http://www.grokkingandroid.com/)
+ - [Rich Hyndman](http://geekyouup.blogspot.com/)
+
+### `国外`优秀网站
+ - [androidweekly.net](http://androidweekly.net/)
+ - [Android Developers Blog](http://android-developers.blogspot.ca/)
+ - [vogella](http://www.vogella.com/tutorials/android.html)
+ - [tutorialspoint](http://www.tutorialspoint.com/android/)
+ - [tutsplus](http://code.tutsplus.com/categories/android-sdk)
+ - [oderzheaven](http://www.coderzheaven.com/android-tutorials/)
+ - [thenewcircle](https://thenewcircle.com/training/android/)
+ - [coreservlets](http://www.coreservlets.com/android-tutorial/)
+ - [Droid-Blog](http://droid-blog.net/)
+ - [coursera.org](https://www.coursera.org/)
+ - [commonsware.com](http://commonsware.com/blog/archive.html)
+ - [http://android.amberfog.com/](http://android.amberfog.com/)
+ - [anddev](http://www.anddev.org/)
