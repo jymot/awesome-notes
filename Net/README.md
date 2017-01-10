@@ -2,7 +2,7 @@
 
 ### HTTP2.0
  - [测试是否支持http2.0，需翻墙](https://tools.keycdn.com/http2-test)
- - [httpvshttps](http://www.httpvshttps.com/)
+ - [http vs https](http://www.httpvshttps.com/)
  - [chrome 插件HTTP/2 and SPDY indicator](https://chrome.google.com/webstore/detail/mpbpobfflnpcgagjijhmgnchggcjblin)
  - [HTTP/2 资料汇总](https://imququ.com/post/http2-resource.html)
  - [HTTP2.0的那些事](http://mrpeak.cn/blog/http2/)
