@@ -19,8 +19,8 @@
  - 深入源码探索 ReactNative 通信机制
  - React Native首屏白屏优化
  - React Native专题系列文章更新ing(涉及基础,组件,进阶以及开源项目)
- - React-native-Android-热更新
- - React-Native学习指南
+ - React Native Android热更新
+ - React Native学习指南
  - Facebook的react-native
  - React Native: 配置和起步
  - React Native: Android 的打包
