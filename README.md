@@ -7,9 +7,15 @@
  - Android 性能优化
  - RxJava
  - agera
+ - ORM
+ - Ibeacon与蓝牙4.0
  - Gradle
  - Android 单元测试
  - 调试相关
+ - Design Patterns
+ - `国外` 个人博客
+ - `国外` 优秀网站
+ - Other
 
 ### [网络编程](https://github.com/motcwang/awesome-notes/blob/master/Net/README.md)
  - HTTP2.0
