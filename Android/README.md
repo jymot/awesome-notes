@@ -1,4 +1,5 @@
 # Android
+  - [Awesome Android](https://github.com/JStumpp/awesome-android)
 
 ### Android 插件化,动态加载以及Dex相关
  - [Small](https://github.com/wequick/Small)
@@ -95,6 +96,16 @@
 - [android-agera](https://code-labs.cn/codelabs/android-agera/#0)
 - [agera](https://github.com/google/agera/wiki)
 
+### ORM
+ - [greenDAO](http://greendao-orm.com/)
+ - [ORMLite](http://ormlite.com/sqlite_java_android_orm.shtml)
+
+### Ibeacon与蓝牙4.0
+ - [一个ibeacon交互库](https://github.com/AltBeacon/android-beacon-library)
+ - [AprilBeacon-Android-sdk](https://github.com/AprilBrother/AprilBeacon-Android-SDK)
+ - [Estimote SDK](https://github.com/Estimote/Android-SDK)
+ - [蓝牙4.0相关](https://github.com/devunwired/accessory-samples)
+
 ### Gradle
  - [Gradle for Android](https://segmentfault.com/a/1190000004229002)
  - [谷歌Gradle官方文档](http://google.github.io/android-gradle-dsl/current/)
@@ -108,6 +119,10 @@
 
 ### 调试相关
  - [`WebView调试`spy-debugger](https://github.com/wuchangming/spy-debugger)
+
+### Design Patterns
+ - [java-design-patterns](https://github.com/iluwatar/java-design-patterns)
+ - [android_design_patterns_analysis](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis)
 
 ### `国外`个人博客
  - [Jakewharton](http://jakewharton.com/blog)
@@ -135,3 +150,8 @@
  - [commonsware.com](http://commonsware.com/blog/archive.html)
  - [http://android.amberfog.com/](http://android.amberfog.com/)
  - [anddev](http://www.anddev.org/)
+ 
+ ### Other
+  - [Android 开源交流](https://github.com/aosp-exchange-group/share)
+  - [Awesome ADB](https://github.com/mzlogin/awesome-adb)
+
