@@ -151,7 +151,7 @@
  - [http://android.amberfog.com/](http://android.amberfog.com/)
  - [anddev](http://www.anddev.org/)
  
- ### Other
+### Other
   - [Android 开源交流](https://github.com/aosp-exchange-group/share)
   - [Awesome ADB](https://github.com/mzlogin/awesome-adb)
 
