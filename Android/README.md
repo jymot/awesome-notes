@@ -62,6 +62,7 @@
  - [Android逆向之旅---解析编译之后的Dex文件格式](http://blog.csdn.net/jiangwei0910410003/article/details/50668549)
 
 ### Android 性能优化
+ - [探索 Java 隐藏的开销](https://realm.io/cn/news/360andev-jake-wharton-java-hidden-costs-android/)
  - [如何降低App的待机内存(四)--进阶：内存原理](http://mp.weixin.qq.com/s?__biz=MzAxMzYyNDkyNA==&mid=2651332659&idx=1&sn=848e588ac68eaf1e36817089cc7d5670&chksm=80633300b714ba1625149ef21217f6b4a6704da181ae9f2a05b981cd68432e9b9dd00b81aab6&scene=21#wechat_redirect)
  - [如何降低App的待机内存(五)--优化dex相关内存及本章总结](http://mp.weixin.qq.com/s/01Abwe0p1h3WLh28Tzg_Dw)
  - [Android性能优化视频，文档以及工具](https://github.com/Juude/awesome-android-performance)
