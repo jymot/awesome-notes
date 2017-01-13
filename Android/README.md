@@ -44,7 +44,7 @@
  - [Android热修复与增量升级，基于微信Tinker原理](https://github.com/byteam/delta)
 
 ### Android 加固与反编译
- - [android反编译工具的合集](https://github.com/Juude/droidReverse)
+ - [Android反编译工具的合集](https://github.com/Juude/droidReverse)
  - [Apktool](http://ibotpeaches.github.io/Apktool/)
  - [dex2jar](http://sourceforge.net/projects/dex2jar/)
  - [DecompileApk](https://github.com/MasonLiuChn/DecompileApk)
