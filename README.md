@@ -1,5 +1,7 @@
 # Awesome Notes
 
+### [`lyfeyaj` awesome-resources](https://github.com/lyfeyaj/awesome-resources)
+
 ### [Android](https://github.com/motcwang/awesome-notes/blob/master/Android/README.md)
  - Android 插件化,动态加载以及Dex相关
  - Android HotPatch/HotFix
