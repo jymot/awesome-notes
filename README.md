@@ -1,6 +1,6 @@
 # Awesome Notes
 
-### [`lyfeyaj` `awesome-resources` 开发实战资源整合](https://github.com/lyfeyaj/awesome-resources)
+### [`lyfeyaj` awesome-resources(开发实战资源整合)](https://github.com/lyfeyaj/awesome-resources)
 
 ### [Android](https://github.com/motcwang/awesome-notes/blob/master/Android/README.md)
  - Android 插件化,动态加载以及Dex相关
