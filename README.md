@@ -44,12 +44,12 @@
 ### [Web](https://github.com/motcwang/awesome-notes/blob/master/Web/README.md)
  - `(译)` 值得前端开发者在2017学习的东西
  - awesome-docker
+ - 进攻即是最好的防御！19个练习黑客技术的在线网站
  - HTTPS 证书配置及申请
   - Let’s Encrypt Let’s Encrypt is a free, automated, and open Certificate Authority.
   - acme.sh
 
 ### [Other](https://github.com/motcwang/awesome-notes/blob/master/Other/README.md)
- - 进攻即是最好的防御！19个练习黑客技术的在线网站
  - git
   - Git教程
   - 用 Git Hooks 进行自动部署
