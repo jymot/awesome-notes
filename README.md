@@ -1,10 +1,12 @@
 # Awesome Notes
 
-### [`lyfeyaj` awesome-resources(开发实战资源整合)](https://github.com/lyfeyaj/awesome-resources)
-### [awesome](https://github.com/sindresorhus/awesome)
+#### [`lyfeyaj` awesome-resources(开发实战资源整合)](https://github.com/lyfeyaj/awesome-resources)
+#### [awesome](https://github.com/sindresorhus/awesome)
+#### [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 ### [Android](https://github.com/motcwang/awesome-notes/blob/master/Android/README.md)
  - Awesome Android
+ - Android Security Awesome
  - Android 插件化,动态加载以及Dex相关
  - Android HotPatch/HotFix
  - Android 加固与反编译
