@@ -49,6 +49,7 @@
  - HTTPS 证书配置及申请
   - Let’s Encrypt Let’s Encrypt is a free, automated, and open Certificate Authority.
   - acme.sh
+  - awesome-vue
 
 ### [Other](https://github.com/motcwang/awesome-notes/blob/master/Other/README.md)
  - `Awesome API` 国内部分官方API
