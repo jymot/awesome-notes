@@ -1,5 +1,6 @@
 # Android
   - [Awesome Android](https://github.com/JStumpp/awesome-android)
+  - [android-security-awesome](https://github.com/ashishb/android-security-awesome)
 
 ### Android 插件化,动态加载以及Dex相关
  - [Small](https://github.com/wequick/Small)
