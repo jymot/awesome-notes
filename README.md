@@ -52,6 +52,7 @@
   - awesome-vue
   - vue-strap
   - vue-resource
+  - element Vue2.0 UI Toolkit
  - HTTPS 证书配置及申请
   - Let’s Encrypt Let’s Encrypt is a free, automated, and open Certificate Authority.
   - acme.sh
