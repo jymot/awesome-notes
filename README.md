@@ -48,6 +48,9 @@
  - awesome-docker
  - 进攻即是最好的防御！19个练习黑客技术的在线网站
  - `awesome-webpack-cn` webpack相关文章
+ - awesome-vue
+ - vue-strap
+ - vue-resource
  - HTTPS 证书配置及申请
   - Let’s Encrypt Let’s Encrypt is a free, automated, and open Certificate Authority.
   - acme.sh
