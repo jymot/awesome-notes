@@ -53,6 +53,7 @@
   - awesome-vue
   - vue-strap
   - vue-resource
+  - vuex
   - element Vue2.0 UI Toolkit
  - React
   - react-toolbox
