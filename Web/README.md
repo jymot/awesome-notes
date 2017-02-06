@@ -9,6 +9,7 @@
  - [awesome-vue](https://github.com/vuejs/awesome-vue)
  - [vue-strap](https://github.com/yuche/vue-strap)
  - [vue-resource](https://github.com/pagekit/vue-resource)
+ - [vuex](https://github.com/vuejs/vuex/)
  - [element Vue2.0 UI Toolkit](https://github.com/ElemeFE/element)
 
 ### React
