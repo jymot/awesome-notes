@@ -2,6 +2,9 @@
   - [Awesome Android](https://github.com/JStumpp/awesome-android)
   - [android-security-awesome](https://github.com/ashishb/android-security-awesome)
 
+### Android UI
+ - [Dali 基于RenderScript 实现的模糊效果](https://github.com/patrickfav/Dali)
+
 ### Android 插件化,动态加载以及Dex相关
  - [Small](https://github.com/wequick/Small)
  - [ACDD(原名OpenAtlas)](https://github.com/bunnyblue/ACDD)
