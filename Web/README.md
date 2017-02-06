@@ -4,6 +4,7 @@
  - [awesome-docker](https://github.com/veggiemonk/awesome-docker/blob/master/README.md)
  - [进攻即是最好的防御！19个练习黑客技术的在线网站](https://jaq.alibaba.com/community/art/show?articleid=683&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
  - [`awesome-webpack-cn` webpack相关文章](https://github.com/webpack-china/awesome-webpack-cn)
+ - [axios Promise based HTTP client for the browser and node.js](https://github.com/mzabriskie/axios)
  
 ### Vue
  - [awesome-vue](https://github.com/vuejs/awesome-vue)
