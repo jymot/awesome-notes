@@ -49,6 +49,7 @@
  - awesome-docker
  - 进攻即是最好的防御！19个练习黑客技术的在线网站
  - `awesome-webpack-cn` webpack相关文章
+ - axios Promise based HTTP client for the browser and node.js
  - Vue
   - awesome-vue
   - vue-strap
