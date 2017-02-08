@@ -55,7 +55,8 @@
   - vue-strap
   - vue-resource
   - vuex
-  - element Vue2.0 UI Toolkit
+  - element `Vue2.0 UI Toolkit`
+  - OnsenUI `Vue2.0 UI`
  - React
   - react-toolbox
  - HTTPS 证书配置及申请
