@@ -11,7 +11,8 @@
  - [vue-strap](https://github.com/yuche/vue-strap)
  - [vue-resource](https://github.com/pagekit/vue-resource)
  - [vuex](https://github.com/vuejs/vuex/)
- - [element Vue2.0 UI Toolkit](https://github.com/ElemeFE/element)
+ - [element `Vue2.0 UI Toolkit`](https://github.com/ElemeFE/element)
+ - [OnsenUI `Vue2.0 UI`](https://github.com/OnsenUI/OnsenUI)
 
 ### React
  - [react-toolbox](https://github.com/react-toolbox/react-toolbox/)
