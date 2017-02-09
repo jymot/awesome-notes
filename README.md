@@ -55,6 +55,9 @@
   - vue-strap
   - vue-resource
   - vuex
+  - vue-touch
+  - vue-router
+  - vue-element
   - element `Vue2.0 UI Toolkit`
   - OnsenUI `Vue2.0 UI`
  - React
