@@ -11,6 +11,9 @@
  - [vue-strap](https://github.com/yuche/vue-strap)
  - [vue-resource](https://github.com/pagekit/vue-resource)
  - [vuex](https://github.com/vuejs/vuex/)
+ - [vue-touch](https://github.com/vuejs/vue-touch)
+ - [vue-router](https://github.com/vuejs/vue-router/)
+ - [vue-element](https://github.com/karol-f/vue-element)
  - [element `Vue2.0 UI Toolkit`](https://github.com/ElemeFE/element)
  - [OnsenUI `Vue2.0 UI`](https://github.com/OnsenUI/OnsenUI)
 
