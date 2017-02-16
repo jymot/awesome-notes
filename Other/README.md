@@ -2,6 +2,7 @@
 
 ### [`Awesome API` 国内部分官方API](https://github.com/marktony/Awesome_API/blob/master/Chinese_Official.md)
 ### [AndroidInterview](https://github.com/helen-x/AndroidInterview)
+### [jstraining](https://github.com/ruanyf/jstraining)
 
 ### git
  - [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
