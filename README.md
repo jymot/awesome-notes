@@ -70,6 +70,7 @@
 ### [Other](https://github.com/motcwang/awesome-notes/blob/master/Other/README.md)
  - `Awesome API` 国内部分官方API
  - AndroidInterview
+ - jstraining
  - git
   - Git教程
   - 用 Git Hooks 进行自动部署
