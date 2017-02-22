@@ -5,6 +5,7 @@
 ### Android UI
  - [Dali 基于RenderScript 实现的模糊效果](https://github.com/patrickfav/Dali)
  - [AndroidNote](https://github.com/GcsSloop/AndroidNote)
+ - [`animation` ExpectAnim](https://github.com/florent37/ExpectAnim)
 
 ### Android 插件化,动态加载以及Dex相关
  - [Small](https://github.com/wequick/Small)
