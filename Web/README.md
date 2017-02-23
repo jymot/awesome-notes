@@ -7,6 +7,9 @@
  - [axios Promise based HTTP client for the browser and node.js](https://github.com/mzabriskie/axios)
  - [fetch](https://github.com/github/fetch)
  
+### Node
+ - [`github` http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
+ 
 ### Vue
  - [awesome-vue](https://github.com/vuejs/awesome-vue)
  - [vue-strap](https://github.com/yuche/vue-strap)
