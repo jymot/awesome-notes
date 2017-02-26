@@ -14,3 +14,6 @@
  - [pttrns](http://pttrns.com/)
  - [capptivate.co](http://capptivate.co/)
  - [Ant Design](https://ant.design/index-cn)
+ 
+### Blog
+ - [`java blog` tale](https://github.com/otale/tale)
