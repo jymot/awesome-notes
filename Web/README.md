@@ -6,6 +6,7 @@
  - [`awesome-webpack-cn` webpack相关文章](https://github.com/webpack-china/awesome-webpack-cn)
  - [axios Promise based HTTP client for the browser and node.js](https://github.com/mzabriskie/axios)
  - [fetch](https://github.com/github/fetch)
+ - [store `Cross-browser storage for all use cases • Used across the web • See below for v2.0 news`](https://github.com/marcuswestin/store.js)
  
 ### Node
  - [`github` http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
