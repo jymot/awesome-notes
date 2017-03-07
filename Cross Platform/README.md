@@ -1,5 +1,6 @@
 # Cross Platform
 
+ - [awesome-weex](https://github.com/joggerplus/awesome-weex)
  - [weex](http://alibaba.github.io/weex/)
  - [深入源码探索 React Native 通信机制](https://segmentfault.com/a/1190000004586390)
  - [React Native首屏白屏优化](https://segmentfault.com/a/1190000004743424)
