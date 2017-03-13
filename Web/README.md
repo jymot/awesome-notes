@@ -12,6 +12,7 @@
  - [`github` http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
  - [`Terminal string styling done right` chalk](https://github.com/chalk/chalk)
  - [shell-task](https://github.com/yyx990803/shell-task)
+ - [node-optimist `参数获取`](https://github.com/substack/node-optimist)
  
 ### Vue
  - [awesome-vue](https://github.com/vuejs/awesome-vue)
