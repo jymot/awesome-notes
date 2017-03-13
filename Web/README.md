@@ -10,6 +10,8 @@
  
 ### Node
  - [`github` http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
+ - [`Terminal string styling done right` chalk](https://github.com/chalk/chalk)
+ - [shell-task](https://github.com/yyx990803/shell-task)
  
 ### Vue
  - [awesome-vue](https://github.com/vuejs/awesome-vue)
