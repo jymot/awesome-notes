@@ -163,4 +163,5 @@
 ### Other
   - [Android 开源交流](https://github.com/aosp-exchange-group/share)
   - [Awesome ADB](https://github.com/mzlogin/awesome-adb)
+  - [http://blog.csdn.net/lhd201006/article/details/50920464](http://blog.csdn.net/lhd201006/article/details/50920464)
 
