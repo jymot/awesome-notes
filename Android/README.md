@@ -164,4 +164,5 @@
   - [Android 开源交流](https://github.com/aosp-exchange-group/share)
   - [Awesome ADB](https://github.com/mzlogin/awesome-adb)
   - [http://blog.csdn.net/lhd201006/article/details/50920464](http://blog.csdn.net/lhd201006/article/details/50920464)
-
+  - [android-tips-tricks-cn `Android开发技巧`](https://github.com/cctanfujun/android-tips-tricks-cn)
+  - [android-tips-tricks `Android开发技巧`](https://github.com/nisrulz/android-tips-tricks)
