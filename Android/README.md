@@ -9,6 +9,7 @@
  - [`animation` ExpectAnim](https://github.com/florent37/ExpectAnim)
 
 ### Android 插件化,动态加载以及Dex相关
+ - [`alibaba` atlas `A powerful Android Dynamic Component Framework.`](https://github.com/alibaba/atlas)
  - [Small](https://github.com/wequick/Small)
  - [ACDD(原名OpenAtlas)](https://github.com/bunnyblue/ACDD)
  - [`360` DroidPlugin](https://github.com/Qihoo360/DroidPlugin)
