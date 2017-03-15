@@ -28,6 +28,7 @@
  - [其实你不知道MultiDex到底有多坑](http://blog.zongwu233.com/the-touble-of-multidex)
 
 ### Android HotPatch/HotFix
+ - [`美团` Robust](https://github.com/Meituan-Dianping/Robust)
  - [`美团` Android热更新方案Robust](http://tech.meituan.com/android_robust.html)
  - [`腾讯` Tinker](https://github.com/Tencent/tinker)
  - [`alibaba` dexposed](https://github.com/alibaba/dexposed)
