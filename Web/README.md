@@ -7,6 +7,7 @@
  - [axios Promise based HTTP client for the browser and node.js](https://github.com/mzabriskie/axios)
  - [fetch](https://github.com/github/fetch)
  - [store `Cross-browser storage for all use cases • Used across the web • See below for v2.0 news`](https://github.com/marcuswestin/store.js)
+ - [`极客学院Web大前端自学课程` JiKeXueYuan](https://github.com/xiangsongtao/JiKeXueYuan)
  
 ### Node
  - [`github` http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
@@ -31,4 +32,3 @@
 ### HTTPS 证书配置及申请
  - [`Let’s Encrypt` Let’s Encrypt is a free, automated, and open Certificate Authority.](https://letsencrypt.org/)
  - [acme.sh](https://github.com/Neilpang/acme.sh)
- - [`极客学院Web大前端自学课程` JiKeXueYuan](https://github.com/xiangsongtao/JiKeXueYuan)
