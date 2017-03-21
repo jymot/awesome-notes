@@ -70,6 +70,7 @@
  - [Android逆向之旅---解析编译之后的AndroidManifest文件格式](http://blog.csdn.net/jiangwei0910410003/article/details/50568487)
  - [Android逆向之旅---解析编译之后的Resource.arsc文件格式](http://blog.csdn.net/jiangwei0910410003/article/details/50628894)
  - [Android逆向之旅---解析编译之后的Dex文件格式](http://blog.csdn.net/jiangwei0910410003/article/details/50668549)
+ - [PiracyChecker](https://github.com/javiersantos/PiracyChecker)
 
 ### Android 性能优化
  - [`Jake Wharton` 探索 Java 隐藏的开销](https://realm.io/cn/news/360andev-jake-wharton-java-hidden-costs-android/)
