@@ -20,3 +20,4 @@
 
 ### Deep LEarning
  - [`PArallel Distributed Deep LEarning` Paddle](https://github.com/PaddlePaddle/Paddle)
+ - [AndroidTensorFlowMNISTExample](https://github.com/MindorksOpenSource/AndroidTensorFlowMNISTExample)
