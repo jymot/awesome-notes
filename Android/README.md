@@ -170,3 +170,4 @@
   - [android-tips-tricks-cn `Android开发技巧`](https://github.com/cctanfujun/android-tips-tricks-cn)
   - [android-tips-tricks `Android开发技巧`](https://github.com/nisrulz/android-tips-tricks)
   - [2017年伊始，你需要尝试的25个Android第三方库](http://blog.csdn.net/crazy1235/article/details/55805071)
+  - [android-tips-tricks](https://github.com/nisrulz/android-tips-tricks)
