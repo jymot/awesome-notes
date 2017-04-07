@@ -7,6 +7,7 @@
  - [Dali 基于RenderScript 实现的模糊效果](https://github.com/patrickfav/Dali)
  - [AndroidNote](https://github.com/GcsSloop/AndroidNote)
  - [`animation` ExpectAnim](https://github.com/florent37/ExpectAnim)
+ - [Grav - Configurable animations based on points](https://github.com/glomadrian/Grav)
 
 ### Android 插件化,动态加载以及Dex相关
  - [`alibaba` atlas `A powerful Android Dynamic Component Framework.`](https://github.com/alibaba/atlas)
