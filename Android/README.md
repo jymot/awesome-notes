@@ -172,3 +172,9 @@
   - [android-tips-tricks `Android开发技巧`](https://github.com/nisrulz/android-tips-tricks)
   - [2017年伊始，你需要尝试的25个Android第三方库](http://blog.csdn.net/crazy1235/article/details/55805071)
   - [android-tips-tricks](https://github.com/nisrulz/android-tips-tricks)
+  
+### Build
+  - [walle `meituan v2 signing`](https://github.com/Meituan-Dianping/walle)
+  - [ApkMultiChannelPlugin `studio plugin`](https://github.com/nukc/ApkMultiChannelPlugin)
+  - [packer-ng-plugin `use v1 signing`](https://github.com/mcxiaoke/packer-ng-plugin)
+  - [MultiChannelPackageTool](https://github.com/seven456/MultiChannelPackageTool)
