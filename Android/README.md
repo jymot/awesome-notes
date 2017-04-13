@@ -3,6 +3,9 @@
   - [android-security-awesome](https://github.com/ashishb/android-security-awesome)
   - [AndroidInterview](https://github.com/helen-x/AndroidInterview)
 
+### Android Utils
+ - [android-job](https://github.com/evernote/android-job)
+
 ### Android UI
  - [Dali 基于RenderScript 实现的模糊效果](https://github.com/patrickfav/Dali)
  - [AndroidNote](https://github.com/GcsSloop/AndroidNote)
