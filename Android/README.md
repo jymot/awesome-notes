@@ -178,5 +178,6 @@
   
 ### Build
   - [ApkMultiChannelPlugin `studio plugin`](https://github.com/nukc/ApkMultiChannelPlugin)
+  - [walle `meituan v2 signing`](https://github.com/Meituan-Dianping/walle)
   - [packer-ng-plugin `use v1 signing`](https://github.com/mcxiaoke/packer-ng-plugin)
   - [MultiChannelPackageTool](https://github.com/seven456/MultiChannelPackageTool)
