@@ -4,7 +4,7 @@
   - [AndroidInterview](https://github.com/helen-x/AndroidInterview)
 
 ### Android Utils
- - [android-job Android library to handle jobs in the background](https://github.com/evernote/android-job)
+ - [android-job `Android library to handle jobs in the background`](https://github.com/evernote/android-job)
 
 ### Android UI
  - [Dali 基于RenderScript 实现的模糊效果](https://github.com/patrickfav/Dali)
