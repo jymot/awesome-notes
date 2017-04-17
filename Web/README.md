@@ -26,6 +26,7 @@
  - [vue-element](https://github.com/karol-f/vue-element)
  - [element `Vue2.0 UI Toolkit`](https://github.com/ElemeFE/element)
  - [OnsenUI `Vue2.0 UI`](https://github.com/OnsenUI/OnsenUI)
+ - [vux `Vue UI Components based on WeUI`](https://github.com/airyland/vux)
 
 ### React
  - [react-toolbox](https://github.com/react-toolbox/react-toolbox/)
