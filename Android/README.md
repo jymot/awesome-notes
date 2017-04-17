@@ -4,7 +4,7 @@
   - [AndroidInterview](https://github.com/helen-x/AndroidInterview)
 
 ### Android Utils
- - [android-job](https://github.com/evernote/android-job)
+ - [android-job Android library to handle jobs in the background](https://github.com/evernote/android-job)
 
 ### Android UI
  - [Dali 基于RenderScript 实现的模糊效果](https://github.com/patrickfav/Dali)
@@ -177,7 +177,6 @@
   - [android-tips-tricks](https://github.com/nisrulz/android-tips-tricks)
   
 ### Build
-  - [walle `meituan v2 signing`](https://github.com/Meituan-Dianping/walle)
   - [ApkMultiChannelPlugin `studio plugin`](https://github.com/nukc/ApkMultiChannelPlugin)
   - [packer-ng-plugin `use v1 signing`](https://github.com/mcxiaoke/packer-ng-plugin)
   - [MultiChannelPackageTool](https://github.com/seven456/MultiChannelPackageTool)
