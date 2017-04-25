@@ -9,6 +9,7 @@
  - [store `Cross-browser storage for all use cases • Used across the web • See below for v2.0 news`](https://github.com/marcuswestin/store.js)
  - [`极客学院Web大前端自学课程` JiKeXueYuan](https://github.com/xiangsongtao/JiKeXueYuan)
  - [marksheet `Free tutorial to learn HTML and CSS`](https://github.com/jgthms/marksheet)
+ - [crypto-js `CryptoJS is a growing collection of standard and secure cryptographic algorithms implemented in JavaScript using best practices and patterns`](https://code.google.com/p/crypto-js/)
  
 ### Node
  - [`github` http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
