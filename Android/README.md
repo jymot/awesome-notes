@@ -2,6 +2,7 @@
   - [Awesome Android](https://github.com/JStumpp/awesome-android)
   - [android-security-awesome](https://github.com/ashishb/android-security-awesome)
   - [AndroidInterview](https://github.com/helen-x/AndroidInterview)
+  - [android-gradle-dsl](https://github.com/google/android-gradle-dsl)
 
 ### Android Utils
  - [android-job `Android library to handle jobs in the background`](https://github.com/evernote/android-job)
