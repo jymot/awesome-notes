@@ -2,7 +2,6 @@
   - [Awesome Android](https://github.com/JStumpp/awesome-android)
   - [android-security-awesome](https://github.com/ashishb/android-security-awesome)
   - [AndroidInterview](https://github.com/helen-x/AndroidInterview)
-  - [android-gradle-dsl](https://github.com/google/android-gradle-dsl)
 
 ### Android Utils
  - [android-job `Android library to handle jobs in the background`](https://github.com/evernote/android-job)
@@ -125,6 +124,7 @@
  - [蓝牙4.0相关](https://github.com/devunwired/accessory-samples)
 
 ### Gradle
+ - [android-gradle-dsl](https://github.com/google/android-gradle-dsl)
  - [Gradle for Android](https://segmentfault.com/a/1190000004229002)
  - [谷歌Gradle官方文档](http://google.github.io/android-gradle-dsl/current/)
  - [Android Gradle 构建系统·初探](https://mp.weixin.qq.com/s?__biz=MzIzNTA3MjQwNw==&mid=2650672318&idx=1&sn=74fb2afc4e409be3014ea83aa623a792&scene=2&srcid=0814iBs3jyLcRldTGb3oqFIT&from=timeline&isappinstalled=0&uin=MTY4NDEwODc2Mg%3D%3D&key=cf237d7ae24775e8ab813a673c218977220f758d689261e1700639f2be2698a142186e9c68a3727f6e55683cee9ee94e&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.6+build(15G31)&version=12000006&lang=zh_CN&nettype=WIFI&fontScale=100&pass_ticket=95LpBT0hMvr3CsOzDCiFvaRxltvzQUdRKYWgyVX2qwUNRC1PW%2Bmf8ebbmyh6bwrH)
@@ -178,6 +178,7 @@
   - [2017年伊始，你需要尝试的25个Android第三方库](http://blog.csdn.net/crazy1235/article/details/55805071)
   - [android-tips-tricks](https://github.com/nisrulz/android-tips-tricks)
   - [debugkit `Ever hid debug functions in your UI? Here is now a clean way to do it!`](https://github.com/hulab/debugkit)
+  - [hugo `github`](https://github.com/JakeWharton/hugo)
   
 ### Build
   - [ApkMultiChannelPlugin `studio plugin`](https://github.com/nukc/ApkMultiChannelPlugin)
