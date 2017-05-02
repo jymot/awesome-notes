@@ -5,6 +5,7 @@
  - [FreeCodeCamp `The https://freeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.`](https://github.com/FreeCodeCamp/FreeCodeCamp)
  - [贝塞尔曲线教学](https://pomax.github.io/bezierinfo/zh-CN/)
  - [thumbor `thumbor is an open-source photo thumbnail service by globo.com`](https://github.com/thumbor/thumbor)
+ - [libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo)
 
 ### [Android](https://github.com/motcwang/awesome-notes/blob/master/Android/README.md)
  - Android UI
