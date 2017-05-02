@@ -2,7 +2,8 @@
   - [Awesome Android](https://github.com/JStumpp/awesome-android)
   - [android-security-awesome](https://github.com/ashishb/android-security-awesome)
   - [AndroidInterview](https://github.com/helen-x/AndroidInterview)
-
+  - [zxing](https://github.com/zxing/zxing)
+  
 ### Android Utils
  - [android-job `Android library to handle jobs in the background`](https://github.com/evernote/android-job)
 
