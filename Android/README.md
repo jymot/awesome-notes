@@ -3,6 +3,7 @@
   - [android-security-awesome](https://github.com/ashishb/android-security-awesome)
   - [AndroidInterview](https://github.com/helen-x/AndroidInterview)
   - [zxing](https://github.com/zxing/zxing)
+  - [retropiler `Java8 Standard Library for Android, API version >= 15`](https://github.com/retropiler/retropiler)
 
 ### Image
  - [fresco `facebook`](https://github.com/facebook/fresco)
