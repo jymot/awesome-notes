@@ -17,6 +17,7 @@
  - [`animation` ExpectAnim](https://github.com/florent37/ExpectAnim)
  - [Grav - Configurable animations based on points](https://github.com/glomadrian/Grav)
  - [FloatingText](https://github.com/UFreedom/FloatingText)
+ - [CarouselPicker `A Carousel picker library for android which supports both text and icons .`](https://github.com/GoodieBag/CarouselPicker)
 
 ### Android 插件化,动态加载以及Dex相关
  - [`alibaba` atlas `A powerful Android Dynamic Component Framework.`](https://github.com/alibaba/atlas)
@@ -184,6 +185,7 @@
   - [android-tips-tricks](https://github.com/nisrulz/android-tips-tricks)
   - [debugkit `Ever hid debug functions in your UI? Here is now a clean way to do it!`](https://github.com/hulab/debugkit)
   - [hugo `github`](https://github.com/JakeWharton/hugo)
+  - [Android SO文件的兼容和适配](http://blog.coderclock.com/2017/05/07/android/Android-so-files-compatibility-and-adaptation/)
   
 ### Build
   - [ApkMultiChannelPlugin `studio plugin`](https://github.com/nukc/ApkMultiChannelPlugin)
