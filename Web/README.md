@@ -17,6 +17,7 @@
  - [shell-task](https://github.com/yyx990803/shell-task)
  - [node-optimist `参数获取`](https://github.com/substack/node-optimist)
  - [Node.js 命令行程序开发教程](http://www.ruanyifeng.com/blog/2015/05/command-line-with-node.html)
+ - [Learn-Node](https://github.com/wesbos/Learn-Node)
  
 ### Vue
  - [awesome-vue](https://github.com/vuejs/awesome-vue)
