@@ -7,6 +7,7 @@
  - [thumbor `thumbor is an open-source photo thumbnail service by globo.com`](https://github.com/thumbor/thumbor)
  - [libjpeg-turbo `图片压缩`](https://github.com/libjpeg-turbo/libjpeg-turbo)
  - [pngquant `图片压缩`](https://github.com/pornel/pngquant)
+ - [GUI 应用程序架构的十年变迁：MVC、MVP、MVVM、Unidirectional、Clean](https://zhuanlan.zhihu.com/p/26799645)
 
 ### [Android](https://github.com/motcwang/awesome-notes/blob/master/Android/README.md)
  - Android UI
