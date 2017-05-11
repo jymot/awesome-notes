@@ -9,7 +9,7 @@
  - [pngquant `图片压缩`](https://github.com/pornel/pngquant)
  - [GUI 应用程序架构的十年变迁：MVC、MVP、MVVM、Unidirectional、Clean](https://zhuanlan.zhihu.com/p/26799645)
 
-## Archived
+## Archive
 ### [Android](https://github.com/motcwang/awesome-notes/blob/master/Android/README.md)
 ### [网络编程](https://github.com/motcwang/awesome-notes/blob/master/Net/README.md)
 ### [Cross Platform](https://github.com/motcwang/awesome-notes/blob/master/Cross%20Platform/README.md)
