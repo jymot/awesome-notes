@@ -45,6 +45,7 @@
  - [其实你不知道MultiDex到底有多坑](http://blog.zongwu233.com/the-touble-of-multidex)
 
 ### Android HotPatch/HotFix
+ - [Tinker：技术的初心与坚持](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286483&idx=1&sn=81dffab7f6407eff9d5742d2b483c455&chksm=8334c3d1b4434ac7e153ce214ef30ae474df0795b38a024c38a7def37c12b32eb051fdbd5865#rd)
  - [`美团` Robust](https://github.com/Meituan-Dianping/Robust)
  - [`美团` Android热更新方案Robust](http://tech.meituan.com/android_robust.html)
  - [`腾讯` Tinker](https://github.com/Tencent/tinker)
