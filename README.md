@@ -8,6 +8,7 @@
  - [libjpeg-turbo `图片压缩`](https://github.com/libjpeg-turbo/libjpeg-turbo)
  - [pngquant `图片压缩`](https://github.com/pornel/pngquant)
  - [zopfli `图片压缩`](https://github.com/google/zopfli)
+ - [UPNG.js `图片压缩`](https://github.com/photopea/UPNG.js)
  - [GUI 应用程序架构的十年变迁：MVC、MVP、MVVM、Unidirectional、Clean](https://zhuanlan.zhihu.com/p/26799645)
  - [insomnia `The most intuitive cross-platform REST API Client 😴 https://insomnia.rest`](https://github.com/getinsomnia/insomnia)
  
