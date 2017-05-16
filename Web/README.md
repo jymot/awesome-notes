@@ -13,6 +13,7 @@
 
 ### CSS
  - [postcss `Transforming styles with JS plugins`](https://github.com/postcss/postcss)
+ - [stylus `Expressive, robust, feature-rich CSS language built for nodejs`](https://github.com/stylus/stylus/)
 
 ### Node
  - [`github` http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
