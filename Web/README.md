@@ -11,6 +11,7 @@
  - [marksheet `Free tutorial to learn HTML and CSS`](https://github.com/jgthms/marksheet)
  - [crypto-js `CryptoJS is a growing collection of standard and secure cryptographic algorithms implemented in JavaScript using best practices and patterns`](https://code.google.com/p/crypto-js/)
  - [UPNG.js `图片压缩`](https://github.com/photopea/UPNG.js)
+ - [rax](https://github.com/alibaba/rax)
 
 ### CSS
  - [postcss `Transforming styles with JS plugins`](https://github.com/postcss/postcss)
