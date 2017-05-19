@@ -2,6 +2,7 @@
 
  - [awesome-weex](https://github.com/joggerplus/awesome-weex)
  - [weex](http://alibaba.github.io/weex/)
+ - [weex_js_engine](https://github.com/alibaba/weex_js_engine)
  - [深入源码探索 React Native 通信机制](https://segmentfault.com/a/1190000004586390)
  - [React Native首屏白屏优化](https://segmentfault.com/a/1190000004743424)
  - [React Native专题系列文章更新ing(涉及基础,组件,进阶以及开源项目)](http://www.lcode.org/react-native/)
