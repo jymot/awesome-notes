@@ -12,6 +12,7 @@
  - [GUI 应用程序架构的十年变迁：MVC、MVP、MVVM、Unidirectional、Clean](https://zhuanlan.zhihu.com/p/26799645)
  - [insomnia `The most intuitive cross-platform REST API Client 😴 https://insomnia.rest`](https://github.com/getinsomnia/insomnia)
  - [pix2code `Generating Code from a Graphical User Interface Screenshot`](https://github.com/tonybeltramelli/pix2code)
+ - [开源的漂亮图标集合](https://feathericons.com/)
  
 ## Archive
 ### [Android](https://github.com/motcwang/awesome-notes/blob/master/Android/README.md)
