@@ -8,6 +8,7 @@
  - [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
  - [用 Git Hooks 进行自动部署](http://segmentfault.com/a/1190000003836345?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
  - [Git工作流指南：Forking工作流](http://blog.jobbole.com/76861/)
+ - [Git是怎样生成diff的：Myers算法](http://cjting.me/misc/how-git-generate-diff/)
 
 ### UI Design
  - [dribbble](https://dribbble.com/)
