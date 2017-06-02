@@ -37,6 +37,7 @@
  - [OnsenUI `Vue2.0 UI`](https://github.com/OnsenUI/OnsenUI)
  - [vux `Vue UI Components based on WeUI`](https://github.com/airyland/vux)
  - [iview `A high quality UI Toolkit built on Vue.js`](https://github.com/iview/iview)
+ - [vue-recyclerview](https://github.com/hilongjw/vue-recyclerview)
 
 ### React
  - [react-toolbox](https://github.com/react-toolbox/react-toolbox/)
