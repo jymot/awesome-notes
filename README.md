@@ -11,6 +11,7 @@
  - [UPNG.js `图片压缩`](https://github.com/photopea/UPNG.js)
  - [GUI 应用程序架构的十年变迁：MVC、MVP、MVVM、Unidirectional、Clean](https://zhuanlan.zhihu.com/p/26799645)
  - [insomnia `The most intuitive cross-platform REST API Client 😴 https://insomnia.rest`](https://github.com/getinsomnia/insomnia)
+ - [pix2code `Generating Code from a Graphical User Interface Screenshot`](https://github.com/tonybeltramelli/pix2code)
  
 ## Archive
 ### [Android](https://github.com/motcwang/awesome-notes/blob/master/Android/README.md)
