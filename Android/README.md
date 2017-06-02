@@ -19,6 +19,14 @@
  - [android-job `Android library to handle jobs in the background`](https://github.com/evernote/android-job)
 
 ### Android UI
+ - [关于RecyclerView的那些开源LayoutManager](http://blog.coderclock.com/2017/03/26/android/%E5%85%B3%E4%BA%8EAndroid%20RecyclerView%E7%9A%84%E9%82%A3%E4%BA%9B%E5%BC%80%E6%BA%90LayoutManager/)
+ - [`RecyclerView LayoutManager` FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager)
+ - [`RecyclerView LayoutManager` CarouselLayoutManager](https://github.com/Azoft/CarouselLayoutManager)
+ - [`RecyclerView LayoutManager` LondonEyeLayoutManager](https://github.com/danylovolokh/LondonEyeLayoutManager)
+ - [`RecyclerView LayoutManager` flexbox-layout](https://github.com/google/flexbox-layout)
+ - [`RecyclerView LayoutManager` HiveLayoutManager](https://github.com/Chacojack/HiveLayoutManager)
+ - [`RecyclerView LayoutManager` ChipsLayoutManager](https://github.com/BelooS/ChipsLayoutManager)
+ - [`RecyclerView LayoutManager` vlayout](https://github.com/alibaba/vlayout)
  - [Dali 基于RenderScript 实现的模糊效果](https://github.com/patrickfav/Dali)
  - [AndroidNote](https://github.com/GcsSloop/AndroidNote)
  - [`animation` ExpectAnim](https://github.com/florent37/ExpectAnim)
