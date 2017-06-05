@@ -14,6 +14,7 @@
  - [pix2code `Generating Code from a Graphical User Interface Screenshot`](https://github.com/tonybeltramelli/pix2code)
  - [开源的漂亮图标集合](https://feathericons.com/)
  - [digital_video_introduction `A hands-on introduction to video technology: image, video, codec (av1, h264, h265) and more (ffmpeg encoding).`](https://github.com/leandromoreira/digital_video_introduction)
+ - [Lepton `Cross-platform snippet/note manager based on GitHub Gist. `](https://github.com/hackjutsu/Lepton)
  
 ## Archive
 ### [Android](https://github.com/motcwang/awesome-notes/blob/master/Android/README.md)
