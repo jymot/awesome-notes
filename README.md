@@ -15,7 +15,8 @@
  - [开源的漂亮图标集合](https://feathericons.com/)
  - [digital_video_introduction `A hands-on introduction to video technology: image, video, codec (av1, h264, h265) and more (ffmpeg encoding).`](https://github.com/leandromoreira/digital_video_introduction)
  - [Lepton `Cross-platform snippet/note manager based on GitHub Gist. `](https://github.com/hackjutsu/Lepton)
- - [opencv `Open Source Computer Vision Library 跨平台计算机视觉库`](https://github.com/opencv/opencv)
+ - [opencv `opencv` `Open Source Computer Vision Library 跨平台计算机视觉库`](https://github.com/opencv/opencv)
+ - [EasyPR `opencv` `EasyPR是一个开源的中文车牌识别系统，其目标是成为一个简单、高效、准确的非限制场景(unconstrained situation)下的车牌识别库`](https://github.com/liuruoze/EasyPR)
  
 ## Archive
 ### [Android](https://github.com/motcwang/awesome-notes/blob/master/Android/README.md)
