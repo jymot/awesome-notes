@@ -5,7 +5,7 @@
   - [androidinterview](https://www.diycode.cc/wiki/androidinterview)
   - [zxing](https://github.com/zxing/zxing)
   - [retropiler `Java8 Standard Library for Android, API version >= 15`](https://github.com/retropiler/retropiler)
-  - [android-instant-apps `google` https://developer.android.com/topic/instant-apps/index.html](https://github.com/googlesamples/android-instant-apps)
+  - [android-instant-apps `google`](https://github.com/googlesamples/android-instant-apps) [instant-apps `document`](https://developer.android.com/topic/instant-apps/index.html)
   
 ### Android System && Android Open Source Project
   - [Android 系统开篇](http://gityuan.com/android/)
