@@ -3,7 +3,6 @@
  - [`(译)` 值得前端开发者在2017学习的东西](https://zhuanlan.zhihu.com/p/24612841)
  - [awesome-docker](https://github.com/veggiemonk/awesome-docker/blob/master/README.md)
  - [进攻即是最好的防御！19个练习黑客技术的在线网站](https://jaq.alibaba.com/community/art/show?articleid=683)
- - [`awesome-webpack-cn` webpack相关文章](https://github.com/webpack-china/awesome-webpack-cn)
  - [axios Promise based HTTP client for the browser and node.js](https://github.com/mzabriskie/axios)
  - [fetch](https://github.com/github/fetch)
  - [store `Cross-browser storage for all use cases • Used across the web • See below for v2.0 news`](https://github.com/marcuswestin/store.js)
@@ -12,6 +11,10 @@
  - [crypto-js `CryptoJS is a growing collection of standard and secure cryptographic algorithms implemented in JavaScript using best practices and patterns`](https://code.google.com/p/crypto-js/)
  - [UPNG.js `图片压缩`](https://github.com/photopea/UPNG.js)
  - [rax `A universal React-compatible render engine`](https://github.com/alibaba/rax)
+
+### Webpack
+ - [docs `github`](https://github.com/webpack/docs)
+ - [`awesome-webpack-cn` webpack相关文章](https://github.com/webpack-china/awesome-webpack-cn)
 
 ### CSS
  - [postcss `Transforming styles with JS plugins`](https://github.com/postcss/postcss)
