@@ -7,6 +7,9 @@
   - [retropiler `Java8 Standard Library for Android, API version >= 15`](https://github.com/retropiler/retropiler)
   - [android-instant-apps `google`](https://github.com/googlesamples/android-instant-apps) [instant-apps `document`](https://developer.android.com/topic/instant-apps/index.html)
   
+### Google / Google Samples
+ - [cameraview `google`](https://github.com/google/cameraview)
+  
 ### Android System && Android Open Source Project
   - [Android 系统开篇](http://gityuan.com/android/)
     
