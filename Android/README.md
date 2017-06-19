@@ -211,7 +211,8 @@
 ### Camera
   - [material-camera](https://github.com/afollestad/material-camera)
   - [FlipsideCamera `google play`](https://github.com/andyb129/FlipsideCamera)
-    
+  - [CameraFilter](https://github.com/nekocode/CameraFilter)
+  
 ### Build
   - [ApkMultiChannelPlugin `studio plugin`](https://github.com/nukc/ApkMultiChannelPlugin)
   - [walle `meituan v2 signing`](https://github.com/Meituan-Dianping/walle)
