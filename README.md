@@ -17,6 +17,7 @@
  - [Lepton `Cross-platform snippet/note manager based on GitHub Gist. `](https://github.com/hackjutsu/Lepton)
  - [EasyPR `opencv` `EasyPR是一个开源的中文车牌识别系统，其目标是成为一个简单、高效、准确的非限制场景(unconstrained situation)下的车牌识别库`](https://github.com/liuruoze/EasyPR)
  - [`iOS` SDWebImage `Asynchronous image downloader with cache support as a UIImageView category`](https://github.com/rs/SDWebImage)
+ - [github/platform-samples `github`](https://github.com/github/platform-samples)
 
 ### 图片处理
  - [opencv `opencv` `Open Source Computer Vision Library 跨平台计算机视觉库`](https://github.com/opencv/opencv)
