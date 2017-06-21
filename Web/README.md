@@ -11,6 +11,7 @@
  - [crypto-js `CryptoJS is a growing collection of standard and secure cryptographic algorithms implemented in JavaScript using best practices and patterns`](https://code.google.com/p/crypto-js/)
  - [UPNG.js `图片压缩`](https://github.com/photopea/UPNG.js)
  - [rax `A universal React-compatible render engine`](https://github.com/alibaba/rax)
+ - [timeago `timeago.js is a tiny(~2.0kb) library used to format date with `*** time ago` statement. eg: '3 hours ago'. No dependency & localization & tiny`](https://github.com/hustcc/timeago.js)
 
 ### Webpack
  - [docs `github`](https://github.com/webpack/docs)
