@@ -6,24 +6,25 @@
   - [zxing](https://github.com/zxing/zxing)
   - [retropiler `Java8 Standard Library for Android, API version >= 15`](https://github.com/retropiler/retropiler)
   - [android-instant-apps `google`](https://github.com/googlesamples/android-instant-apps) [instant-apps `document`](https://developer.android.com/topic/instant-apps/index.html)
-  
+
 ### Google / Google Samples
  - [cameraview `google`](https://github.com/google/cameraview)
-  
+
 ### Android System && Android Open Source Project
   - [Android 系统开篇](http://gityuan.com/android/)
-    
+
 ### Kotlin
 
 ### Image/压缩
  - [fresco `facebook`](https://github.com/facebook/fresco)
  - [picasso `square`](https://github.com/square/picasso)
  - [zopfli `Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.`](https://github.com/google/zopfli)
- 
+
 ### Android Utils
  - [android-job `Android library to handle jobs in the background`](https://github.com/evernote/android-job)
 
 ### Android UI
+ - [`alibaba` tangram-android `Tangram is a modular UI solution for building native page dynamically including Tangram for Android, Tangram for iOS and even backend CMS. This project provides the sdk on Android`](https://github.com/alibaba/tangram-android)
  - [关于RecyclerView的那些开源LayoutManager](http://blog.coderclock.com/2017/03/26/android/%E5%85%B3%E4%BA%8EAndroid%20RecyclerView%E7%9A%84%E9%82%A3%E4%BA%9B%E5%BC%80%E6%BA%90LayoutManager/)
  - [`RecyclerView LayoutManager` FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager)
  - [`RecyclerView LayoutManager` CarouselLayoutManager](https://github.com/Azoft/CarouselLayoutManager)
@@ -196,7 +197,7 @@
  - [commonsware.com](http://commonsware.com/blog/archive.html)
  - [http://android.amberfog.com/](http://android.amberfog.com/)
  - [anddev](http://www.anddev.org/)
- 
+
 ### Other
   - [Android 开源交流](https://github.com/aosp-exchange-group/share)
   - [Awesome ADB](https://github.com/mzlogin/awesome-adb)
@@ -213,7 +214,7 @@
   - [material-camera](https://github.com/afollestad/material-camera)
   - [FlipsideCamera `google play`](https://github.com/andyb129/FlipsideCamera)
   - [CameraFilter](https://github.com/nekocode/CameraFilter)
-  
+
 ### Build
   - [ApkMultiChannelPlugin `studio plugin`](https://github.com/nukc/ApkMultiChannelPlugin)
   - [walle `meituan v2 signing`](https://github.com/Meituan-Dianping/walle)
