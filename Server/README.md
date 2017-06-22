@@ -1,4 +1,4 @@
-# Web
+# Server
 
 ### Framework
  - [beauty_ssm `优雅的SSM（Spring+SpringMVC+Mybatis）框架`](https://github.com/wosyingjun/beauty_ssm)
