@@ -1,0 +1,27 @@
+if ("transfer.bankcard".equalsIgnoreCase(anchor)){
+					anchor = "credit_loans.Main";
+			}
+
+			if ("credit.guide".equalsIgnoreCase(anchor)){
+					anchor = "virtual_credit_card.Main";
+			}
+
+
+			loadUrl("http://192.168.199.208:8008/index-android.html#" + anchor);
+//        //load remote http://localhost:63346/webapp/index-android.html?_ijt=aiaam3kehi3kkc6hhrm3vqm4ca
+//        if (PropertiesUtils.getLoadSenchaFlag()){
+//            loadUrl(PropertiesUtils.getSenchaUrl().concat("/webapp/index-android.html#").concat(anchor));
+//        } else {
+//            //load url
+//            loadUrl(WebConfig.getInstance().getLoadUrl(anchor));
+//        }
+
+
+
+com/lakala/android/cordova/cordovaplugin/Session.java
+boolean getUser method() ->
+
+            String loginmane = user.getLoginName();
+            String key = "CoreUserId" + loginmane;
+            String coreId = LklPreferences.getInstance().getString(key, "");
+            userObj.put("CoreUserId", coreId);
