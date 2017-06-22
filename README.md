@@ -23,10 +23,11 @@
  - [opencv `opencv` `Open Source Computer Vision Library 跨平台计算机视觉库`](https://github.com/opencv/opencv)
  - [`iOS` `GPU` GPUImage](https://github.com/BradLarson/GPUImage)
  - [`Android` `GPU` GPUImage](https://github.com/CyberAgent/android-gpuimage)
- 
+
 ## Archive
 ### [Android](https://github.com/motcwang/awesome-notes/blob/master/Android/README.md)
 ### [网络编程](https://github.com/motcwang/awesome-notes/blob/master/Net/README.md)
 ### [Cross Platform](https://github.com/motcwang/awesome-notes/blob/master/Cross%20Platform/README.md)
 ### [Web](https://github.com/motcwang/awesome-notes/blob/master/Web/README.md)
+### [Server](https://github.com/motcwang/awesome-notes/blob/master/Server/README.md)
 ### [Other](https://github.com/motcwang/awesome-notes/blob/master/Other/README.md)
