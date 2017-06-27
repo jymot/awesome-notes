@@ -13,6 +13,9 @@
  - [rax `A universal React-compatible render engine`](https://github.com/alibaba/rax)
  - [timeago `timeago.js is a tiny(~2.0kb) library used to format date with `*** time ago` statement. eg: '3 hours ago'. No dependency & localization & tiny`](https://github.com/hustcc/timeago.js)
 
+### Framework
+ - [flux `Application Architecture for Building User Interfaces `](https://github.com/facebook/flux)
+
 ### Webpack
  - [docs `github`](https://github.com/webpack/docs)
  - [`awesome-webpack-cn` webpack相关文章](https://github.com/webpack-china/awesome-webpack-cn)
