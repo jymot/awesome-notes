@@ -222,3 +222,7 @@
   - [walle `meituan v2 signing`](https://github.com/Meituan-Dianping/walle)
   - [packer-ng-plugin `use v1 signing`](https://github.com/mcxiaoke/packer-ng-plugin)
   - [MultiChannelPackageTool](https://github.com/seven456/MultiChannelPackageTool)
+  
+### Android Studio Plugin
+  - [Android Studio 翻译插件,可以将英文翻译为中文](https://github.com/Skykai521/ECTranslation)
+  - [插件整理](https://ydmmocoo.github.io/2016/06/28/Android-Studio%E6%8F%92%E4%BB%B6%E6%95%B4%E7%90%86/)
