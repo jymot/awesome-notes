@@ -44,10 +44,11 @@
  - [CarouselPicker `A Carousel picker library for android which supports both text and icons .`](https://github.com/GoodieBag/CarouselPicker)
 
 ### Android 插件化,动态加载以及Dex相关
+ - [`360` RePlugin](https://github.com/Qihoo360/RePlugin)
  - [`alibaba` atlas `A powerful Android Dynamic Component Framework.`](https://github.com/alibaba/atlas)
  - [Small](https://github.com/wequick/Small)
- - [ACDD(原名OpenAtlas)](https://github.com/bunnyblue/ACDD)
  - [`360` DroidPlugin](https://github.com/Qihoo360/DroidPlugin)
+ - [ACDD(原名OpenAtlas)](https://github.com/bunnyblue/ACDD)
  - [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk)
  - [`携程` DynamicAPK](https://github.com/CtripMobile/DynamicAPK)
  - [Fast load dex in memory](https://github.com/asLody/TurboDex)
