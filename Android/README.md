@@ -44,6 +44,7 @@
  - [CarouselPicker `A Carousel picker library for android which supports both text and icons .`](https://github.com/GoodieBag/CarouselPicker)
 
 ### Android 插件化,动态加载以及Dex相关
+ - [`didi` VirtualAPK](https://github.com/didi/VirtualAPK)
  - [`360` RePlugin](https://github.com/Qihoo360/RePlugin)
  - [`alibaba` atlas `A powerful Android Dynamic Component Framework.`](https://github.com/alibaba/atlas)
  - [Small](https://github.com/wequick/Small)
