@@ -8,6 +8,7 @@
   - [android-instant-apps `google`](https://github.com/googlesamples/android-instant-apps) [instant-apps `document`](https://developer.android.com/topic/instant-apps/index.html)
   - [TinyDancer `An android library for displaying fps from the choreographer and percentage of time with two or more frames dropped
 `](https://github.com/friendlyrobotnyc/TinyDancer)
+  - [微信Android模块化架构重构实践](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286672&idx=1&sn=4d9db00c496fcafd1d3e01d69af083f9&chksm=8334cc92b4434584e8bdb117274f41145fb49ba467ec0cd9ba5e3551a8abf92f1996bd6b147a&scene=0#rd)
   
 ### Google / Google Samples
  - [cameraview `google`](https://github.com/google/cameraview)
