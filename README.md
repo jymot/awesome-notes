@@ -24,6 +24,13 @@
  - [`iOS` `GPU` GPUImage](https://github.com/BradLarson/GPUImage)
  - [`Android` `GPU` GPUImage](https://github.com/CyberAgent/android-gpuimage)
 
+### Algorithm
+ - [位操作基础篇之位操作全面总结](http://blog.csdn.net/morewindows/article/details/7354571)
+ - [位运算简介及实用技巧（一）：基础篇](http://www.matrix67.com/blog/archives/263)
+ - [位运算简介及实用技巧（二）：进阶篇(1)](http://www.matrix67.com/blog/archives/264)
+ - [位运算简介及实用技巧（三）：进阶篇(2)](http://www.matrix67.com/blog/archives/266)
+ - [位运算简介及实用技巧（四）：实战篇](http://www.matrix67.com/blog/archives/268)
+
 ## Archive
 ### [Android](https://github.com/motcwang/awesome-notes/blob/master/Android/README.md)
 ### [iOS](https://github.com/motcwang/awesome-notes/blob/master/iOS/README.md)
