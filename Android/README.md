@@ -220,6 +220,7 @@
   - [material-camera](https://github.com/afollestad/material-camera)
   - [FlipsideCamera `google play`](https://github.com/andyb129/FlipsideCamera)
   - [CameraFilter](https://github.com/nekocode/CameraFilter)
+  - [Fotoapparat `Making Camera for Android more friendly.`](https://github.com/Fotoapparat/Fotoapparat)
 
 ### Build
   - [ApkMultiChannelPlugin `studio plugin`](https://github.com/nukc/ApkMultiChannelPlugin)
