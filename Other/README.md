@@ -19,7 +19,3 @@
  
 ### Blog
  - [`java blog` tale](https://github.com/otale/tale)
-
-### Deep LEarning
- - [`PArallel Distributed Deep LEarning` Paddle](https://github.com/PaddlePaddle/Paddle)
- - [AndroidTensorFlowMNISTExample](https://github.com/MindorksOpenSource/AndroidTensorFlowMNISTExample)
