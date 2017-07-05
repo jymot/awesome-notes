@@ -39,5 +39,5 @@
 ### [Cross Platform](https://github.com/motcwang/awesome-notes/blob/master/Cross%20Platform/README.md)
 ### [Web](https://github.com/motcwang/awesome-notes/blob/master/Web/README.md)
 ### [Server](https://github.com/motcwang/awesome-notes/blob/master/Server/README.md)
-### [Machine/Deep Leaning](https://github.com/motcwang/awesome-notes/blob/master/Other/README.md)
+### [Machine/Deep Leaning](https://github.com/motcwang/awesome-notes/blob/master/Machine%3ADeep%20Leaning/README.md)
 ### [Other](https://github.com/motcwang/awesome-notes/blob/master/Other/README.md)
