@@ -19,6 +19,8 @@
  - [`iOS` SDWebImage `Asynchronous image downloader with cache support as a UIImageView category`](https://github.com/rs/SDWebImage)
  - [github/platform-samples `github`](https://github.com/github/platform-samples)
  - [easyhosts `基于 Github 项目整合的远程 Hosts 直链，适配多种规则、终端，每 30 分钟 自动同步一次 Github 最新可用项目并提供打包下载`](https://github.com/forkgood/easyhosts)
+ - [astar `A星算法Java实现`](https://github.com/ClaymanTwinkle/astar)
+ 
 ### 图片处理
  - [opencv `opencv` `Open Source Computer Vision Library 跨平台计算机视觉库`](https://github.com/opencv/opencv)
  - [`iOS` `GPU` GPUImage](https://github.com/BradLarson/GPUImage)
