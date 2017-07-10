@@ -49,6 +49,7 @@
 
 ### React
  - [react-toolbox](https://github.com/react-toolbox/react-toolbox/)
+ - [terminal-in-react `A tiny component that renders a terminal`](https://github.com/nitin42/terminal-in-react)
 
 ### HTTPS 证书配置及申请
  - [`Let’s Encrypt` Let’s Encrypt is a free, automated, and open Certificate Authority.](https://letsencrypt.org/)
