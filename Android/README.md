@@ -19,6 +19,7 @@
 ### Kotlin
  - [kolin](http://kotlinlang.org/)
  - [Build Your First Android App in Kotlin](https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/index.html#0)
+ - [Fuel `The easiest HTTP networking library for Kotlin/Android`](https://github.com/kittinunf/Fuel)
  
 ### Image/压缩
  - [fresco `facebook`](https://github.com/facebook/fresco)
