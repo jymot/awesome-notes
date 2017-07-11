@@ -46,6 +46,7 @@
  - [vux `Vue UI Components based on WeUI`](https://github.com/airyland/vux)
  - [iview `A high quality UI Toolkit built on Vue.js`](https://github.com/iview/iview)
  - [vue-recyclerview](https://github.com/hilongjw/vue-recyclerview)
+ - [vue-manager `A panel framework based on Vue 2.0, iView and ECharts`](https://github.com/luosijie/vue-manager)
 
 ### React
  - [react-toolbox](https://github.com/react-toolbox/react-toolbox/)
