@@ -10,6 +10,7 @@
  - [Git工作流指南：Forking工作流](http://blog.jobbole.com/76861/)
  - [Git是怎样生成diff的：Myers算法](http://cjting.me/misc/how-git-generate-diff/)
  - [工作中必备 git 技能详解](http://yonghaowu.github.io/2017/06/18/TheGitYouShouldKnow/)
+ - [Git远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
 
 ### UI Design
  - [dribbble](https://dribbble.com/)
