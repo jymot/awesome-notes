@@ -47,6 +47,9 @@
  - [FloatingText](https://github.com/UFreedom/FloatingText)
  - [CarouselPicker `A Carousel picker library for android which supports both text and icons .`](https://github.com/GoodieBag/CarouselPicker)
 
+### Android Anim
+ - [Fish `灵动的红鲤鱼`](https://github.com/Jichensheng/Fish)
+
 ### Android 插件化,动态加载以及Dex相关
  - [`didi` VirtualAPK](https://github.com/didi/VirtualAPK)
  - [`360` RePlugin](https://github.com/Qihoo360/RePlugin)
