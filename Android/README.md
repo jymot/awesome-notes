@@ -32,6 +32,7 @@
 
 ### Android Utils
  - [android-job `Android library to handle jobs in the background`](https://github.com/evernote/android-job)
+ - [PermissionsDispatcher `Simple annotation-based API to handle runtime permissions.`](https://github.com/hotchemi/PermissionsDispatcher)
 
 ### Android UI
  - [MPAndroidChart `A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations`](https://github.com/PhilJay/MPAndroidChart)
