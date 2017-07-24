@@ -10,6 +10,9 @@
 `](https://github.com/friendlyrobotnyc/TinyDancer)
   - [微信Android模块化架构重构实践](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286672&idx=1&sn=4d9db00c496fcafd1d3e01d69af083f9&chksm=8334cc92b4434584e8bdb117274f41145fb49ba467ec0cd9ba5e3551a8abf92f1996bd6b147a&scene=0#rd)
   - [screenshot-tests-for-android `screenshot-test-for-android is a library that can generate fast deterministic screenshots while running instrumentation tests in android. `](https://github.com/facebook/screenshot-tests-for-android)
+
+### Architecture
+ - [Android-CleanArchitecture `This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.`](https://github.com/android10/Android-CleanArchitecture)
   
 ### Google / Google Samples
  - [cameraview `google`](https://github.com/google/cameraview)
