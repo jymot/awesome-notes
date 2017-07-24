@@ -31,6 +31,7 @@
  - [android-job `Android library to handle jobs in the background`](https://github.com/evernote/android-job)
 
 ### Android UI
+ - [MPAndroidChart `A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations`](https://github.com/PhilJay/MPAndroidChart)
  - [SmartRefreshLayout `Android智能下拉刷新框架，支持越界回弹，集成了几十种炫酷的Header和 Footer`](https://github.com/scwang90/SmartRefreshLayout)
  - [`alibaba` tangram-android `Tangram is a modular UI solution for building native page dynamically including Tangram for Android, Tangram for iOS and even backend CMS. This project provides the sdk on Android`](https://github.com/alibaba/tangram-android)
  - [关于RecyclerView的那些开源LayoutManager](http://blog.coderclock.com/2017/03/26/android/%E5%85%B3%E4%BA%8EAndroid%20RecyclerView%E7%9A%84%E9%82%A3%E4%BA%9B%E5%BC%80%E6%BA%90LayoutManager/)
