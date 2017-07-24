@@ -50,6 +50,7 @@
  - [CarouselPicker `A Carousel picker library for android which supports both text and icons .`](https://github.com/GoodieBag/CarouselPicker)
 
 ### Android Anim
+ - [lottie-android `Render After Effects animations natively on Android and iOS`](https://github.com/airbnb/lottie-android)
  - [Fish `灵动的红鲤鱼`](https://github.com/Jichensheng/Fish)
 
 ### Android 插件化,动态加载以及Dex相关
