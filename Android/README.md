@@ -238,6 +238,7 @@
   - [FlipsideCamera `google play`](https://github.com/andyb129/FlipsideCamera)
   - [CameraFilter](https://github.com/nekocode/CameraFilter)
   - [Fotoapparat `Making Camera for Android more friendly.`](https://github.com/Fotoapparat/Fotoapparat)
+  - [CameraFragment `A simple easy-to-integrate Camera Fragment for Android`](https://github.com/florent37/CameraFragment)
 
 ### Build
   - [ApkMultiChannelPlugin `studio plugin`](https://github.com/nukc/ApkMultiChannelPlugin)
