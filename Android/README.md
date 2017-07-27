@@ -38,6 +38,7 @@
  - [PermissionsDispatcher `Simple annotation-based API to handle runtime permissions.`](https://github.com/hotchemi/PermissionsDispatcher)
 
 ### Android UI
+ - [StoriesProgressView `show horizontal progress like instagram stories.`](https://github.com/shts/StoriesProgressView)
  - [MPAndroidChart `A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations`](https://github.com/PhilJay/MPAndroidChart)
  - [SmartRefreshLayout `Android智能下拉刷新框架，支持越界回弹，集成了几十种炫酷的Header和 Footer`](https://github.com/scwang90/SmartRefreshLayout)
  - [`alibaba` tangram-android `Tangram is a modular UI solution for building native page dynamically including Tangram for Android, Tangram for iOS and even backend CMS. This project provides the sdk on Android`](https://github.com/alibaba/tangram-android)
