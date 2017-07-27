@@ -4,6 +4,7 @@
   - [AndroidInterview](https://github.com/helen-x/AndroidInterview)
   - [androidinterview](https://www.diycode.cc/wiki/androidinterview)
   - [zxing](https://github.com/zxing/zxing)
+  - [ZBar](https://github.com/ZBar/ZBar)
   - [retropiler `Java8 Standard Library for Android, API version >= 15`](https://github.com/retropiler/retropiler)
   - [android-instant-apps `google`](https://github.com/googlesamples/android-instant-apps) [instant-apps `document`](https://developer.android.com/topic/instant-apps/index.html)
   - [TinyDancer `An android library for displaying fps from the choreographer and percentage of time with two or more frames dropped
