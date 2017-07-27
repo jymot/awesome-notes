@@ -55,6 +55,7 @@
  - [Grav - Configurable animations based on points](https://github.com/glomadrian/Grav)
  - [FloatingText](https://github.com/UFreedom/FloatingText)
  - [CarouselPicker `A Carousel picker library for android which supports both text and icons .`](https://github.com/GoodieBag/CarouselPicker)
+ - [PhotoView `Implementation of ImageView for Android that supports zooming, by various touch gestures.`](https://github.com/chrisbanes/PhotoView)
 
 ### Android Anim
  - [Material-Animations `Android Transition animations explanation with examples.`](https://github.com/lgvalle/Material-Animations)
