@@ -1,6 +1,7 @@
 # Java
 
  - [`google` auto `A collection of source code generators for Java.`](https://github.com/google/auto)
+ - [`square` javapoet `A Java API for generating .java source files.`](https://github.com/square/javapoet)
 
 ### Library
  - [`google` guava](https://github.com/google/guava)
