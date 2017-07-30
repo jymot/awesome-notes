@@ -18,5 +18,9 @@
  - [capptivate.co](http://capptivate.co/)
  - [Ant Design](https://ant.design/index-cn)
  
+### 二维码
+ - [zxing](https://github.com/zxing/zxing)
+ - [ZBar](https://github.com/ZBar/ZBar)
+
 ### Blog
  - [`java blog` tale](https://github.com/otale/tale)
