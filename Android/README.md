@@ -60,6 +60,7 @@
  - [Material-Animations `Android Transition animations explanation with examples.`](https://github.com/lgvalle/Material-Animations)
  - [lottie-android `Render After Effects animations natively on Android and iOS`](https://github.com/airbnb/lottie-android)
  - [Fish `灵动的红鲤鱼`](https://github.com/Jichensheng/Fish)
+ - [`facebook` rebound `A Java library that models spring dynamics and adds real world physics to your app.`](https://github.com/facebook/rebound)
 
 ### Android 插件化,动态加载以及Dex相关
  - [`didi` VirtualAPK](https://github.com/didi/VirtualAPK)
