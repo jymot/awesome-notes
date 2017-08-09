@@ -24,3 +24,4 @@
 
 ### Blog
  - [`java blog` tale](https://github.com/otale/tale)
+ - [gitalk `Gitalk is a modern comment component based on Github Issue and Preact`](https://github.com/gitalk/gitalk)
