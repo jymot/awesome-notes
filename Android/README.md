@@ -11,6 +11,11 @@
   - [screenshot-tests-for-android `screenshot-test-for-android is a library that can generate fast deterministic screenshots while running instrumentation tests in android. `](https://github.com/facebook/screenshot-tests-for-android)
   - [`APK` MusicDNA `A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music.`](https://github.com/harjot-oberai/MusicDNA)
 
+### 精选
+  - [100篇精选干货，感谢你与码个蛋共同成长](https://mp.weixin.qq.com/s?utm_medium=email&__biz=MzIwMzYwMTk1NA%3D%3D&idx=1&mid=2247486370&sn=1d922d8f375cdcec20bd31cbc2f0e418&chksm=96cdaaefa1ba23f90bc4975fa9dc22a30f7b5c343b3a0924bfcabe11df96e5955ccb08191ecf&utm_source=gank.io##)
+  - [一大波Android技术干货！](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247484939&idx=1&sn=d1871b09de55ca681da6ec2432a63ee1&chksm=96cda746a1ba2e501605dbb64b32f82b2cb44ad9c6f9ba2308a9321231b2782e6ba679ef31a6&scene=21#wechat_redirect)
+  - [巧用Android多进程](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247485002&idx=1&sn=e07f1949362946ee545079259b6b9014&chksm=96cda707a1ba2e11da927e18c0500bcc9231a82e401069f06048f68b09392c3f332e7893f9a5&scene=21#wechat_redirect)
+
 ### Architecture
  - [Android-CleanArchitecture `This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.`](https://github.com/android10/Android-CleanArchitecture)
   
