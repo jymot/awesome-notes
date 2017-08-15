@@ -7,12 +7,13 @@
   - [android-instant-apps `google`](https://github.com/googlesamples/android-instant-apps) [instant-apps `document`](https://developer.android.com/topic/instant-apps/index.html)
   - [TinyDancer `An android library for displaying fps from the choreographer and percentage of time with two or more frames dropped
 `](https://github.com/friendlyrobotnyc/TinyDancer)
-  - [微信Android模块化架构重构实践](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286672&idx=1&sn=4d9db00c496fcafd1d3e01d69af083f9&chksm=8334cc92b4434584e8bdb117274f41145fb49ba467ec0cd9ba5e3551a8abf92f1996bd6b147a&scene=0#rd)
+  
   - [screenshot-tests-for-android `screenshot-test-for-android is a library that can generate fast deterministic screenshots while running instrumentation tests in android. `](https://github.com/facebook/screenshot-tests-for-android)
   - [`APK` MusicDNA `A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music.`](https://github.com/harjot-oberai/MusicDNA)
   - [material_design_zh `Material Design 中文协同翻译 `](https://github.com/1sters/material_design_zh)
 
 ### 精选
+  - [微信Android模块化架构重构实践](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286672&idx=1&sn=4d9db00c496fcafd1d3e01d69af083f9&chksm=8334cc92b4434584e8bdb117274f41145fb49ba467ec0cd9ba5e3551a8abf92f1996bd6b147a&scene=0#rd)
   - [100篇精选干货，感谢你与码个蛋共同成长](https://mp.weixin.qq.com/s?utm_medium=email&__biz=MzIwMzYwMTk1NA%3D%3D&idx=1&mid=2247486370&sn=1d922d8f375cdcec20bd31cbc2f0e418&chksm=96cdaaefa1ba23f90bc4975fa9dc22a30f7b5c343b3a0924bfcabe11df96e5955ccb08191ecf&utm_source=gank.io##)
   - [一大波Android技术干货！](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247484939&idx=1&sn=d1871b09de55ca681da6ec2432a63ee1&chksm=96cda746a1ba2e501605dbb64b32f82b2cb44ad9c6f9ba2308a9321231b2782e6ba679ef31a6&scene=21#wechat_redirect)
   - [巧用Android多进程](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247485002&idx=1&sn=e07f1949362946ee545079259b6b9014&chksm=96cda707a1ba2e11da927e18c0500bcc9231a82e401069f06048f68b09392c3f332e7893f9a5&scene=21#wechat_redirect)
