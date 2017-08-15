@@ -25,6 +25,7 @@
  - [bitrise `持续集成`](https://www.bitrise.io/)
  - [`Tencent` VasSonic `VasSonic is a lightweight and high-performance Hybrid framework developed by tencent VAS team, which is intended to speed up the first screen of websites working on Android and iOS platform.`](https://github.com/Tencent/VasSonic)
  - [learn-regex](https://github.com/zeeshanu/learn-regex)
+ - [freemarker `Java模版引擎`](https://github.com/apache/incubator-freemarker)
  
 ### 图片处理
  - [opencv `opencv` `Open Source Computer Vision Library 跨平台计算机视觉库`](https://github.com/opencv/opencv)
