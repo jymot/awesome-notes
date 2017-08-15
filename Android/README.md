@@ -43,6 +43,8 @@
 ### Android Utils
  - [android-job `Android library to handle jobs in the background`](https://github.com/evernote/android-job)
  - [PermissionsDispatcher `Simple annotation-based API to handle runtime permissions.`](https://github.com/hotchemi/PermissionsDispatcher)
+ - [`Tencent` soter `A secure and quick biometric authentication standard and platform in Android held by Tencent.`](https://github.com/Tencent/soter)
+
 
 ### Android UI
  - [StoriesProgressView `show horizontal progress like instagram stories.`](https://github.com/shts/StoriesProgressView)
