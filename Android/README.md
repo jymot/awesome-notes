@@ -265,3 +265,4 @@
   - [Android Studio 翻译插件,可以将英文翻译为中文](https://github.com/Skykai521/ECTranslation)
   - [Android Studio 代码行数统计](https://plugins.jetbrains.com/plugin/4509-statistic)
   - [插件整理](https://ydmmocoo.github.io/2016/06/28/Android-Studio%E6%8F%92%E4%BB%B6%E6%95%B4%E7%90%86/)
+  - [SmartQQ4IntelliJ](https://github.com/Jamling/SmartQQ4IntelliJ)
