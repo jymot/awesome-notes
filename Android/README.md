@@ -35,6 +35,7 @@
  - [Fuel `The easiest HTTP networking library for Kotlin/Android`](https://github.com/kittinunf/Fuel)
  - [kolin `cn`](https://www.kotlincn.net/)
  - [anko `Pleasant Android application development`](https://github.com/Kotlin/anko)
+ - [Eyepetizer-in-Kotlin `App`](https://github.com/LRH1993/Eyepetizer-in-Kotlin)
  
 ### Image/压缩
  - [fresco `facebook`](https://github.com/facebook/fresco)
