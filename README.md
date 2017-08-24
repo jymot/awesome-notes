@@ -25,7 +25,7 @@
  - [bitrise `持续集成`](https://www.bitrise.io/)
  - [learn-regex](https://github.com/zeeshanu/learn-regex)
  - [freemarker `Java模版引擎`](https://github.com/apache/incubator-freemarker)
- 
+ - [可能是让你受益匪浅的英语进阶指南](https://github.com/byoungd/english-level-up-tips-for-Chinese)
 ### 图片处理
  - [opencv `opencv` `Open Source Computer Vision Library 跨平台计算机视觉库`](https://github.com/opencv/opencv)
  - [`iOS` `GPU` GPUImage](https://github.com/BradLarson/GPUImage)
