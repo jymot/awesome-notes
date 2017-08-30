@@ -27,6 +27,7 @@
  - [`google` cameraview](https://github.com/google/cameraview)
  - [`googlesamples` android-topeka `A fun to play quiz that showcases material design on Android`](https://github.com/googlesamples/android-topeka)
  - [`googlesamples` android-architecture-components `Samples for Android Architecture Components`](https://github.com/googlesamples/android-architecture-components)
+ - [`google` dagger2](https://github.com/google/dagger)
 
 ### Android System && Android Open Source Project
   - [Android 系统开篇](http://gityuan.com/android/)
