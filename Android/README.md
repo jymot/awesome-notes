@@ -18,7 +18,8 @@
   - [巧用Android多进程](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247485002&idx=1&sn=e07f1949362946ee545079259b6b9014&chksm=96cda707a1ba2e11da927e18c0500bcc9231a82e401069f06048f68b09392c3f332e7893f9a5&scene=21#wechat_redirect)
   - [Android内存优化杂谈 `WeChat`](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=400656149&idx=1&sn=122b4f4965fafebf78ec0b4fce2ef62a&mpshare=1&scene=1&srcid=0501f6p8yRsM5qj6OBKEVY1T&key=16e063fbfd27c52cdf5c92791e0542126da55aeb373dcd13df6aa6c417ec61127af2618384b2201ffa7c918e4bbe6780b4d20d3e2ec989af4e2ec3adfda18308cac9706ac4f970ae73fb86211c44b7c2&ascene=0&uin=ODExMTkxNjU%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.12.3+build&version=12020510&nettype=WIFI&fontScale=100&pass_ticket=AxhG0QxjCX8weF512sU8ttFb%2B7z%2B8JxvShlgh7diOtM%3D)
   - [Android 增量更新](http://xiaoniaojun.cn/2017/03/10/Android-7-%E5%A2%9E%E9%87%8F%E6%9B%B4%E6%96%B0-Mac.html)
-
+  - [Google 官方推出应用开发架构指南](https://zhuanlan.zhihu.com/p/27026614)
+  
 ### Architecture
  - [Android-CleanArchitecture `This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.`](https://github.com/android10/Android-CleanArchitecture)
   
