@@ -40,6 +40,7 @@
  - [kolin `cn`](https://www.kotlincn.net/)
  - [anko `Pleasant Android application development`](https://github.com/Kotlin/anko)
  - [Eyepetizer-in-Kotlin `App`](https://github.com/LRH1993/Eyepetizer-in-Kotlin)
+ - [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)
  
 ### Image/压缩
  - [fresco `facebook`](https://github.com/facebook/fresco)
