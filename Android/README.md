@@ -19,10 +19,10 @@
   - [Android内存优化杂谈 `WeChat`](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=400656149&idx=1&sn=122b4f4965fafebf78ec0b4fce2ef62a&mpshare=1&scene=1&srcid=0501f6p8yRsM5qj6OBKEVY1T&key=16e063fbfd27c52cdf5c92791e0542126da55aeb373dcd13df6aa6c417ec61127af2618384b2201ffa7c918e4bbe6780b4d20d3e2ec989af4e2ec3adfda18308cac9706ac4f970ae73fb86211c44b7c2&ascene=0&uin=ODExMTkxNjU%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.12.3+build&version=12020510&nettype=WIFI&fontScale=100&pass_ticket=AxhG0QxjCX8weF512sU8ttFb%2B7z%2B8JxvShlgh7diOtM%3D)
   - [Android 增量更新](http://xiaoniaojun.cn/2017/03/10/Android-7-%E5%A2%9E%E9%87%8F%E6%9B%B4%E6%96%B0-Mac.html)
   - [Google 官方推出应用开发架构指南](https://zhuanlan.zhihu.com/p/27026614)
-  
+
 ### Architecture
  - [Android-CleanArchitecture `This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.`](https://github.com/android10/Android-CleanArchitecture)
-  
+
 ### Google / Google Samples
  - [iosched](https://github.com/google/iosched)
  - [`google` cameraview](https://github.com/google/cameraview)
@@ -33,15 +33,6 @@
 ### Android System && Android Open Source Project
   - [Android 系统开篇](http://gityuan.com/android/)
 
-### Kotlin
- - [kolin](http://kotlinlang.org/)
- - [Build Your First Android App in Kotlin](https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/index.html#0)
- - [Fuel `The easiest HTTP networking library for Kotlin/Android`](https://github.com/kittinunf/Fuel)
- - [kolin `cn`](https://www.kotlincn.net/)
- - [anko `Pleasant Android application development`](https://github.com/Kotlin/anko)
- - [Eyepetizer-in-Kotlin `App`](https://github.com/LRH1993/Eyepetizer-in-Kotlin)
- - [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)
- 
 ### Image/压缩
  - [fresco `facebook`](https://github.com/facebook/fresco)
  - [picasso `square`](https://github.com/square/picasso)
@@ -51,7 +42,6 @@
  - [android-job `Android library to handle jobs in the background`](https://github.com/evernote/android-job)
  - [PermissionsDispatcher `Simple annotation-based API to handle runtime permissions.`](https://github.com/hotchemi/PermissionsDispatcher)
  - [`Tencent` soter `A secure and quick biometric authentication standard and platform in Android held by Tencent.`](https://github.com/Tencent/soter)
-
 
 ### Android UI
  - [StoriesProgressView `show horizontal progress like instagram stories.`](https://github.com/shts/StoriesProgressView)
@@ -267,7 +257,7 @@
   - [walle `meituan v2 signing`](https://github.com/Meituan-Dianping/walle)
   - [packer-ng-plugin `use v1 signing`](https://github.com/mcxiaoke/packer-ng-plugin)
   - [MultiChannelPackageTool](https://github.com/seven456/MultiChannelPackageTool)
-  
+
 ### Android Studio Plugin
   - [Android Studio 翻译插件,可以将英文翻译为中文](https://github.com/Skykai521/ECTranslation)
   - [Android Studio 代码行数统计](https://plugins.jetbrains.com/plugin/4509-statistic)
