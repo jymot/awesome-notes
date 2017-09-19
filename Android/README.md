@@ -43,7 +43,8 @@
 ### Android Utils
  - [android-job `Android library to handle jobs in the background`](https://github.com/evernote/android-job)
  - [PermissionsDispatcher `Simple annotation-based API to handle runtime permissions.`](https://github.com/hotchemi/PermissionsDispatcher)
- - [`Tencent` soter `A secure and quick biometric authentication standard and platform in Android held by Tencent.`](https://github.com/Tencent/soter)
+ - [`Tencent` soter `A secure and quick biometric authentication standard and platform in Android held by Tencent.`](https://github.com/Tencent/soter
+ - [material-remixer-android `Remixer for Android. Live adjustment of app variables`](https://github.com/material-foundation/material-remixer-android)
 
 ### Android UI
  - [QMUI_Android `提高 Android UI 开发效率的 UI 库`](https://github.com/QMUI/QMUI_Android)
