@@ -23,7 +23,7 @@
  - [`facebook` graphql `GraphQL is a query language and execution engine tied to any backend service.`](https://github.com/facebook/graphql)
  - [移动视频直播 SDK、直播互动解决方案首选（API based、Live Streaming as-a-Service](https://github.com/pili-engineering)
  - [bitrise `持续集成`](https://www.bitrise.io/)
- - [learn-regex](https://github.com/zeeshanu/learn-regex)
+ - [learn-regex `正则学习`](https://github.com/zeeshanu/learn-regex)
  - [freemarker `Java模版引擎`](https://github.com/apache/incubator-freemarker)
  - [可能是让你受益匪浅的英语进阶指南](https://github.com/byoungd/english-level-up-tips-for-Chinese)
  - [`google` google-diff-match-patch](https://github.com/bystep15/google-diff-match-patch)
