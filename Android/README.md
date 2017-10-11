@@ -164,6 +164,9 @@
  - [ReactiveX](http://reactivex.io/)
  - [`Github` RxJava ](https://github.com/ReactiveX/RxJava/)
  - [`Github` RxAndroid](https://github.com/ReactiveX/RxAndroid)
+ - [`Library` RxLifecycle `Lifecycle handling APIs for Android apps using RxJava`](https://github.com/trello/RxLifecycle)
+ - [`Library` RxPermissions `Android runtime permissions powered by RxJava`](https://github.com/tbruyelle/RxPermissions)
+ - [`Library` RxBinding `RxJava binding APIs for Android's UI widgets.`](https://github.com/JakeWharton/RxBinding)
  - [Awesome RxJava](https://github.com/lzyzsd/Awesome-RxJava)
  - [`(译)` RxJava中文文档](https://github.com/mcxiaoke/RxDocs)
  - [`(译)` 在正确的线程上观察](http://www.jianshu.com/p/72911b9ba2d7)
@@ -176,6 +179,7 @@
  - [`segmentfault` 迷之RxJava(四) -- Retrofit和RxJava的基情](https://segmentfault.com/a/1190000004077117)
  - [RxJava与Retrofit结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
 
+ 
 ### agera
 - [android-agera](https://code-labs.cn/codelabs/android-agera/#0)
 - [agera](https://github.com/google/agera/wiki)
