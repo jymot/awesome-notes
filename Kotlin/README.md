@@ -12,3 +12,4 @@
 
 ### Other
  - [Eyepetizer-in-Kotlin `App`](https://github.com/LRH1993/Eyepetizer-in-Kotlin)
+ - [kotlin-sdp `Kotlin Software Design Patterns Code Examples`](https://github.com/volodymyrprokopyuk/kotlin-sdp)
