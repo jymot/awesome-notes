@@ -25,3 +25,8 @@
 ### Blog
  - [`java blog` tale](https://github.com/otale/tale)
  - [gitalk `Gitalk is a modern comment component based on Github Issue and Preact`](https://github.com/gitalk/gitalk)
+
+### 未分组
+ - [Video-Downloader `下载youku,letv,sohu,tudou,bilibili,acfun,iqiyi等网站分段视频文件，提供mac&win独立App。`](https://github.com/EvilCult/Video-Downloader)
+ - [moviecatcher `电影美剧搜索及在线观看离线下载软件，集成热门资源站，借助百度云实现离线下载以及在线播放功能。`](https://github.com/EvilCult/moviecatcher)
+ - [GUI-YouGet `GUI for you-get and youtube-dl`](https://github.com/ingbyr/GUI-YouGet)
