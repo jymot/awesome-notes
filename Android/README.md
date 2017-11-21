@@ -12,7 +12,7 @@
   - [`APK` MusicDNA `A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music.`](https://github.com/harjot-oberai/MusicDNA)
   - [Floo `An URL router supporting AOP, stack control, cross-page message, and dynamic routing.`](https://github.com/drakeet/Floo)
   - [NullAway `A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead`](https://github.com/uber/NullAway)
-   [ModularizationArchitecture `跨进程通信框架`](https://github.com/SpinyTech/ModularizationArchitecture)
+  - [ModularizationArchitecture `跨进程通信框架`](https://github.com/SpinyTech/ModularizationArchitecture)
 
 ### 精选
   - [material_design_zh `Material Design 中文协同翻译 `](https://github.com/1sters/material_design_zh)
