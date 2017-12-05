@@ -81,6 +81,7 @@
  - [`facebook` rebound `A Java library that models spring dynamics and adds real world physics to your app.`](https://github.com/facebook/rebound)
 
 ### Android 插件化,动态加载以及Dex相关
+ - [fastdex `加快 apk 的编译速度`](https://github.com/typ0520/fastdex)
  - [`didi` VirtualAPK](https://github.com/didi/VirtualAPK)
  - [`360` RePlugin](https://github.com/Qihoo360/RePlugin)
  - [`alibaba` atlas `A powerful Android Dynamic Component Framework.`](https://github.com/alibaba/atlas)
