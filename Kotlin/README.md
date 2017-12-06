@@ -9,6 +9,7 @@
 ### Library
  - [Fuel `The easiest HTTP networking library for Kotlin/Android`](https://github.com/kittinunf/Fuel)
  - [anko `Pleasant Android application development`](https://github.com/Kotlin/anko)
+ - [linker `A light weight URI routing framework for Android.`](https://github.com/twocity/linker)
 
 ### Other
  - [Eyepetizer-in-Kotlin `App`](https://github.com/LRH1993/Eyepetizer-in-Kotlin)
