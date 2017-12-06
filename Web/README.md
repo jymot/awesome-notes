@@ -54,8 +54,8 @@
 
 ### AMP
  - [AMP](https://www.ampproject.org/)
- - [amphtml](https://github.com/ampproject/amphtml)
- - [ampproject](https://github.com/ampproject)
+ - [`Github` amphtml](https://github.com/ampproject/amphtml)
+ - [`Github` ampproject](https://github.com/ampproject)
 
 ### HTTPS 证书配置及申请
  - [`Let’s Encrypt` Let’s Encrypt is a free, automated, and open Certificate Authority.](https://letsencrypt.org/)
