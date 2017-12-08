@@ -8,6 +8,9 @@
  - [spring-boot](https://github.com/spring-projects/spring-boot)
  - [jersey `github` `RESTful Web Services in Java`](https://github.com/jersey/jersey)
  
+### Spring-boot
+ - [application `Open Source application generator for creating Spring Boot + Angular projects in seconds!`](https://github.com/jhipster/generator-jhipster)
+ 
 ### Spring Demo
  - [beauty_ssm `优雅的SSM（Spring+SpringMVC+Mybatis）框架`](https://github.com/wosyingjun/beauty_ssm)
  - [beauty_ssm_cluster `对”优雅的SSM框架“进行完善（页面分离+Nginx负载均衡+Tomcat集群）`](https://github.com/wosyingjun/beauty_ssm_cluster)
