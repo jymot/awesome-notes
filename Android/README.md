@@ -254,7 +254,7 @@
   - [http://blog.csdn.net/lhd201006/article/details/50920464](http://blog.csdn.net/lhd201006/article/details/50920464)
   - [android-tips-tricks-cn `Android开发技巧`](https://github.com/cctanfujun/android-tips-tricks-cn)
   - [android-tips-tricks `Android开发技巧`](https://github.com/nisrulz/android-tips-tricks)
-  - [2017年伊始，你需要尝试的25个Android第三方库](http://blog.csdn.net/crazy1235/article/details/55805071)
+  - [`Library`2017年伊始，你需要尝试的25个Android第三方库](http://blog.csdn.net/crazy1235/article/details/55805071)
   - [android-tips-tricks](https://github.com/nisrulz/android-tips-tricks)
   - [debugkit `Ever hid debug functions in your UI? Here is now a clean way to do it!`](https://github.com/hulab/debugkit)
   - [hugo `github`](https://github.com/JakeWharton/hugo)
