@@ -54,6 +54,8 @@
 
 ### Angular
  - [angular](https://angular.cn/)
+ - [primeng `UI Components for Angular`](https://github.com/primefaces/primeng)
+ - [ng-zorro-antd `An enterprise-class UI components based on Ant Design and Angular.`](https://github.com/NG-ZORRO/ng-zorro-antd)
 
 ### AMP
  - [AMP](https://www.ampproject.org/)
