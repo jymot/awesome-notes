@@ -52,6 +52,9 @@
  - [react-toolbox](https://github.com/react-toolbox/react-toolbox/)
  - [terminal-in-react `A tiny component that renders a terminal`](https://github.com/nitin42/terminal-in-react)
 
+### Angular
+ - [angular](https://angular.cn/)
+
 ### AMP
  - [AMP](https://www.ampproject.org/)
  - [`Github` amphtml](https://github.com/ampproject/amphtml)
