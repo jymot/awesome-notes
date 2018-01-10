@@ -23,6 +23,7 @@
  - [Scrapy `An open source and collaborative framework for extracting the data you need from websites.
 
 In a fast, simple, yet extensible way.`](https://scrapy.org/)
+ - [macaca `多端自动化测试解决方案`](https://github.com/alibaba/macaca)
  
 ### 持续集成
  - [harbor `An enterprise-class container registry server based on Docker Distribution `](https://github.com/vmware/harbor)
