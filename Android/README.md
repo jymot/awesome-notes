@@ -13,6 +13,8 @@
   - [Floo `An URL router supporting AOP, stack control, cross-page message, and dynamic routing.`](https://github.com/drakeet/Floo)
   - [NullAway `A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead`](https://github.com/uber/NullAway)
   - [ModularizationArchitecture `跨进程通信框架`](https://github.com/SpinyTech/ModularizationArchitecture)
+  - [python-adb](https://github.com/google/python-adb)
+
 
 ### 精选
   - [material_design_zh `Material Design 中文协同翻译 `](https://github.com/1sters/material_design_zh)
