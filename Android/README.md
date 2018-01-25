@@ -63,6 +63,9 @@
  - [`RecyclerView LayoutManager` vlayout](https://github.com/alibaba/vlayout)
 
 ### Android UI
+ - [ShimmerRecyclerView `Facebook loading Skeleton Screen`](https://github.com/sharish/ShimmerRecyclerView)
+ - [loaderviewlibrary `Facebook loading Skeleton Screen`](https://github.com/elye/loaderviewlibrary)
+ - [ShimmerLayout `Facebook loading Skeleton Screen`](https://github.com/team-supercharge/ShimmerLayout)
  - [UniversalToast `简洁优雅可点击的toast控件，仿手机百度9.0，无BadTokenException风险`](https://github.com/bboylin/UniversalToast)
  - [QMUI_Android `提高 Android UI 开发效率的 UI 库`](https://github.com/QMUI/QMUI_Android)
  - [StoriesProgressView `show horizontal progress like instagram stories.`](https://github.com/shts/StoriesProgressView)
