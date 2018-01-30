@@ -81,6 +81,7 @@
  - [PhotoView `Implementation of ImageView for Android that supports zooming, by various touch gestures.`](https://github.com/chrisbanes/PhotoView)
  - [StatusBarUtil `A util for setting status bar style on Android App. `](https://github.com/laobie/StatusBarUtil)
  - [PswInputViewDemo](https://github.com/huage2580/PswInputViewDemo)
+ - [PhotoPicker `Image Picker like Wechat `](https://github.com/donglua/PhotoPicker)
 
 ### Android Anim
  - [Material-Animations `Android Transition animations explanation with examples.`](https://github.com/lgvalle/Material-Animations)
