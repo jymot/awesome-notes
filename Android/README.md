@@ -63,6 +63,7 @@
  - [`RecyclerView LayoutManager` vlayout](https://github.com/alibaba/vlayout)
 
 ### Android UI
+ - [picasso-transformations `An Android transformation library providing a variety of image transformations for Picasso`](https://github.com/wasabeef/picasso-transformations)
  - [ShimmerRecyclerView `Facebook loading Skeleton Screen`](https://github.com/sharish/ShimmerRecyclerView)
  - [loaderviewlibrary `Facebook loading Skeleton Screen`](https://github.com/elye/loaderviewlibrary)
  - [ShimmerLayout `Facebook loading Skeleton Screen`](https://github.com/team-supercharge/ShimmerLayout)
