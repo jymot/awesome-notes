@@ -14,7 +14,7 @@
   - [NullAway `A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead`](https://github.com/uber/NullAway)
   - [ModularizationArchitecture `跨进程通信框架`](https://github.com/SpinyTech/ModularizationArchitecture)
   - [python-adb](https://github.com/google/python-adb)
-
+  - [pidcat `Colored logcat script which only shows log entries for a specific application package.`](https://github.com/JakeWharton/pidcat)
 
 ### 精选
   - [material_design_zh `Material Design 中文协同翻译 `](https://github.com/1sters/material_design_zh)
