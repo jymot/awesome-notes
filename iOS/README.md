@@ -14,3 +14,4 @@
  - [FacesVisionDemo `iOS11`](https://github.com/cocoa-ai/FacesVisionDemo)
  - [OOMDetector `OOMDetector is a memory monitoring component for iOS which provides you with OOM monitoring, memory allocation monitoring, memory leak detection and other functions.
 `](https://github.com/Tencent/OOMDetector)
+ - [fishhook `A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.`](https://github.com/facebook/fishhook)
