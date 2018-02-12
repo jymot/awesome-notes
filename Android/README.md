@@ -278,9 +278,10 @@
   - [CameraFragment `A simple easy-to-integrate Camera Fragment for Android`](https://github.com/florent37/CameraFragment)
 
 ### Build
-  - [ApkMultiChannelPlugin `studio plugin`](https://github.com/nukc/ApkMultiChannelPlugin)
-  - [walle `meituan v2 signing`](https://github.com/Meituan-Dianping/walle)
+  - [`Tencent` VasDolly `Android V1 and V2 Signature Channel Package Plugin`](https://github.com/Tencent/VasDolly)
+  - [`Meituan` walle `meituan v2 signing`](https://github.com/Meituan-Dianping/walle)
   - [packer-ng-plugin `use v1 signing`](https://github.com/mcxiaoke/packer-ng-plugin)
+  - [ApkMultiChannelPlugin `studio plugin`](https://github.com/nukc/ApkMultiChannelPlugin)
   - [MultiChannelPackageTool](https://github.com/seven456/MultiChannelPackageTool)
 
 ### Android Studio Plugin
