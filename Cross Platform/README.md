@@ -1,5 +1,8 @@
 # Cross Platform
 
+## Flutter
+ - [flutter `Flutter makes it easy and fast to build beautiful mobile apps.`](https://github.com/flutter/flutter)
+
 ## Weex
  - [awesome-weex](https://github.com/joggerplus/awesome-weex)
  - [weex](http://alibaba.github.io/weex/)
