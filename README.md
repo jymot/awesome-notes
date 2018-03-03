@@ -24,6 +24,7 @@
 In a fast, simple, yet extensible way.`](https://scrapy.org/)
  - [macaca `多端自动化测试解决方案`](https://github.com/alibaba/macaca)
  - [Python 入门教程：【草根学 Python （基于Python3.6）】](https://github.com/TwoWater/Python)
+ - [awesome-blockchain `收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料`](https://github.com/chaozh/awesome-blockchain)
  
 ### 持续集成
  - [harbor `An enterprise-class container registry server based on Docker Distribution `](https://github.com/vmware/harbor)
