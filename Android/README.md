@@ -47,6 +47,7 @@
  - [zopfli `Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.`](https://github.com/google/zopfli)
 
 ### Android Utils
+ - [DSBridge-Android `WebView` `JS bridge`](https://github.com/wendux/DSBridge-Android)
  - [WebViewJavascriptBridge `WebView` `JS bridge`](https://github.com/wendux/WebViewJavascriptBridge)
  - [JsBridge `WebView` `JS bridge`](https://github.com/lzyzsd/JsBridge)
  - [android-job `Android library to handle jobs in the background`](https://github.com/evernote/android-job)
