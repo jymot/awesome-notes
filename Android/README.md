@@ -47,6 +47,8 @@
  - [zopfli `Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.`](https://github.com/google/zopfli)
 
 ### Android Utils
+ - [WebViewJavascriptBridge `WebView` `JS bridge`](https://github.com/wendux/WebViewJavascriptBridge)
+ - [JsBridge `WebView` `JS bridge`](https://github.com/lzyzsd/JsBridge)
  - [android-job `Android library to handle jobs in the background`](https://github.com/evernote/android-job)
  - [PermissionsDispatcher `Simple annotation-based API to handle runtime permissions.`](https://github.com/hotchemi/PermissionsDispatcher)
  - [`Tencent` soter `A secure and quick biometric authentication standard and platform in Android held by Tencent.`](https://github.com/Tencent/soter)
