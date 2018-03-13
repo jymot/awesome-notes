@@ -66,6 +66,7 @@
  - [`RecyclerView LayoutManager` vlayout](https://github.com/alibaba/vlayout)
 
 ### Android UI
+ - [MarqueeView `可垂直跑、可水平跑的跑马灯；学名：可垂直翻、可水平翻的翻页公告`](https://github.com/sfsheng0322/MarqueeView)
  - [picasso-transformations `An Android transformation library providing a variety of image transformations for Picasso`](https://github.com/wasabeef/picasso-transformations)
  - [ShimmerRecyclerView `Facebook loading Skeleton Screen`](https://github.com/sharish/ShimmerRecyclerView)
  - [loaderviewlibrary `Facebook loading Skeleton Screen`](https://github.com/elye/loaderviewlibrary)
