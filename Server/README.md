@@ -4,6 +4,7 @@
  - [API-Security-Checklist `Checklist of the most important security countermeasures when designing, testing, and releasing your API`](https://github.com/shieldfy/API-Security-Checklist)
  - [tengine `A distribution of Nginx with some advanced features http://tengine.taobao.org/`](https://github.com/alibaba/tengine)
  - [`alibaba` jarslink `模块化开发框架`](https://github.com/alibaba/jarslink)
+ - [incubator-dubbo `Dubbo is a high-performance, java based, open source RPC framework http://dubbo.io`](https://github.com/apache/incubator-dubbo)
  
 ### Framework
  - [spring-framework](https://github.com/spring-projects/spring-framework)
