@@ -48,6 +48,7 @@
  - [iview `A high quality UI Toolkit built on Vue.js`](https://github.com/iview/iview)
  - [vue-recyclerview](https://github.com/hilongjw/vue-recyclerview)
  - [vue-manager `A panel framework based on Vue 2.0, iView and ECharts`](https://github.com/luosijie/vue-manager)
+ - [`A Vue.js 2.0 Mobile UI at YouZan ` vant](https://github.com/youzan/vant)
 
 ### React
  - [react-toolbox](https://github.com/react-toolbox/react-toolbox/)
