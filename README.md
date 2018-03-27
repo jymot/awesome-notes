@@ -26,6 +26,7 @@
 In a fast, simple, yet extensible way.`](https://scrapy.org/)
  - [scrapy `Scrapy, a fast high-level web crawling & scraping framework for Python.`](https://github.com/scrapy/scrapy)
  - [awesome-blockchain `收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料`](https://github.com/chaozh/awesome-blockchain)
+ - [chinese-independent-developer `中国独立开发者项目列表 -- 分享大家都在做什么`](https://github.com/1c7/chinese-independent-developer)
  
 ### 持续集成
  - [harbor `An enterprise-class container registry server based on Docker Distribution `](https://github.com/vmware/harbor)
