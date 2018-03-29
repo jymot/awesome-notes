@@ -50,6 +50,7 @@
  - [vue-recyclerview](https://github.com/hilongjw/vue-recyclerview)
  - [vue-manager `A panel framework based on Vue 2.0, iView and ECharts`](https://github.com/luosijie/vue-manager)
  - [`A Vue.js 2.0 Mobile UI at YouZan ` vant](https://github.com/youzan/vant)
+ - [nuxt.js `Nuxt.js is a framework for server-rendered`](https://github.com/nuxt/nuxt.js)
 
 ### React
  - [react-toolbox](https://github.com/react-toolbox/react-toolbox/)
