@@ -21,6 +21,7 @@
 ### Webpack
  - [docs `github`](https://github.com/webpack/docs)
  - [`awesome-webpack-cn` webpack相关文章](https://github.com/webpack-china/awesome-webpack-cn)
+ - [prerender-spa-plugin `Prerenders static HTML in a single-page application.`](https://github.com/chrisvfritz/prerender-spa-plugin)
 
 ### CSS
  - [postcss `Transforming styles with JS plugins`](https://github.com/postcss/postcss)
