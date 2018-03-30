@@ -51,6 +51,7 @@
  - [vue-manager `A panel framework based on Vue 2.0, iView and ECharts`](https://github.com/luosijie/vue-manager)
  - [`A Vue.js 2.0 Mobile UI at YouZan ` vant](https://github.com/youzan/vant)
  - [nuxt.js `Nuxt.js is a framework for server-rendered`](https://github.com/nuxt/nuxt.js)
+ - [mint-ui `Mobile UI elements for Vue.js `](https://github.com/ElemeFE/mint-ui)
 
 ### React
  - [react-toolbox](https://github.com/react-toolbox/react-toolbox/)
