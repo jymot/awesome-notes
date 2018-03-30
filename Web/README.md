@@ -35,6 +35,7 @@
  - [Node.js 命令行程序开发教程](http://www.ruanyifeng.com/blog/2015/05/command-line-with-node.html)
  - [Learn-Node](https://github.com/wesbos/Learn-Node)
  - [pod `Git push deploy for Node.js`](https://github.com/yyx990803/pod)
+ - [pm2 `Node.js Production Process Manager with a built-in Load Balancer.`](https://github.com/Unitech/pm2)
  
 ### Vue
  - [awesome-vue](https://github.com/vuejs/awesome-vue)
