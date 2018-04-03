@@ -54,6 +54,7 @@
  - [`A Vue.js 2.0 Mobile UI at YouZan ` vant](https://github.com/youzan/vant)
  - [nuxt.js `Nuxt.js is a framework for server-rendered`](https://github.com/nuxt/nuxt.js)
  - [mint-ui `Mobile UI elements for Vue.js `](https://github.com/ElemeFE/mint-ui)
+ - [vue-waterfall `A waterfall layout component for Vue.js`](https://github.com/MopTym/vue-waterfall)
 
 ### React
  - [react-toolbox](https://github.com/react-toolbox/react-toolbox/)
