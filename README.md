@@ -21,12 +21,13 @@
  - [国内顶尖团队的开源地址](https://github.com/niezhiyang/open_source_team)
  - [lanproxy `anproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，目前仅支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面...）。目前市面上提供类似服务的有花生壳、TeamView、GoToMyCloud等等，但要使用第三方的公网服务器就必须为第三方付费，并且这些服务都有各种各样的限制，此外，由于数据包会流经第三方，因此对数据安全也是一大隐患。 https://lanproxy.thingsglobal.org`](https://github.com/ffay/lanproxy/)
  - [macaca `多端自动化测试解决方案`](https://github.com/alibaba/macaca)
- - [Python 入门教程：【草根学 Python （基于Python3.6）】](https://github.com/TwoWater/Python)
  - [Scrapy `An open source and collaborative framework for extracting the data you need from websites.
 In a fast, simple, yet extensible way.`](https://scrapy.org/)
  - [scrapy `Scrapy, a fast high-level web crawling & scraping framework for Python.`](https://github.com/scrapy/scrapy)
  - [awesome-blockchain `收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料`](https://github.com/chaozh/awesome-blockchain)
  - [chinese-independent-developer `中国独立开发者项目列表 -- 分享大家都在做什么`](https://github.com/1c7/chinese-independent-developer)
+ - [Python 入门教程：【草根学 Python （基于Python3.6）】](https://github.com/TwoWater/Python)
+ - [`Python` anaconda `The Most Popular Python Data Science Platform`](https://www.anaconda.com/)
  
 ### 持续集成
  - [harbor `An enterprise-class container registry server based on Docker Distribution `](https://github.com/vmware/harbor)
