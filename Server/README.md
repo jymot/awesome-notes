@@ -7,6 +7,7 @@
  - [incubator-dubbo `Dubbo is a high-performance, java based, open source RPC framework http://dubbo.io`](https://github.com/apache/incubator-dubbo)
  - [`Tencent` Tars `Tars is a highly performance rpc framework based on naming service using tars protocol and provides a semi-automatic operation platform.`](https://github.com/Tencent/Tars)
  - [分布式技术集锦](https://mp.weixin.qq.com/s/be1anjtbAUHJJzSsQeajXg)
+ - [`alibaba` sofa-ark `SOFA Ark is a light-weight，java based classloader isolation framework.`](https://github.com/alipay/sofa-ark)
  
 ### Framework
  - [spring-framework](https://github.com/spring-projects/spring-framework)
