@@ -28,6 +28,7 @@ In a fast, simple, yet extensible way.`](https://scrapy.org/)
  - [chinese-independent-developer `中国独立开发者项目列表 -- 分享大家都在做什么`](https://github.com/1c7/chinese-independent-developer)
  - [Python 入门教程：【草根学 Python （基于Python3.6）】](https://github.com/TwoWater/Python)
  - [`Python` anaconda `The Most Popular Python Data Science Platform`](https://www.anaconda.com/)
+ - [anaconda 镜像](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/?C=M&O=A)
  
 ### 持续集成
  - [harbor `An enterprise-class container registry server based on Docker Distribution `](https://github.com/vmware/harbor)
