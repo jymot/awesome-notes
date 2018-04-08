@@ -37,6 +37,7 @@
  - [pod `Git push deploy for Node.js`](https://github.com/yyx990803/pod)
  - [pm2 `Node.js Production Process Manager with a built-in Load Balancer.`](https://github.com/Unitech/pm2)
  - [nodemon `Nodemon is a utility that will monitor for any changes in your source and automatically restart your server. Perfect for development`](http://nodemon.io/)
+ - [npx `execute npm package binaries`](https://github.com/zkat/npx)
  
 ### Vue
  - [awesome-vue](https://github.com/vuejs/awesome-vue)
