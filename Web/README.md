@@ -59,6 +59,7 @@
  - [nuxt.js `Nuxt.js is a framework for server-rendered`](https://github.com/nuxt/nuxt.js)
  - [mint-ui `Mobile UI elements for Vue.js `](https://github.com/ElemeFE/mint-ui)
  - [vue-waterfall `A waterfall layout component for Vue.js`](https://github.com/MopTym/vue-waterfall)
+ - [vue-cookies](https://www.npmjs.com/package/vue-cookies)
 
 ### React
  - [react-toolbox](https://github.com/react-toolbox/react-toolbox/)
