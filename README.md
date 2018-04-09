@@ -29,6 +29,7 @@ In a fast, simple, yet extensible way.`](https://scrapy.org/)
  - [Python 入门教程：【草根学 Python （基于Python3.6）】](https://github.com/TwoWater/Python)
  - [`Python` anaconda `The Most Popular Python Data Science Platform`](https://www.anaconda.com/)
  - [anaconda 镜像](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/?C=M&O=A)
+ - [`Book` modern-cpp-tutorial `高速上手现代 C++ 11/14/17`](https://github.com/changkun/modern-cpp-tutorial)
  
 ### 持续集成
  - [harbor `An enterprise-class container registry server based on Docker Distribution `](https://github.com/vmware/harbor)
