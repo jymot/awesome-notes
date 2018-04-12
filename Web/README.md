@@ -60,6 +60,7 @@
  - [mint-ui `Mobile UI elements for Vue.js `](https://github.com/ElemeFE/mint-ui)
  - [vue-waterfall `A waterfall layout component for Vue.js`](https://github.com/MopTym/vue-waterfall)
  - [vue-cookies](https://www.npmjs.com/package/vue-cookies)
+ - [mand-mobile `A mobile UI toolkit, based on Vue.js 2, designed for financial scenes.`](https://github.com/didi/mand-mobile)
 
 ### React
  - [react-toolbox](https://github.com/react-toolbox/react-toolbox/)
