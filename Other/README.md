@@ -1,6 +1,6 @@
 # Other
 
-### [`Awesome API` 国内部分官方API](https://github.com/marktony/Awesome_API/blob/master/Chinese_Official.md)
+### [`Awesome API` 国内部分官方API](https://github.com/SkiaWorks/Awesome_APIs)
 ### [AndroidInterview](https://github.com/helen-x/AndroidInterview)
 ### [jstraining](https://github.com/ruanyf/jstraining)
 ### [Interview-Notebook `技术面试需要掌握的基础知识整理`](https://github.com/CyC2018/Interview-Notebook)
