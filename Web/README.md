@@ -15,6 +15,7 @@
  - [timeago `timeago.js is a tiny(~2.0kb) library used to format date with `*** time ago` statement. eg: '3 hours ago'. No dependency & localization & tiny`](https://github.com/hustcc/timeago.js)
  - [shaka-player `JavaScript player library / DASH client / MSE-EME player`](https://github.com/google/shaka-player)
  - [Font-Awesome `The iconic SVG, font, and CSS toolkit `](https://github.com/FortAwesome/Font-Awesome)
+ - [core-decorators `Library of stage-0 JavaScript decorators (aka ES2016/ES7 decorators but not accurate) inspired by languages that come with built-ins like @​override, @​deprecate, @​autobind, @​mixin and more. Popular with React/Angular, but is framework agnostic.`](https://github.com/jayphelps/core-decorators)
 
 ### Framework
  - [flux `Application Architecture for Building User Interfaces `](https://github.com/facebook/flux)
