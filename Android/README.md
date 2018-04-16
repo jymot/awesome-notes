@@ -2,6 +2,7 @@
   - [Android 系统源码在线阅读](https://www.androidos.net.cn/)
   - [2017上半年技术文章集合—184篇文章分类汇总](https://mp.weixin.qq.com/s/grssAxDKeDLHhURp0qtVPg)
   - [Awesome Android](https://github.com/JStumpp/awesome-android)
+  - [awesome-android](https://github.com/snowdream/awesome-android)
   - [android-security-awesome](https://github.com/ashishb/android-security-awesome)
   - [AndroidInterview](https://github.com/helen-x/AndroidInterview)
   - [androidinterview](https://www.diycode.cc/wiki/androidinterview)
@@ -43,6 +44,8 @@
   - [Android 系统开篇](http://gityuan.com/android/)
 
 ### Image/压缩
+ - [Compressor `An android image compression library.`](https://github.com/zetbaitsu/Compressor)
+ - [CompressHelper `压缩文件，压缩图片，压缩Bitmap，Compress, CompressImage, CompressFile, CompressBitmap`](https://github.com/nanchen2251/CompressHelper)
  - [fresco `facebook`](https://github.com/facebook/fresco)
  - [picasso `square`](https://github.com/square/picasso)
  - [zopfli `Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.`](https://github.com/google/zopfli)
