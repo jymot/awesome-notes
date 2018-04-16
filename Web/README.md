@@ -16,6 +16,7 @@
  - [shaka-player `JavaScript player library / DASH client / MSE-EME player`](https://github.com/google/shaka-player)
  - [Font-Awesome `The iconic SVG, font, and CSS toolkit `](https://github.com/FortAwesome/Font-Awesome)
  - [core-decorators `Library of stage-0 JavaScript decorators (aka ES2016/ES7 decorators but not accurate) inspired by languages that come with built-ins like @​override, @​deprecate, @​autobind, @​mixin and more. Popular with React/Angular, but is framework agnostic.`](https://github.com/jayphelps/core-decorators)
+ - [Web `前端入门和进阶学习笔记，超详细的前端学习图文教程。从零开始学前端，做一个web全栈工程师。每日更新...`](https://github.com/smyhvae/Web)
 
 ### Framework
  - [flux `Application Architecture for Building User Interfaces `](https://github.com/facebook/flux)
