@@ -9,6 +9,7 @@
  - [分布式技术集锦](https://mp.weixin.qq.com/s/be1anjtbAUHJJzSsQeajXg)
  - [`alibaba` sofa-ark `SOFA Ark is a light-weight，java based classloader isolation framework.`](https://github.com/alipay/sofa-ark)
  - [dubbokeeper `dubbo服务管理以及监控系统`](https://github.com/dubboclub/dubbokeeper)
+ - [Spring-Boot-Reference-Guide](https://github.com/qibaoguang/Spring-Boot-Reference-Guide)
  
 ### Framework
  - [spring-framework](https://github.com/spring-projects/spring-framework)
