@@ -92,6 +92,7 @@
  - [StatusBarUtil `A util for setting status bar style on Android App. `](https://github.com/laobie/StatusBarUtil)
  - [PswInputViewDemo](https://github.com/huage2580/PswInputViewDemo)
  - [PhotoPicker `Image Picker like Wechat `](https://github.com/donglua/PhotoPicker)
+ - [navigation-toolbar-android `Navigation toolbar is a slide-modeled UI navigation controller made by @Ramotion`](https://github.com/Ramotion/navigation-toolbar-android)
 
 ### Android Anim
  - [Material-Animations `Android Transition animations explanation with examples.`](https://github.com/lgvalle/Material-Animations)
