@@ -9,6 +9,7 @@
  - [`alibaba` sofa-ark `SOFA Ark is a light-weight，java based classloader isolation framework.`](https://github.com/alipay/sofa-ark)
  - [dubbokeeper `dubbo服务管理以及监控系统`](https://github.com/dubboclub/dubbokeeper)
  - [Spring-Boot-Reference-Guide](https://github.com/qibaoguang/Spring-Boot-Reference-Guide)
+ - [spring-cloud-study `开源书《使用Spring Cloud与Docker实战微服务》的配套代码`](https://github.com/eacdy/spring-cloud-study)
  
 ### Doc
  - [swagger `Swagger is the world’s largest framework of API developer tools for the OpenAPI Specification(OAS), enabling development across the entire API lifecycle, from design and documentation, to test and deployment.`](https://swagger.io/)
