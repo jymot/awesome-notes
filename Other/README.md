@@ -15,6 +15,7 @@
 
 
 ### UI Design
+ - [awesome-design-cn `设计师资源大全，包含：ICON图标、Logo设计、PhotoShop插件、交互设计工具、流程图、线框图/原型图、设计博客等`](https://github.com/jobbole/awesome-design-cn)
  - [dribbble](https://dribbble.com/)
  - [pttrns](http://pttrns.com/)
  - [capptivate.co](http://capptivate.co/)
