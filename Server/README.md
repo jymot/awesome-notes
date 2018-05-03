@@ -11,7 +11,8 @@
  - [Spring-Boot-Reference-Guide](https://github.com/qibaoguang/Spring-Boot-Reference-Guide)
  - [spring-cloud-study `开源书《使用Spring Cloud与Docker实战微服务》的配套代码`](https://github.com/eacdy/spring-cloud-study)
  - [xbin-store-cloud `模仿国内知名B2C网站,实现的一个分布式B2C商城 使用Spring Cloud 使用dubbox版本请查看`](https://github.com/xubinux/xbin-store-cloud)
- 
+ - [architect-awesome `后端架构师技术图谱`](https://github.com/xingshaocheng/architect-awesome)
+
 ### Doc
  - [swagger `Swagger is the world’s largest framework of API developer tools for the OpenAPI Specification(OAS), enabling development across the entire API lifecycle, from design and documentation, to test and deployment.`](https://swagger.io/)
  - [rap2-delos `阿里妈妈前端团队出品的开源接口管理工具RAP第二代 `](https://github.com/thx/rap2-delos)
