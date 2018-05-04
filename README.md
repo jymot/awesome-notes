@@ -25,6 +25,7 @@
  - [chinese-independent-developer `中国独立开发者项目列表 -- 分享大家都在做什么`](https://github.com/1c7/chinese-independent-developer)
  - [anaconda 镜像](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/?C=M&O=A)
  - [`Book` modern-cpp-tutorial `高速上手现代 C++ 11/14/17`](https://github.com/changkun/modern-cpp-tutorial)
+ - [architecture.of.internet-product `互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构`](https://github.com/davideuler/architecture.of.internet-product)
  
 ### 持续集成
  - [harbor `An enterprise-class container registry server based on Docker Distribution `](https://github.com/vmware/harbor)
