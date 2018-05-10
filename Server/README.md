@@ -14,6 +14,7 @@
  - [architect-awesome `后端架构师技术图谱`](https://github.com/xingshaocheng/architect-awesome)
  - [paascloud-master `spring cloud + vue 全家桶实战，模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目`](https://github.com/paascloud/paascloud-master)
  - [SpringCloudLearning `project for spring cloud learning`](https://github.com/forezp/SpringCloudLearning)
+ - [Mapper `Mybatis Common Mapper - Easy to use 通用Mapper都可以极大的方便开发人员`](https://github.com/abel533/Mapper)
 
 ### Doc
  - [swagger `Swagger is the world’s largest framework of API developer tools for the OpenAPI Specification(OAS), enabling development across the entire API lifecycle, from design and documentation, to test and deployment.`](https://swagger.io/)
