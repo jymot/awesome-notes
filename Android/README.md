@@ -71,6 +71,7 @@
  - [`RecyclerView LayoutManager` vlayout](https://github.com/alibaba/vlayout)
 
 ### Android UI
+ - [Android-skin-support `Android-skin-support is an easy to use dynamic skin framework for Android, Only one line of code to integrate it.一款用心去做的Android 换肤框架, 极低的学习成本, 极好的用户体验. 一行代码就可以实现换肤, 你值得拥有!!!`](https://github.com/ximsfei/Android-skin-support)
  - [MarqueeView `可垂直跑、可水平跑的跑马灯；学名：可垂直翻、可水平翻的翻页公告`](https://github.com/sfsheng0322/MarqueeView)
  - [picasso-transformations `An Android transformation library providing a variety of image transformations for Picasso`](https://github.com/wasabeef/picasso-transformations)
  - [ShimmerRecyclerView `Facebook loading Skeleton Screen`](https://github.com/sharish/ShimmerRecyclerView)
