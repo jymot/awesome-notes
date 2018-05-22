@@ -16,6 +16,7 @@
  - [Mapper `Mybatis Common Mapper - Easy to use 通用Mapper都可以极大的方便开发人员`](https://github.com/abel533/Mapper)
  - [mybatis-generator-gui `mybatis-generator界面工具，让你生成代码更简单更快捷`](https://github.com/zouzg/mybatis-generator-gui)
  - [Central Application Tracking](https://github.com/dianping/cat)
+ - [OpenID-Connect-Java-Spring-Server `An OpenID Connect reference implementation in Java on the Spring platform. https://mitreid.org/`](https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server)
 
 ### RPC
  - [incubator-dubbo `Dubbo is a high-performance, java based, open source RPC framework http://dubbo.io`](https://github.com/apache/incubator-dubbo)
