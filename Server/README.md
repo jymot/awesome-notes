@@ -20,6 +20,7 @@
 ### RPC
  - [incubator-dubbo `Dubbo is a high-performance, java based, open source RPC framework http://dubbo.io`](https://github.com/apache/incubator-dubbo)
  - [grpc `The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#) https://grpc.io`](https://github.com/grpc/grpc)
+ - [grpc-java `The Java gRPC implementation. HTTP/2 based RPC https://grpc.io`](https://github.com/grpc/grpc-java)
 
 ### Doc
  - [swagger `Swagger is the world’s largest framework of API developer tools for the OpenAPI Specification(OAS), enabling development across the entire API lifecycle, from design and documentation, to test and deployment.`](https://swagger.io/)
