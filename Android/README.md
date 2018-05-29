@@ -39,6 +39,7 @@
  - [`google` dagger2](https://github.com/google/dagger)
  - [`google` google-ar](https://github.com/google-ar/arcore-android-sdk)
  - [conscrypt `Conscrypt is a Java Security Provider that implements parts of the Java Cryptography Extension and Java Secure Socket Extension.`](https://github.com/google/conscrypt/)
+ - [`googlesamples` android-sunflower `A gardening app illustrating Android development best practices with Android Jetpack. https://developer.android.com/jetpack/`](https://github.com/googlesamples/android-sunflower)
 
 ### Android System && Android Open Source Project
   - [Android 系统开篇](http://gityuan.com/android/)
