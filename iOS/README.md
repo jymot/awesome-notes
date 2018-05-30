@@ -18,3 +18,4 @@
  - [OOMDetector `OOMDetector is a memory monitoring component for iOS which provides you with OOM monitoring, memory allocation monitoring, memory leak detection and other functions.
 `](https://github.com/Tencent/OOMDetector)
  - [fishhook `A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.`](https://github.com/facebook/fishhook)
+ - [WeChatPlugin-iOS `iOS 版微信小助手(防撤回、修改微信运动、游戏作弊、群管理、好友请求管理)`](https://github.com/TKkk-iOSer/WeChatPlugin-iOS)
