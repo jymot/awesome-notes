@@ -5,3 +5,4 @@
  - [Scrapy `An open source and collaborative framework for extracting the data you need from websites.
 In a fast, simple, yet extensible way.`](https://scrapy.org/)
  - [scrapy `Scrapy, a fast high-level web crawling & scraping framework for Python.`](https://github.com/scrapy/scrapy)
+ - [Douyin-Bot `Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？😍`](https://github.com/wangshub/Douyin-Bot)
