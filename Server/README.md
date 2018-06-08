@@ -17,6 +17,7 @@
  - [Central Application Tracking](https://github.com/dianping/cat)
  - [OpenID-Connect-Java-Spring-Server `An OpenID Connect reference implementation in Java on the Spring platform. https://mitreid.org/`](https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server)
  - [微信小程序商城 (后台java) 应用示例](https://gitee.com/fuyang_lipengjun/platform)
+ - [spring-boot-admin `Admin UI for administration of spring boot applications`](https://github.com/codecentric/spring-boot-admin)
 
 ### RPC
  - [`Tencent` Tars `Tars is a highly performance rpc framework based on naming service using tars protocol and provides a semi-automatic operation platform.`](https://github.com/Tencent/Tars)
