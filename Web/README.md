@@ -46,6 +46,7 @@
  - [mysql `A pure node.js JavaScript Client implementing the MySql protocol.`](https://github.com/mysqljs/mysql)
  
 ### Vue
+ - [Vue.js 源码分析 https://ustbhuangyi.github.io/vue-ana…](https://github.com/ustbhuangyi/vue-analysis)
  - [awesome-vue](https://github.com/vuejs/awesome-vue)
  - [vue-strap](https://github.com/yuche/vue-strap)
  - [vue-resource](https://github.com/pagekit/vue-resource)
