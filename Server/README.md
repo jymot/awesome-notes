@@ -3,7 +3,6 @@
  - [API-Security-Checklist `Checklist of the most important security countermeasures when designing, testing, and releasing your API`](https://github.com/shieldfy/API-Security-Checklist)
  - [tengine `A distribution of Nginx with some advanced features http://tengine.taobao.org/`](https://github.com/alibaba/tengine)
  - [`alibaba` jarslink `模块化开发框架`](https://github.com/alibaba/jarslink)
- - [`Tencent` Tars `Tars is a highly performance rpc framework based on naming service using tars protocol and provides a semi-automatic operation platform.`](https://github.com/Tencent/Tars)
  - [分布式技术集锦](https://mp.weixin.qq.com/s/be1anjtbAUHJJzSsQeajXg)
  - [`alibaba` sofa-ark `SOFA Ark is a light-weight，java based classloader isolation framework.`](https://github.com/alipay/sofa-ark)
  - [dubbokeeper `dubbo服务管理以及监控系统`](https://github.com/dubboclub/dubbokeeper)
@@ -17,8 +16,10 @@
  - [mybatis-generator-gui `mybatis-generator界面工具，让你生成代码更简单更快捷`](https://github.com/zouzg/mybatis-generator-gui)
  - [Central Application Tracking](https://github.com/dianping/cat)
  - [OpenID-Connect-Java-Spring-Server `An OpenID Connect reference implementation in Java on the Spring platform. https://mitreid.org/`](https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server)
+ - [微信小程序商城 (后台java) 应用示例](https://gitee.com/fuyang_lipengjun/platform)
 
 ### RPC
+ - [`Tencent` Tars `Tars is a highly performance rpc framework based on naming service using tars protocol and provides a semi-automatic operation platform.`](https://github.com/Tencent/Tars)
  - [incubator-dubbo `Dubbo is a high-performance, java based, open source RPC framework http://dubbo.io`](https://github.com/apache/incubator-dubbo)
  - [grpc `The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#) https://grpc.io`](https://github.com/grpc/grpc)
  - [grpc-java `The Java gRPC implementation. HTTP/2 based RPC https://grpc.io`](https://github.com/grpc/grpc-java)
