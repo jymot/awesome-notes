@@ -17,7 +17,8 @@
   - [python-adb](https://github.com/google/python-adb)
   - [pidcat `Colored logcat script which only shows log entries for a specific application package.`](https://github.com/JakeWharton/pidcat)
   - [Andromeda `Andromeda simplifies local/remote communication for Android modularization`](https://github.com/iqiyi/Andromeda)
-
+  - [`指纹识别解锁` BiometricPromptCompat `Make BiometricPrompt (Android P feature) support all Android 6.0+ devices.`](https://github.com/fython/BiometricPromptCompat)
+ 
 ### 精选
   - [material_design_zh `Material Design 中文协同翻译 `](https://github.com/1sters/material_design_zh)
   - [微信Android模块化架构重构实践](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286672&idx=1&sn=4d9db00c496fcafd1d3e01d69af083f9&chksm=8334cc92b4434584e8bdb117274f41145fb49ba467ec0cd9ba5e3551a8abf92f1996bd6b147a&scene=0#rd)
