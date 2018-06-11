@@ -19,6 +19,7 @@
  - [Web `前端入门和进阶学习笔记，超详细的前端学习图文教程。从零开始学前端，做一个web全栈工程师。每日更新...`](https://github.com/smyhvae/Web)
  - [ice `alibaba`](https://github.com/alibaba/ice/)
  - [mpvue `基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。 http://mpvue.com`](https://github.com/Meituan-Dianping/mpvue)
+ - [awesome-design-patterns `A curated list of software and architecture related design patterns.`](https://github.com/DovAmir/awesome-design-patterns)
 
 ### Framework
  - [flux `Application Architecture for Building User Interfaces `](https://github.com/facebook/flux)
@@ -67,6 +68,7 @@
  - [vue-cookies](https://www.npmjs.com/package/vue-cookies)
  - [mand-mobile `A mobile UI toolkit, based on Vue.js 2, designed for financial scenes.`](https://github.com/didi/mand-mobile)
  - [vuepress `Minimalistic Vue-powered static site generator`](https://github.com/vuejs/vuepress)
+ - [vue-design `逐行级别的源码分析 http://hcysun.me/vue-design/`](https://github.com/HcySunYang/vue-design)
 
 ### React
  - [react-toolbox](https://github.com/react-toolbox/react-toolbox/)
