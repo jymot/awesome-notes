@@ -28,6 +28,7 @@
  - [architecture.of.internet-product `互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构`](https://github.com/davideuler/architecture.of.internet-product)
  - [navicat-keygen `A keygen for Navicat`](https://github.com/DoubleLabyrinth/navicat-keygen)
  - [image-to-text `a pure front-end website transform image file to text. https://blog.kainstar.moe/image-to-text/`](https://github.com/kainstar/image-to-text)
+ - [!!!🤓 build-your-own-x `Build your own (insert technology here) `](https://github.com/danistefanovic/build-your-own-x)
 
 ### 视频
  - [VBrowser-Android `M3U8嗅探, 缓存, 播放`](https://github.com/xm0625/VBrowser-Android)
