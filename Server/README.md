@@ -22,6 +22,7 @@
  - [JRebel `热部署插件`](https://github.com/Exrick/xmall/blob/master/study/JRebel.md)
  - [xmall `基于SOA架构的分布式电商购物商城 前后端分离 前台商城:Vue全家桶 后台管理系统:Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper等 http://xmall.exrick.cn`](https://github.com/Exrick/xmall)
  - [x-boot `基于Spring Boot 2.x的前后端分离架构X-Boot 前台：Vue+iView 后台：Spring Boot 2.x/Spring Security/JWT/Spring Data JPA+Mybatis-Plus/Redis/Elasticsearch 分布式限流/同步锁/验证码/SnowFlake雪花算法ID自增 动态权限管理 代码生成 日志记录 http://xboot.exrick.cn`](https://github.com/Exrick/x-boot)
+ - [openzaly `openzaly 是 Akaxin 的服务器源代码，用以搭建私有聊天服务器。 服务器安装教程：https://www.akaxin.com/docs/install/index.html QQ群: 655249600`](https://github.com/akaxincom/openzaly)
 
 ### RPC
  - [`Tencent` Tars `Tars is a highly performance rpc framework based on naming service using tars protocol and provides a semi-automatic operation platform.`](https://github.com/Tencent/Tars)
