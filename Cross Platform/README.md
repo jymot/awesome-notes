@@ -28,6 +28,7 @@
 
 ## Library
  - [`Tencent` VasSonic `VasSonic is a lightweight and high-performance Hybrid framework developed by tencent VAS team, which is intended to speed up the first screen of websites working on Android and iOS platform.`](https://github.com/Tencent/VasSonic)
+ - [Luakit `A multi-platform solution in lua , you can develop your app, IOS or android app with this tool, truely write once , use everywhere`](https://github.com/williamwen1986/Luakit)
  
 ## DB
  - [wcdb `Tencent` `WCDB is a cross-platform database framework developed by WeChat`](https://github.com/Tencent/wcdb)
