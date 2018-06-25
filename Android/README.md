@@ -107,6 +107,7 @@
  - [Fish `灵动的红鲤鱼`](https://github.com/Jichensheng/Fish)
  - [`facebook` rebound `A Java library that models spring dynamics and adds real world physics to your app.`](https://github.com/facebook/rebound)
  - [PlayPauseView `让播放、暂停按钮优雅的过渡`](https://github.com/Lauzy/PlayPauseView)
+ - [AnimatedMenuIcon `Demo for the tutorial on how to animate an SVG menu icon based on Tamas Kojo's Dribbble shot hamburger menu and implemented Segment. By Luis Manuel.`](https://github.com/codrops/AnimatedMenuIcon)
 
 ### Android 插件化,动态加载以及Dex相关
  - [fastdex `加快 apk 的编译速度`](https://github.com/typ0520/fastdex)
