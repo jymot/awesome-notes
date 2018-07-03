@@ -87,6 +87,7 @@
  - [Ant Design Vue `用于开发具有数十个 Ant Design 实现组件的企业级后端产品，并支持基于 Webpack 调试的构建解决方案（支持 ES6）。请注意，它的开发已经停止了一段时间。`](https://github.com/okoala/vue-antd)
 #### Vue admin
  - [vue-element-admin `A magical vue admin`](https://github.com/PanJiaChen/vue-element-admin)
+ - [vueAdmin-template `a vue2.0 minimal admin template`](https://github.com/PanJiaChen/vueAdmin-template)
  
 ### React
  - [react-toolbox](https://github.com/react-toolbox/react-toolbox/)
