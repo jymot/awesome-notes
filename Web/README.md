@@ -70,6 +70,8 @@
  - [mand-mobile `A mobile UI toolkit, based on Vue.js 2, designed for financial scenes.`](https://github.com/didi/mand-mobile)
  - [vuepress `Minimalistic Vue-powered static site generator`](https://github.com/vuejs/vuepress)
  - [vue-design `逐行级别的源码分析 http://hcysun.me/vue-design/`](https://github.com/HcySunYang/vue-design)
+ - [vuetify `Material Component Framework for Vue.js 2 `](https://github.com/vuetifyjs/vuetify)
+ - [quasar `Quasar Framework `](https://github.com/quasarframework/quasar)
 
 ### React
  - [react-toolbox](https://github.com/react-toolbox/react-toolbox/)
