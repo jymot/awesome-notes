@@ -22,6 +22,23 @@
  - [awesome-design-patterns `A curated list of software and architecture related design patterns.`](https://github.com/DovAmir/awesome-design-patterns)
  - [taro `多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序、H5、React Native 等的应用。 https://taro.aotu.io`](https://github.com/NervJS/taro)
 
+### Library
+ - [lodash `Lodash, 作为NPM最多下载量和被依赖最多的包，提供了更加支持跨环境一致性的对数组、字符串、对象和参数对象的支持` `A modern JavaScript utility library delivering modularity, performance, & extras.`](https://github.com/lodash/lodash)
+ - [underscore `日常使用的基础函数`](https://github.com/jashkenas/underscore)
+ - [ramda `Ramda库可以用来在JavaScript中函数式编程，专门为函数式编程风格而设计，更容易创建函数式 pipeline、且从不改变用户已有数据。` `Practical functional Javascript`](https://github.com/ramda/ramda)
+ - [mathjs `Math.js是一个Node.js和JavaScript的math扩展库，并且和内置的Math库兼容。该库中包含一个灵活的表达式分析器，并且有非常多的内置函数可以使用。你甚至可以自行做扩展`](https://github.com/josdejong/mathjs)
+ - [moment `一个JavaScript的时间处理库，可以用来分析、验证、处理和格式化时间。Moment被设计可以用于浏览器和Node.js环境下。对于V2.10.0，代码完全用ECMAScript 6模块实现`](https://github.com/moment/moment/)
+ - [date-fns `提供超过130多个函数，很多人把它当做moment.js(查看对比)的替代品。Date-fns完全用纯函数实现，并保证不可修改性。它可以很好的和webpack，Browserify、或Rollup配合使用，并支持tree-shaking。`](https://github.com/date-fns/date-fns)
+ - [Sugar `Sugar是一个可以用来处理原生对象的库。自定义的构建和模块化的npm包，使得你可以只需要加载你需要的包。用户也可以自定义方法或则使用插件处理特殊情况。`](https://github.com/andrewplummer/Sugar)
+ - [lazy.js `lazy.js是一个函数式的JavaScript库。该库的底层的实现都是懒执行的，也就是说尽量不做运算，除非站的需要。这个库不依赖第三方库，这里有一个demo，这里是API文档。`](https://github.com/dtao/lazy.js)
+ - [collect `collect.js是一个非常有前景并且不依赖于任何第三方库的库。它提供了针对数组和对象的包装，使用非常方便。`](https://github.com/ecrmnn/collect.js/)
+ - [chancejs `Chance是一个用来随机生成字符串、数字等的函数，他可以减少一些非随机性，在你需要写自动化测试或则其它你需要生成随机的地方很有用。虽然只要3K个stars，但是这个库真的非常方便。`](https://github.com/chancejs/chancejs)
+ - [Chart `chart.js是一个少即是多的的经典例子。它只提供了8中可视化的类型，每一种都有动画并且可以自定义。Chart.js让你可以使用<canvas>标签来作图，并且在不同的浏览器上高效渲染。`](https://github.com/chartjs/Chart.js)
+ - [polished `Polished是一个用于写css样式的工具集，提供saas风格的帮助函数和mixins。该库和styled-components，Aphrodite，Radium兼容。`](https://github.com/styled-components/polished)
+ - [mout `Mout.js是一个JavaScript的模块化工具集合，能够以AMD模块的形式在浏览器中使用或者在Node.js中。Mout.js让你可以只加载你需要的模块或者函数`](https://github.com/mout/mout)
+ - [voca `一个用于处理字符串的JavaScript库，包含了很多的帮助函数，比如：change case, trim, pad, slugify, latinise, sprintf‘y, truncate, escape等等。`](https://github.com/panzerdp/voca)
+ - [licia `是一套在开发中实践积累起来的实用JavaScript工具库。该库目前拥有超过180个模块，包括Dom操作，cookie设置，类创建，模板函数，日期格式化等实用模块，同时配套有打包工具Eustia进行定制化，使JS脚本加载量缩减在10KB以下，极大优化移动端页面的加载速度`](https://github.com/liriliri/licia)
+
 ### Framework
  - [flux `Application Architecture for Building User Interfaces `](https://github.com/facebook/flux)
 
