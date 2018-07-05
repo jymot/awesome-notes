@@ -21,6 +21,7 @@
  - [mpvue `基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。 http://mpvue.com`](https://github.com/Meituan-Dianping/mpvue)
  - [awesome-design-patterns `A curated list of software and architecture related design patterns.`](https://github.com/DovAmir/awesome-design-patterns)
  - [taro `多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序、H5、React Native 等的应用。 https://taro.aotu.io`](https://github.com/NervJS/taro)
+ - [canner `Universal CMS framework using React & Apollo GraphQL for Prisma, GraphQL, Firebase, Restful API https://www.canner.io`](https://github.com/canner/canner)
 
 ### Library
  - [lodash `Lodash, 作为NPM最多下载量和被依赖最多的包，提供了更加支持跨环境一致性的对数组、字符串、对象和参数对象的支持` `A modern JavaScript utility library delivering modularity, performance, & extras.`](https://github.com/lodash/lodash)
