@@ -106,6 +106,7 @@
 #### Vue admin
  - [vue-element-admin `A magical vue admin`](https://github.com/PanJiaChen/vue-element-admin)
  - [vueAdmin-template `a vue2.0 minimal admin template`](https://github.com/PanJiaChen/vueAdmin-template)
+ - [d2-admin `An elegant dashboard built by vue `](https://github.com/d2-projects/d2-admin)
  
 ### React
  - [react-toolbox](https://github.com/react-toolbox/react-toolbox/)
