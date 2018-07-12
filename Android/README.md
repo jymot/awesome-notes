@@ -65,6 +65,7 @@
  - [`Tencent` soter `A secure and quick biometric authentication standard and platform in Android held by Tencent.`](https://github.com/Tencent/soter)
  - [material-remixer-android `Remixer for Android. Live adjustment of app variables`](https://github.com/material-foundation/material-remixer-android)
  - [RxBus `Event Bus By RxJava.`](https://github.com/AndroidKnife/RxBus)
+ - [AndPermission `Android permissions manager.`](https://github.com/yanzhenjie/AndPermission)
 
 ### Android RecyclerView
  - [SuperRecycleView `高度自定义的沉浸式，商城sku算法，仿了吗购物车(带缓存)，装饰类的RecycleView添加头尾`](https://github.com/GongWnbo/SuperRecycleView)
