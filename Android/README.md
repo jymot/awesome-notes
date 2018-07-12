@@ -19,7 +19,7 @@
   - [Andromeda `Andromeda simplifies local/remote communication for Android modularization`](https://github.com/iqiyi/Andromeda)
   - [`指纹识别解锁` BiometricPromptCompat `Make BiometricPrompt (Android P feature) support all Android 6.0+ devices.`](https://github.com/fython/BiometricPromptCompat)
   - [article `articles by WeChat Mobile Development Team`](https://github.com/WeMobileDev/article)
-  - [androidos](https://www.androidos.net.cn/)
+  - [androidos `Android源码下载以及相关资源代理`](https://www.androidos.net.cn/)
   - [ProgressManager `ProgressManager 一行代码即可监听 App 中所有网络链接的上传以及下载进度,包括 Glide 的图片加载进度,实现原理类似 EventBus,你可在 App 中的任何地方,将多个监听器,以 Url 地址作为标识符,注册到本框架,当此 Url 地址存在下载或者上传的动作时,框架会主动调用所有使用此 Url 地址注册过的监听器,达到多个模块的同步更新.`](https://github.com/JessYanCoding/ProgressManager)
  
 ### 精选
@@ -64,6 +64,7 @@
  - [PermissionsDispatcher `Simple annotation-based API to handle runtime permissions.`](https://github.com/hotchemi/PermissionsDispatcher)
  - [`Tencent` soter `A secure and quick biometric authentication standard and platform in Android held by Tencent.`](https://github.com/Tencent/soter)
  - [material-remixer-android `Remixer for Android. Live adjustment of app variables`](https://github.com/material-foundation/material-remixer-android)
+ - [RxBus `Event Bus By RxJava.`](https://github.com/AndroidKnife/RxBus)
 
 ### Android RecyclerView
  - [SuperRecycleView `高度自定义的沉浸式，商城sku算法，仿了吗购物车(带缓存)，装饰类的RecycleView添加头尾`](https://github.com/GongWnbo/SuperRecycleView)
