@@ -33,6 +33,7 @@
 
 ### 视频
  - [VBrowser-Android `M3U8嗅探, 缓存, 播放`](https://github.com/xm0625/VBrowser-Android)
+ - [ivideo `一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux），包括 VIP 资源`](https://github.com/phobal/ivideo)
  
 ### 持续集成
  - [harbor `An enterprise-class container registry server based on Docker Distribution `](https://github.com/vmware/harbor)
