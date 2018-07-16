@@ -78,6 +78,7 @@
  - [`RecyclerView LayoutManager` HiveLayoutManager](https://github.com/Chacojack/HiveLayoutManager)
  - [`RecyclerView LayoutManager` ChipsLayoutManager](https://github.com/BelooS/ChipsLayoutManager)
  - [`RecyclerView LayoutManager` vlayout](https://github.com/alibaba/vlayout)
+ - [MultiType `An Android library to create multiple item types list views easily and flexibly`](https://github.com/drakeet/MultiType)
 
 ### Android UI
  - [Android-skin-support `Android-skin-support is an easy to use dynamic skin framework for Android, Only one line of code to integrate it.一款用心去做的Android 换肤框架, 极低的学习成本, 极好的用户体验. 一行代码就可以实现换肤, 你值得拥有!!!`](https://github.com/ximsfei/Android-skin-support)
