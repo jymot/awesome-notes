@@ -1,5 +1,7 @@
 # iOS
 
+ - [EasyReact `Are you confused by the functors, applicatives, and monads in RxSwift and ReactiveCocoa? It doesn't matter, the concepts are so complicated that not many developers actually use them in normal projects. Is there an easy-to-use way to use reactive programming? EasyReact is born for this reason. https://cocoapods.org/pods/EasyReact`](https://github.com/meituan/EasyReact)
+
 ### iOS Utils
  - [WebViewJavascriptBridge `WebView` `JSBridge`](https://github.com/marcuswestin/WebViewJavascriptBridge)
  - [ZIKRouter `Interface-oriented router for discovering modules, and injecting dependencies with protocol in Objective-C and Swift.`](https://github.com/Zuikyo/ZIKRouter)
