@@ -104,6 +104,7 @@
  - [cube-ui `是用于 Vue.js 移动应用程序的 UI 组件库。所有组件都经过了单元测试，并且该库还支持按需进行后期编译和组件导入。这个库仍在积极开发中。`](https://github.com/didi/cube-ui)
  - [vue-blu `是基于 Vue 2.0 和 Bulma 的 UI 组件库，用于构建中台和后台办公产品。它支持 ES2015 和 NPM+Webpack+Babel 工作流，并提供可自定义主题。`](https://github.com/chenz24/vue-blu)
  - [Ant Design Vue `用于开发具有数十个 Ant Design 实现组件的企业级后端产品，并支持基于 Webpack 调试的构建解决方案（支持 ES6）。请注意，它的开发已经停止了一段时间。`](https://github.com/okoala/vue-antd)
+ - [vuesax `Framework Components for Vue.js 2`](https://github.com/lusaxweb/vuesax)
 #### Vue admin
  - [vue-element-admin `A magical vue admin`](https://github.com/PanJiaChen/vue-element-admin)
  - [vueAdmin-template `a vue2.0 minimal admin template`](https://github.com/PanJiaChen/vueAdmin-template)
