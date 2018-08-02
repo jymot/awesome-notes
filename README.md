@@ -30,6 +30,7 @@
  - [image-to-text `a pure front-end website transform image file to text. https://blog.kainstar.moe/image-to-text/`](https://github.com/kainstar/image-to-text)
  - [!!!🤓 build-your-own-x `Build your own (insert technology here) `](https://github.com/danistefanovic/build-your-own-x)
  - [mace `MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.`](https://github.com/XiaoMi/mace)
+ - [TranslateProject `Linux中国翻译项目 https://linux.cn/lctt`](https://github.com/LCTT/TranslateProject)
 
 ### 视频
  - [VBrowser-Android `M3U8嗅探, 缓存, 播放`](https://github.com/xm0625/VBrowser-Android)
