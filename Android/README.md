@@ -113,6 +113,7 @@
  - [ScrollNumber `custom widget--srcoll number`](https://github.com/a-voyager/ScrollNumber)
  - [CountdownView `倒计时视图`](https://github.com/iwgang/CountdownView)
  - [FlycoTabLayout `一个Android TabLayout库,目前有3个TabLayout. SlidingTabLayout, CommonTabLayout, SegmentTabLayout`](https://github.com/H07000223/FlycoTabLayout)
+ - [Android-ConvenientBanner `Simple and convenient banner, loop viewpager with 3D effects` `banner 轮播`](https://github.com/Bigkoo/Android-ConvenientBanner)
 
 ### Android Anim
  - [Material-Animations `Android Transition animations explanation with examples.`](https://github.com/lgvalle/Material-Animations)
