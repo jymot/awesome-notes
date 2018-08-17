@@ -2,6 +2,7 @@
 
 ## Flutter
  - [flutter `Flutter makes it easy and fast to build beautiful mobile apps.`](https://github.com/flutter/flutter)
+ - [awesome-flutter](https://github.com/Solido/awesome-flutter)
 
 ## Weex
  - [awesome-weex](https://github.com/joggerplus/awesome-weex)
