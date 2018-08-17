@@ -32,6 +32,9 @@
  - [mace `MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.`](https://github.com/XiaoMi/mace)
  - [TranslateProject `Linux中国翻译项目 https://linux.cn/lctt`](https://github.com/LCTT/TranslateProject)
 
+### 比特币
+ - [bitcoin `Bitcoin Core integration/staging tree https://bitcoincore.org/en/download`](https://github.com/bitcoin/bitcoin)
+
 ### 视频
  - [VBrowser-Android `M3U8嗅探, 缓存, 播放`](https://github.com/xm0625/VBrowser-Android)
  - [ivideo `一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux），包括 VIP 资源`](https://github.com/phobal/ivideo)
