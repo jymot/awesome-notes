@@ -31,6 +31,13 @@
  - [!!!🤓 build-your-own-x `Build your own (insert technology here) `](https://github.com/danistefanovic/build-your-own-x)
  - [mace `MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.`](https://github.com/XiaoMi/mace)
  - [TranslateProject `Linux中国翻译项目 https://linux.cn/lctt`](https://github.com/LCTT/TranslateProject)
+ - [system-design-primer `Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.`](https://github.com/donnemartin/system-design-primersystem-design-primer ``)
+ - [cheat.sh `the only cheat sheet you need https://cheat.sh/` `这是一个网站，更是一个实用的速查工具，它具有的功能特性包括：
+简洁的 curl / browser 界面；
+涵盖 55 种编程语言和 1000 多种最重要的 UNIX/Linux 命令；
+无需安装，随处可用；
+速度快，通常在 100 毫秒以内就可以返回答案；
+可以直接在代码编辑器中使用，无需打开浏览器。`](https://github.com/chubin/cheat.sh)
 
 ### 比特币
  - [bitcoin `Bitcoin Core integration/staging tree https://bitcoincore.org/en/download`](https://github.com/bitcoin/bitcoin)
