@@ -67,6 +67,7 @@
  - [nodemon `Nodemon is a utility that will monitor for any changes in your source and automatically restart your server. Perfect for development`](http://nodemon.io/)
  - [npx `execute npm package binaries`](https://github.com/zkat/npx)
  - [mysql `A pure node.js JavaScript Client implementing the MySql protocol.`](https://github.com/mysqljs/mysql)
+ - [ndb `ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools`](https://github.com/GoogleChromeLabs/ndb)
  
 ### Vue
  - [Vue.js 源码分析 https://ustbhuangyi.github.io/vue-ana…](https://github.com/ustbhuangyi/vue-analysis)
