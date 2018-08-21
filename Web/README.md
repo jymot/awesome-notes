@@ -24,7 +24,7 @@
  - [canner `Universal CMS framework using React & Apollo GraphQL for Prisma, GraphQL, Firebase, Restful API https://www.canner.io`](https://github.com/canner/canner)
  - [easy-mock `A persistent service that generates mock data quickly and provids visualization view`](https://github.com/easy-mock/easy-mock)
  - [xgplayer `A HTML5 video player with a parser that saves traffic`](https://github.com/bytedance/xgplayer/)
-
+ - [javascript-algorithms `Algorithms and data structures implemented in JavaScript with explanations and links to further readings`](https://github.com/trekhleb/javascript-algorithms)
 
 ### Library
  - [lodash `Lodash, 作为NPM最多下载量和被依赖最多的包，提供了更加支持跨环境一致性的对数组、字符串、对象和参数对象的支持` `A modern JavaScript utility library delivering modularity, performance, & extras.`](https://github.com/lodash/lodash)
