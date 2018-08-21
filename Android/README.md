@@ -119,6 +119,7 @@
  - [Android-ConvenientBanner `Simple and convenient banner, loop viewpager with 3D effects` `banner 轮播`](https://github.com/Bigkoo/Android-ConvenientBanner)
  - [android-gif-drawable `Views and Drawable for displaying animated GIFs on Android`](https://github.com/koral--/android-gif-drawable)
  - [GifView `Library for playing gifs on Android`](https://github.com/Cutta/GifView)
+ - [NiceImageView `Android 圆角`](https://github.com/SheHuan/NiceImageView)
 
 ### Android Anim
  - [Material-Animations `Android Transition animations explanation with examples.`](https://github.com/lgvalle/Material-Animations)
