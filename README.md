@@ -38,6 +38,7 @@
 无需安装，随处可用；
 速度快，通常在 100 毫秒以内就可以返回答案；
 可以直接在代码编辑器中使用，无需打开浏览器。`](https://github.com/chubin/cheat.sh)
+ - [open-source-mac-os-apps `Awesome list of open source applications for macOS.`](https://github.com/serhii-londar/open-source-mac-os-apps)
 
 ### 比特币
  - [bitcoin `Bitcoin Core integration/staging tree https://bitcoincore.org/en/download`](https://github.com/bitcoin/bitcoin)
