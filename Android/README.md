@@ -117,6 +117,7 @@
  - [CountdownView `倒计时视图`](https://github.com/iwgang/CountdownView)
  - [FlycoTabLayout `一个Android TabLayout库,目前有3个TabLayout. SlidingTabLayout, CommonTabLayout, SegmentTabLayout`](https://github.com/H07000223/FlycoTabLayout)
  - [Android-ConvenientBanner `Simple and convenient banner, loop viewpager with 3D effects` `banner 轮播`](https://github.com/Bigkoo/Android-ConvenientBanner)
+ - [banner `banner 轮播`](https://github.com/youth5201314/banner)
  - [android-gif-drawable `Views and Drawable for displaying animated GIFs on Android`](https://github.com/koral--/android-gif-drawable)
  - [GifView `Library for playing gifs on Android`](https://github.com/Cutta/GifView)
  - [NiceImageView `Android 圆角`](https://github.com/SheHuan/NiceImageView)
