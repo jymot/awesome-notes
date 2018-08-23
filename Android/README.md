@@ -75,6 +75,7 @@
  - [AndroidAutoSize `A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案).`](https://github.com/JessYanCoding/AndroidAutoSize)
 
 ### Android RecyclerView
+ - [BaseRecyclerViewAdapterHelper `BRVAH:Powerful and flexible RecyclerAdapter http://www.recyclerview.org/`](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
  - [SuperRecycleView `高度自定义的沉浸式，商城sku算法，仿了吗购物车(带缓存)，装饰类的RecycleView添加头尾`](https://github.com/GongWnbo/SuperRecycleView)
  - [AdapterDelegates `"Favor composition over inheritance" for RecyclerView Adapters`](https://github.com/sockeqwe/AdapterDelegates)
  - [关于RecyclerView的那些开源LayoutManager](http://blog.coderclock.com/2017/03/26/android/%E5%85%B3%E4%BA%8EAndroid%20RecyclerView%E7%9A%84%E9%82%A3%E4%BA%9B%E5%BC%80%E6%BA%90LayoutManager/)
