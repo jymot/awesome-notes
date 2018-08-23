@@ -73,6 +73,7 @@
  - [RxBus `Event Bus By RxJava.`](https://github.com/AndroidKnife/RxBus)
  - [AndPermission `Android permissions manager.`](https://github.com/yanzhenjie/AndPermission)
  - [AndroidAutoSize `A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案).`](https://github.com/JessYanCoding/AndroidAutoSize)
+ - [`美团点评` WMRouter `WMRouter是一款Android路由框架，基于组件化的设计思路，有功能灵活、使用简单的特点。`](https://github.com/meituan/WMRouter)
 
 ### Android RecyclerView
  - [BaseRecyclerViewAdapterHelper `BRVAH:Powerful and flexible RecyclerAdapter http://www.recyclerview.org/`](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
