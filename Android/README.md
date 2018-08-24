@@ -37,6 +37,7 @@
 
 ### 视频
  - [GSYVideoPlayer `视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，其他一些小动画效果，rtsp、concat、mpeg。`](https://github.com/CarGuo/GSYVideoPlayer)
+ - [yjPlay `一个支持自定义UI布局,流式API, 加密,直播 ,亮度,音量,快进等手势 ,广告视频预览,多种加载模式 ,多种分辨率切换 ,多种封面图, 自定义数据源,列表播放,倍数播放,边播变缓存<font color="red">不是使用AndroidVideoCache</font>,离线播放,神奇的播放器`](https://github.com/yangchaojiang/yjPlay)
 
 ### Architecture
  - [Android-CleanArchitecture `This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.`](https://github.com/android10/Android-CleanArchitecture)
