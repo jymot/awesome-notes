@@ -76,6 +76,9 @@
  - [AndroidAutoSize `A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案).`](https://github.com/JessYanCoding/AndroidAutoSize)
  - [`美团点评` WMRouter `WMRouter是一款Android路由框架，基于组件化的设计思路，有功能灵活、使用简单的特点。`](https://github.com/meituan/WMRouter)
 
+### Android component
+ - [android-components `A collection of Android libraries to build browsers or browser-like applications. https://mozilla-mobile.github.io/andr…`](https://github.com/mozilla-mobile/android-components)
+
 ### Android RecyclerView
  - [BaseRecyclerViewAdapterHelper `BRVAH:Powerful and flexible RecyclerAdapter http://www.recyclerview.org/`](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
  - [SuperRecycleView `高度自定义的沉浸式，商城sku算法，仿了吗购物车(带缓存)，装饰类的RecycleView添加头尾`](https://github.com/GongWnbo/SuperRecycleView)
@@ -220,6 +223,7 @@
  - [Android GC 那点事](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw%3D%3D&hmsr=toutiao.io&idx=1&mid=400021278&scene=0&sn=0e971807eb0e9dcc1a81853189a092f3&utm_medium=toutiao.io&utm_source=toutiao.io)
  - [GC那些事儿--Android内存优化第一弹](http://www.jianshu.com/p/5db05db4f5ab)
  - [基于Android Studio的内存泄漏检测与解决全攻略](http://wetest.qq.com/lab/view/?id=99)
+ - [X2C `提升布局加载速度200% https://www.jianshu.com/p/c1b9ce20ceb3`](https://github.com/iReaderAndroid/X2C)
 
 ### RxJava
  - [RxJava 文档](https://mcxiaoke.gitbooks.io/rxdocs/)
