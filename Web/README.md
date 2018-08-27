@@ -70,6 +70,7 @@
  - [ndb `ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools`](https://github.com/GoogleChromeLabs/ndb)
  
 ### Vue
+ - [vue-devtools `Browser devtools extension for debugging Vue.js applications.`](https://github.com/vuejs/vue-devtools)
  - [Vue.js 源码分析 https://ustbhuangyi.github.io/vue-ana…](https://github.com/ustbhuangyi/vue-analysis)
  - [awesome-vue](https://github.com/vuejs/awesome-vue)
  - [vue-strap](https://github.com/yuche/vue-strap)
