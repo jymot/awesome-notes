@@ -46,7 +46,10 @@
 ### Framework
  - [flux `Application Architecture for Building User Interfaces `](https://github.com/facebook/flux)
 
-### Webpack
+### Bundle
+#### parcel
+ - [parcel `Blazing fast, zero configuration web application bundler https://parceljs.org`](https://github.com/parcel-bundler/parcel)
+#### Webpack
  - [docs `github`](https://github.com/webpack/docs)
  - [`awesome-webpack-cn` webpack相关文章](https://github.com/webpack-china/awesome-webpack-cn)
  - [prerender-spa-plugin `Prerenders static HTML in a single-page application.`](https://github.com/chrisvfritz/prerender-spa-plugin)
