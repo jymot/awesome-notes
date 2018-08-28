@@ -41,7 +41,7 @@
  - [open-source-mac-os-apps `Awesome list of open source applications for macOS.`](https://github.com/serhii-londar/open-source-mac-os-apps)
  - [InterviewMap `Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc. https://yuchengkai.cn/docs/`](https://github.com/InterviewMap/InterviewMap)
  - [WeChatPlugin-MacOS `一款功能强大的 macOS 版微信小助手 v1.7.1 / A powerful assistant for wechat macOS`](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS)
-
+ - [shuttle `ss-local proxy, HTTP/HTTPS 抓包，多服务器rtt选择，DNS解析(参照Surge)`](https://github.com/sipt/shuttle)
 
 ### 比特币
  - [bitcoin `Bitcoin Core integration/staging tree https://bitcoincore.org/en/download`](https://github.com/bitcoin/bitcoin)
