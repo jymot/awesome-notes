@@ -42,6 +42,7 @@
  - [mout `Mout.js是一个JavaScript的模块化工具集合，能够以AMD模块的形式在浏览器中使用或者在Node.js中。Mout.js让你可以只加载你需要的模块或者函数`](https://github.com/mout/mout)
  - [voca `一个用于处理字符串的JavaScript库，包含了很多的帮助函数，比如：change case, trim, pad, slugify, latinise, sprintf‘y, truncate, escape等等。`](https://github.com/panzerdp/voca)
  - [licia `是一套在开发中实践积累起来的实用JavaScript工具库。该库目前拥有超过180个模块，包括Dom操作，cookie设置，类创建，模板函数，日期格式化等实用模块，同时配套有打包工具Eustia进行定制化，使JS脚本加载量缩减在10KB以下，极大优化移动端页面的加载速度`](https://github.com/liriliri/licia)
+ - [reconnecting-websocket `Reconnecting WebSocket. For Web, React Native, cli (Node.js)`](https://github.com/pladaria/reconnecting-websocket)
 
 ### Framework
  - [flux `Application Architecture for Building User Interfaces `](https://github.com/facebook/flux)
