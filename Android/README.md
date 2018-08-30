@@ -75,6 +75,7 @@
  - [AndPermission `Android permissions manager.`](https://github.com/yanzhenjie/AndPermission)
  - [AndroidAutoSize `A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案).`](https://github.com/JessYanCoding/AndroidAutoSize)
  - [`美团点评` WMRouter `WMRouter是一款Android路由框架，基于组件化的设计思路，有功能灵活、使用简单的特点。`](https://github.com/meituan/WMRouter)
+ - [DanmakuFlameMaster `Android开源弹幕引擎·烈焰弹幕使 ～ http://app.bilibili.com/`](https://github.com/Bilibili/DanmakuFlameMaster)
 
 ### Android component
  - [android-components `A collection of Android libraries to build browsers or browser-like applications. https://mozilla-mobile.github.io/andr…`](https://github.com/mozilla-mobile/android-components)
