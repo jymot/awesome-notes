@@ -132,6 +132,7 @@
  - [GifView `Library for playing gifs on Android`](https://github.com/Cutta/GifView)
  - [NiceImageView `Android 圆角`](https://github.com/SheHuan/NiceImageView)
  - [TickView `https://github.com/ChengangFeng/TickView`](https://github.com/ChengangFeng/TickView)
+ - [ThumbUpSample `HenCoder仿写活动－点赞效果`](https://github.com/arvinljw/ThumbUpSample)
 
 ### Android Anim
  - [Material-Animations `Android Transition animations explanation with examples.`](https://github.com/lgvalle/Material-Animations)
