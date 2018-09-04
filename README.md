@@ -44,6 +44,8 @@
  - [shuttle `ss-local proxy, HTTP/HTTPS 抓包，多服务器rtt选择，DNS解析(参照Surge)`](https://github.com/sipt/shuttle)
  - [bat `A cat(1) clone with syntax highlighting and Git integration.`](https://github.com/sharkdp/bat)
  - [WebSiteUseful `翻墙！科学上网，免费ss帐号分享、ssr订阅源，免费VPN下载，获取及使用教程请看：https://github.com/loremwalker/fq-book`](https://github.com/loremwalker/WebSiteUseful)
+ - [awesome-tmux](https://github.com/rothgar/awesome-tmux)
+ - [tmux](https://github.com/tmux/tmux)
 
 ### 比特币
  - [bitcoin `Bitcoin Core integration/staging tree https://bitcoincore.org/en/download`](https://github.com/bitcoin/bitcoin)
