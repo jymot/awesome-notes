@@ -46,6 +46,7 @@
  - [WebSiteUseful `翻墙！科学上网，免费ss帐号分享、ssr订阅源，免费VPN下载，获取及使用教程请看：https://github.com/loremwalker/fq-book`](https://github.com/loremwalker/WebSiteUseful)
  - [awesome-tmux](https://github.com/rothgar/awesome-tmux)
  - [tmux](https://github.com/tmux/tmux)
+ - [`google` dopamine `Dopamine is a research framework for fast prototyping of reinforcement learning algorithms. https://github.com/google/dopamine`](https://github.com/google/dopamine)
 
 ### 比特币
  - [bitcoin `Bitcoin Core integration/staging tree https://bitcoincore.org/en/download`](https://github.com/bitcoin/bitcoin)
