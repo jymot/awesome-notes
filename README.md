@@ -43,11 +43,17 @@
  - [WeChatPlugin-MacOS `一款功能强大的 macOS 版微信小助手 v1.7.1 / A powerful assistant for wechat macOS`](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS)
  - [shuttle `ss-local proxy, HTTP/HTTPS 抓包，多服务器rtt选择，DNS解析(参照Surge)`](https://github.com/sipt/shuttle)
  - [bat `A cat(1) clone with syntax highlighting and Git integration.`](https://github.com/sharkdp/bat)
- - [WebSiteUseful `翻墙！科学上网，免费ss帐号分享、ssr订阅源，免费VPN下载，获取及使用教程请看：https://github.com/loremwalker/fq-book`](https://github.com/loremwalker/WebSiteUseful)
  - [awesome-tmux](https://github.com/rothgar/awesome-tmux)
  - [tmux](https://github.com/tmux/tmux)
  - [`google` dopamine `Dopamine is a research framework for fast prototyping of reinforcement learning algorithms. https://github.com/google/dopamine`](https://github.com/google/dopamine)
 
+### 科学上网
+ - [V2RayX `GUI for v2ray-core on macOS`](https://github.com/Cenmrev/V2RayX)
+ - [v2ray-core `A platform for building proxies to bypass network restrictions. https://www.v2ray.com/`](https://github.com/v2ray/v2ray-core)
+ - [v2ray](https://www.v2ray.com/)
+ - [vps 搭建 v2ray，shadowrocket 相关博客](https://233blog.com/)
+ - [WebSiteUseful `翻墙！科学上网，免费ss帐号分享、ssr订阅源，免费VPN下载，获取及使用教程请看：https://github.com/loremwalker/fq-book`](https://github.com/loremwalker/WebSiteUseful)
+ 
 ### 比特币
  - [bitcoin `Bitcoin Core integration/staging tree https://bitcoincore.org/en/download`](https://github.com/bitcoin/bitcoin)
 
