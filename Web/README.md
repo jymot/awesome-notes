@@ -26,6 +26,7 @@
  - [xgplayer `A HTML5 video player with a parser that saves traffic`](https://github.com/bytedance/xgplayer/)
  - [javascript-algorithms `Algorithms and data structures implemented in JavaScript with explanations and links to further readings`](https://github.com/trekhleb/javascript-algorithms)
  - [wechaty `WeChat Bot SDK for Personal Account, Powered by TypeScript, Docker, and 💖 https://chatie.io/wechaty/`](https://github.com/Chatie/wechaty)
+ - [windows95 `💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.`](https://github.com/felixrieseberg/windows95)
 
 
 ### Library
