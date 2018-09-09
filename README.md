@@ -48,6 +48,7 @@
  - [`google` dopamine `Dopamine is a research framework for fast prototyping of reinforcement learning algorithms. https://github.com/google/dopamine`](https://github.com/google/dopamine)
  - [skill-map `程序员技能图谱 https://github.com/TeamStuQ/skill-map`](https://github.com/TeamStuQ/skill-map)
  - [chinese-dos-games `🎮 Chinese DOS games in browser. https://dos.zczc.cz`](https://github.com/rwv/chinese-dos-games)
+ - [ToolsOfTheTrade `Tools of The Trade, from Hacker News.`](https://github.com/cjbarber/ToolsOfTheTrade)
 
 ### 科学上网
  - [V2RayX `GUI for v2ray-core on macOS`](https://github.com/Cenmrev/V2RayX)
