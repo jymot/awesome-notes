@@ -47,6 +47,7 @@
  - [licia `是一套在开发中实践积累起来的实用JavaScript工具库。该库目前拥有超过180个模块，包括Dom操作，cookie设置，类创建，模板函数，日期格式化等实用模块，同时配套有打包工具Eustia进行定制化，使JS脚本加载量缩减在10KB以下，极大优化移动端页面的加载速度`](https://github.com/liriliri/licia)
  - [reconnecting-websocket `Reconnecting WebSocket. For Web, React Native, cli (Node.js)`](https://github.com/pladaria/reconnecting-websocket)
  - [graphql-js `A reference implementation of GraphQL for JavaScript http://graphql.org/graphql-js/`](https://github.com/graphql/graphql-js)
+ - [ky `Tiny and elegant HTTP client based on the browser Fetch API`](https://github.com/sindresorhus/ky)
 
 ### Framework
  - [flux `Application Architecture for Building User Interfaces `](https://github.com/facebook/flux)
