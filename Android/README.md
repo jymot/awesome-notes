@@ -23,7 +23,7 @@
   - [ProgressManager `ProgressManager 一行代码即可监听 App 中所有网络链接的上传以及下载进度,包括 Glide 的图片加载进度,实现原理类似 EventBus,你可在 App 中的任何地方,将多个监听器,以 Url 地址作为标识符,注册到本框架,当此 Url 地址存在下载或者上传的动作时,框架会主动调用所有使用此 Url 地址注册过的监听器,达到多个模块的同步更新.`](https://github.com/JessYanCoding/ProgressManager)
   - [FillBlankView `基于EditText，仿手机支付宝、微信支付时数字密码输入验证的控件，同时支持文字输入验证`](https://github.com/woxingxiao/FillBlankView)
   - [docker-android](https://github.com/butomo1989/docker-android)
- 
+  - [noDrawable `一个旨在减少99%的drawable.xml文件的库，可直接在布局文件中对任意View声明drawable属性。`](https://github.com/whataa/noDrawable)
  
 ### 精选
   - [material_design_zh `Material Design 中文协同翻译 `](https://github.com/1sters/material_design_zh)
