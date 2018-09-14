@@ -28,6 +28,10 @@
  - [Discovery `Nepxion Discovery is an enhancement for Spring Cloud Discovery on Eureka + Consul + Zookeeper for gray release, ip address filter and count limitation http://www.nepxion.com` `Nepxion Discovery是一款对Spring Cloud服务注册发现和负载均衡的增强中间件，其功能包括灰度发布（包括切换发布和平滑发布），黑/白名单的IP地址过滤，限制注册，限制发现等，支持Eureka、Consul和Zookeeper，支持Spring Cloud Api Gateway（Finchley版）、Zuul网关和微服务的灰度发布，支持用户自定义和编程灰度路由策略，支持Nacos和Redis为远程配置中心，同时兼容Spring Cloud Edgware版和Finchley版。现有的Spring Cloud微服务可以方便引入该插件，代码零侵入`](https://github.com/Nepxion/Discovery)
  - [httpbin `HTTP Request & Response Service, written in Python + Flask. https://httpbin.org`](https://github.com/requests/httpbin)
 
+### Utils
+ - [mapstruct `An annotation processor for generating type-safe bean mappers http://mapstruct.org/`](https://github.com/mapstruct/mapstruct)
+ - [dozer `Dozer is a Java Bean to Java Bean mapper that recursively copies data from one object to another. https://dozermapper.github.io/`](https://github.com/DozerMapper/dozer)
+
 ### RPC
  - [`Tencent` Tars `Tars is a highly performance rpc framework based on naming service using tars protocol and provides a semi-automatic operation platform.`](https://github.com/Tencent/Tars)
  - [incubator-dubbo `Dubbo is a high-performance, java based, open source RPC framework http://dubbo.io`](https://github.com/apache/incubator-dubbo)
