@@ -49,6 +49,7 @@
  - [skill-map `程序员技能图谱 https://github.com/TeamStuQ/skill-map`](https://github.com/TeamStuQ/skill-map)
  - [chinese-dos-games `🎮 Chinese DOS games in browser. https://dos.zczc.cz`](https://github.com/rwv/chinese-dos-games)
  - [ToolsOfTheTrade `Tools of The Trade, from Hacker News.`](https://github.com/cjbarber/ToolsOfTheTrade)
+ - [awesome-leetcode `Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现`](https://github.com/apachecn/awesome-leetcode)
 
 ### 科学上网
  - [V2RayX `GUI for v2ray-core on macOS`](https://github.com/Cenmrev/V2RayX)
