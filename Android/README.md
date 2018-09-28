@@ -24,6 +24,7 @@
   - [FillBlankView `基于EditText，仿手机支付宝、微信支付时数字密码输入验证的控件，同时支持文字输入验证`](https://github.com/woxingxiao/FillBlankView)
   - [docker-android](https://github.com/butomo1989/docker-android)
   - [noDrawable `一个旨在减少99%的drawable.xml文件的库，可直接在布局文件中对任意View声明drawable属性。`](https://github.com/whataa/noDrawable)
+  - [T-MVVM `This repository contains a detailed sample app that implements MVVM architecture using LiveData,ViewModel,Retrofit,Rxjava`](https://github.com/SelfZhangTQ/T-MVVM)
  
 ### 精选
   - [material_design_zh `Material Design 中文协同翻译 `](https://github.com/1sters/material_design_zh)
