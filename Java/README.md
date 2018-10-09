@@ -7,7 +7,7 @@
  - [`alibaba` dubbo `Dubbo is a high-performance, java based, open source RPC framework`](https://github.com/alibaba/dubbo)
  - [Java-Interview `Java related : basic, concurrent, algorithm`](https://github.com/crossoverJie/Java-Interview) 
  - [`square` tape `A lightning fast, transactional, file-based FIFO for Android and Java.`](https://github.com/square/tape)
- - [JavaGuide](https://github.com/Snailclimb/JavaGuide)
+ - [JavaGuide `【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 https://github.com/Snailclimb/JavaGuide`](https://github.com/Snailclimb/JavaGuide)
  
 ### Library
  - [`google` guava](https://github.com/google/guava)
