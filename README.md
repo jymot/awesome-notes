@@ -53,6 +53,9 @@
  - [MyTikTok `我的抖音APP 从0开始撸抖音`](https://github.com/whenSunSet/MyTikTok)
  - [kotlin_tips `用Kotlin去提高生产力:汇总Kotlin相对于Java的优势，以及怎么用Kotlin去简洁、务实、高效、安全开发的Tips`](https://github.com/heimashi/kotlin_tips)
 
+### Chrome Plugins
+ - [awesome-chrome-plugins `好用的 Chrome 插件`](https://github.com/Mike-bel/awesome-chrome-plugins)
+
 ### 科学上网
  - [V2RayX `GUI for v2ray-core on macOS`](https://github.com/Cenmrev/V2RayX)
  - [v2ray-core `A platform for building proxies to bypass network restrictions. https://www.v2ray.com/`](https://github.com/v2ray/v2ray-core)
