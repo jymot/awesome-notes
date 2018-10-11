@@ -35,6 +35,7 @@
 ### Utils
  - [mapstruct `An annotation processor for generating type-safe bean mappers http://mapstruct.org/`](https://github.com/mapstruct/mapstruct)
  - [dozer `Dozer is a Java Bean to Java Bean mapper that recursively copies data from one object to another. https://dozermapper.github.io/`](https://github.com/DozerMapper/dozer)
+ - [logstash-logback-encoder `Logback encoder which creates JSON for use with Logstash`](https://github.com/logstash/logstash-logback-encoder)
 
 ### RPC
  - [`Tencent` Tars `Tars is a highly performance rpc framework based on naming service using tars protocol and provides a semi-automatic operation platform.`](https://github.com/Tencent/Tars)
