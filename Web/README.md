@@ -28,7 +28,16 @@
  - [wechaty `WeChat Bot SDK for Personal Account, Powered by TypeScript, Docker, and 💖 https://chatie.io/wechaty/`](https://github.com/Chatie/wechaty)
  - [windows95 `💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.`](https://github.com/felixrieseberg/windows95)
  - [fabric.js `Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser http://fabricjs.com`](https://github.com/fabricjs/fabric.js)
-
+ - [reveal `一个专门用来做 HTML 幻灯片的框架，支持 HTML 和 Markdown 语法。`](https://github.com/hakimel/reveal.js)
+ - [impress `一个受 https://prezi.com/ 的启发，使用了现代浏览器里支持的 CSS3 transforms 和 transitions 的特效幻灯片。`](https://github.com/impress/impress.js)
+ - [carbon `可以将你的代码生成美美的图片，然后你就可以分享到各个社区了。`](https://github.com/dawnlabs/carbon)
+ - [favico `让你的 favicon 用上胶囊图标、图片和视频`](https://github.com/ejci/favico.js)
+ - [typed `打字机效果库`](https://github.com/mattboldt/typed.js)
+ - [vConsole `一个轻量、可拓展、针对手机网页的前端开发者调试面板（chrome 开发者工具的便利实现）。一般在 web 应用开发过程中，可以用 console.log 去输出一些信息，但是在移动端，console.log 的信息是看不到的。这种情况下，当然可以选择使用 alert 弹出一些信息，但是这种方法实在不怎么方便，也会阻断 js 事件循环，调试体验和效率都很差。`](https://github.com/Tencent/vConsole)
+ - [midnight `固定头部炫酷效果`](https://github.com/Aerolab/midnight.js)
+ - [multiscroll `多边滑动效果`](https://github.com/alvarotrigo/multiscroll.js)
+ - [diaporama `Kenburns 效果 与 glsl 转换动画库`](https://github.com/gre/diaporama)
+ - [RainEffect `雨滴效果`](https://github.com/codrops/RainEffect)
 
 ### Library
  - [lodash `Lodash, 作为NPM最多下载量和被依赖最多的包，提供了更加支持跨环境一致性的对数组、字符串、对象和参数对象的支持` `A modern JavaScript utility library delivering modularity, performance, & extras.`](https://github.com/lodash/lodash)
