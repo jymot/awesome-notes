@@ -30,6 +30,9 @@
  - [httpbin `HTTP Request & Response Service, written in Python + Flask. https://httpbin.org`](https://github.com/requests/httpbin)
  - [canal `阿里巴巴mysql数据库binlog的增量订阅&消费组件 。阿里云DRDS( https://www.aliyun.com/product/drds )、阿里巴巴TDDL 二级索引、小表复制powerd by canal.`](https://github.com/alibaba/canal)
 
+### Service Mesh
+ - [istio `Connect, secure, control, and observe services. https://istio.io`](https://github.com/istio/istio)
+
 ### Security
  - [spring-security-oauth](https://github.com/spring-projects/spring-security-oauth)
 
