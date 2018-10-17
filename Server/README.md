@@ -9,6 +9,7 @@
  - [Spring-Boot-Reference-Guide](https://github.com/qibaoguang/Spring-Boot-Reference-Guide)
  - [spring-cloud-study `开源书《使用Spring Cloud与Docker实战微服务》的配套代码`](https://github.com/eacdy/spring-cloud-study)
  - [xbin-store-cloud `模仿国内知名B2C网站,实现的一个分布式B2C商城 使用Spring Cloud 使用dubbox版本请查看`](https://github.com/xubinux/xbin-store-cloud)
+ - [xbin-newstore-cloud `基于xbin-store-cloud重构，完全保留原业务逻辑，模块更精简，部署更方便`](https://github.com/phantasies/xbin-newstore-cloud)
  - [architect-awesome `后端架构师技术图谱`](https://github.com/xingshaocheng/architect-awesome)
  - [paascloud-master `spring cloud + vue 全家桶实战，模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目`](https://github.com/paascloud/paascloud-master)
  - [SpringCloudLearning `project for spring cloud learning`](https://github.com/forezp/SpringCloudLearning)
