@@ -29,8 +29,10 @@
  - [Discovery `Nepxion Discovery is an enhancement for Spring Cloud Discovery on Eureka + Consul + Zookeeper for gray release, ip address filter and count limitation http://www.nepxion.com` `Nepxion Discovery是一款对Spring Cloud服务注册发现和负载均衡的增强中间件，其功能包括灰度发布（包括切换发布和平滑发布），黑/白名单的IP地址过滤，限制注册，限制发现等，支持Eureka、Consul和Zookeeper，支持Spring Cloud Api Gateway（Finchley版）、Zuul网关和微服务的灰度发布，支持用户自定义和编程灰度路由策略，支持Nacos和Redis为远程配置中心，同时兼容Spring Cloud Edgware版和Finchley版。现有的Spring Cloud微服务可以方便引入该插件，代码零侵入`](https://github.com/Nepxion/Discovery)
  - [httpbin `HTTP Request & Response Service, written in Python + Flask. https://httpbin.org`](https://github.com/requests/httpbin)
  - [canal `阿里巴巴mysql数据库binlog的增量订阅&消费组件 。阿里云DRDS( https://www.aliyun.com/product/drds )、阿里巴巴TDDL 二级索引、小表复制powerd by canal.`](https://github.com/alibaba/canal)
+ - [kubernetes `Production-Grade Container Scheduling and Management https://kubernetes.io`](https://github.com/kubernetes/kubernetes)
 
 ### Service Mesh
+ - [service-mesh](https://jimmysong.io/kubernetes-handbook/usecases/service-mesh.html)
  - [istio `Connect, secure, control, and observe services. https://istio.io`](https://github.com/istio/istio)
  - [linkerd `A service mesh for Kubernetes and beyond. Main repo for Linkerd 1.x. https://linkerd.io`](https://github.com/linkerd/linkerd)
 
@@ -41,6 +43,7 @@
  - [mapstruct `An annotation processor for generating type-safe bean mappers http://mapstruct.org/`](https://github.com/mapstruct/mapstruct)
  - [dozer `Dozer is a Java Bean to Java Bean mapper that recursively copies data from one object to another. https://dozermapper.github.io/`](https://github.com/DozerMapper/dozer)
  - [logstash-logback-encoder `Logback encoder which creates JSON for use with Logstash`](https://github.com/logstash/logstash-logback-encoder)
+ - [kubernetes `Production-Grade Container Scheduling and Management https://kubernetes.io`](https://github.com/kubernetes/kubernetes)
 
 ### RPC
  - [`Tencent` Tars `Tars is a highly performance rpc framework based on naming service using tars protocol and provides a semi-automatic operation platform.`](https://github.com/Tencent/Tars)
