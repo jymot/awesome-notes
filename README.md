@@ -52,6 +52,7 @@
  - [awesome-leetcode `Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现`](https://github.com/apachecn/awesome-leetcode)
  - [MyTikTok `我的抖音APP 从0开始撸抖音`](https://github.com/whenSunSet/MyTikTok)
  - [kotlin_tips `用Kotlin去提高生产力:汇总Kotlin相对于Java的优势，以及怎么用Kotlin去简洁、务实、高效、安全开发的Tips`](https://github.com/heimashi/kotlin_tips)
+ - [BaiduPCS-Go `百度网盘客户端 - Go语言编写`](https://github.com/iikira/BaiduPCS-Go)
 
 ### Chrome Plugins
  - [awesome-chrome-plugins `好用的 Chrome 插件`](https://github.com/Mike-bel/awesome-chrome-plugins)
