@@ -29,7 +29,7 @@
  - [Discovery `Nepxion Discovery is an enhancement for Spring Cloud Discovery on Eureka + Consul + Zookeeper for gray release, ip address filter and count limitation http://www.nepxion.com` `Nepxion Discovery是一款对Spring Cloud服务注册发现和负载均衡的增强中间件，其功能包括灰度发布（包括切换发布和平滑发布），黑/白名单的IP地址过滤，限制注册，限制发现等，支持Eureka、Consul和Zookeeper，支持Spring Cloud Api Gateway（Finchley版）、Zuul网关和微服务的灰度发布，支持用户自定义和编程灰度路由策略，支持Nacos和Redis为远程配置中心，同时兼容Spring Cloud Edgware版和Finchley版。现有的Spring Cloud微服务可以方便引入该插件，代码零侵入`](https://github.com/Nepxion/Discovery)
  - [httpbin `HTTP Request & Response Service, written in Python + Flask. https://httpbin.org`](https://github.com/requests/httpbin)
  - [canal `阿里巴巴mysql数据库binlog的增量订阅&消费组件 。阿里云DRDS( https://www.aliyun.com/product/drds )、阿里巴巴TDDL 二级索引、小表复制powerd by canal.`](https://github.com/alibaba/canal)
- - [kubernetes `Production-Grade Container Scheduling and Management https://kubernetes.io`](https://github.com/kubernetes/kubernetes)
+ - [kubernetes `Production-Grade Container Scheduling and Management https://kubernetes.io` `Kubernetes（k8s）是自动化容器操作的开源平台，这些操作包括部署，调度和节点集群间扩展。如果你曾经用过Docker容器技术部署容器，那么可以将Docker看成Kubernetes内部使用的低级别组件`](https://github.com/kubernetes/kubernetes)
 
 ### Service Mesh
  - [service-mesh](https://jimmysong.io/kubernetes-handbook/usecases/service-mesh.html)
