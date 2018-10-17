@@ -8,10 +8,7 @@
  - [dubbokeeper `dubbo服务管理以及监控系统`](https://github.com/dubboclub/dubbokeeper)
  - [Spring-Boot-Reference-Guide](https://github.com/qibaoguang/Spring-Boot-Reference-Guide)
  - [spring-cloud-study `开源书《使用Spring Cloud与Docker实战微服务》的配套代码`](https://github.com/eacdy/spring-cloud-study)
- - [xbin-store-cloud `模仿国内知名B2C网站,实现的一个分布式B2C商城 使用Spring Cloud 使用dubbox版本请查看`](https://github.com/xubinux/xbin-store-cloud)
- - [xbin-newstore-cloud `基于xbin-store-cloud重构，完全保留原业务逻辑，模块更精简，部署更方便`](https://github.com/phantasies/xbin-newstore-cloud)
  - [architect-awesome `后端架构师技术图谱`](https://github.com/xingshaocheng/architect-awesome)
- - [paascloud-master `spring cloud + vue 全家桶实战，模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目`](https://github.com/paascloud/paascloud-master)
  - [SpringCloudLearning `project for spring cloud learning`](https://github.com/forezp/SpringCloudLearning)
  - [mybatis-plus `An enhanced toolkit of Mybatis to simplify development http://mp.baomidou.com/`](https://github.com/baomidou/mybatis-plus)
  - [Mapper `Mybatis Common Mapper - Easy to use 通用Mapper都可以极大的方便开发人员`](https://github.com/abel533/Mapper)
@@ -76,7 +73,10 @@
 ### spring framework
  - [hsweb-framework](https://github.com/hs-web/hsweb-framework)
  - [zheng](https://github.com/shuzheng/zheng)
-
+ - [xbin-store-cloud `模仿国内知名B2C网站,实现的一个分布式B2C商城 使用Spring Cloud 使用dubbox版本请查看`](https://github.com/xubinux/xbin-store-cloud)
+ - [xbin-newstore-cloud `基于xbin-store-cloud重构，完全保留原业务逻辑，模块更精简，部署更方便`](https://github.com/phantasies/xbin-newstore-cloud)
+  - [paascloud-master `spring cloud + vue 全家桶实战，模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目`](https://github.com/paascloud/paascloud-master)
+  
 ### Other
  - [`alibaba` druid `为监控而生的数据库连接池`](https://github.com/alibaba/druid)
  - [RAP `Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理`](https://github.com/thx/RAP)
