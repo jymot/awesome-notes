@@ -43,8 +43,7 @@
  - [mapstruct `An annotation processor for generating type-safe bean mappers http://mapstruct.org/`](https://github.com/mapstruct/mapstruct)
  - [dozer `Dozer is a Java Bean to Java Bean mapper that recursively copies data from one object to another. https://dozermapper.github.io/`](https://github.com/DozerMapper/dozer)
  - [logstash-logback-encoder `Logback encoder which creates JSON for use with Logstash`](https://github.com/logstash/logstash-logback-encoder)
- - [kubernetes `Production-Grade Container Scheduling and Management https://kubernetes.io`](https://github.com/kubernetes/kubernetes)
-
+ 
 ### RPC
  - [`Tencent` Tars `Tars is a highly performance rpc framework based on naming service using tars protocol and provides a semi-automatic operation platform.`](https://github.com/Tencent/Tars)
  - [incubator-dubbo `Dubbo is a high-performance, java based, open source RPC framework http://dubbo.io`](https://github.com/apache/incubator-dubbo)
