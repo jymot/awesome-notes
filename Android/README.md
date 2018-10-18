@@ -25,6 +25,8 @@
   - [docker-android](https://github.com/butomo1989/docker-android)
   - [noDrawable `一个旨在减少99%的drawable.xml文件的库，可直接在布局文件中对任意View声明drawable属性。`](https://github.com/whataa/noDrawable)
   - [T-MVVM `This repository contains a detailed sample app that implements MVVM architecture using LiveData,ViewModel,Retrofit,Rxjava`](https://github.com/SelfZhangTQ/T-MVVM)
+  - [`alibaba` freeline `Freeline 是 Android 平台上的秒级编译方案，Instant Run 的替代品`](https://github.com/alibaba/freeline)
+  
  
 ### 精选
   - [material_design_zh `Material Design 中文协同翻译 `](https://github.com/1sters/material_design_zh)
