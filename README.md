@@ -11,7 +11,6 @@
  - [digital_video_introduction `A hands-on introduction to video technology: image, video, codec (av1, h264, h265) and more (ffmpeg encoding).`](https://github.com/leandromoreira/digital_video_introduction)
  - [Lepton `Cross-platform snippet/note manager based on GitHub Gist. `](https://github.com/hackjutsu/Lepton)
  - [github/platform-samples `github`](https://github.com/github/platform-samples)
- - [easyhosts `基于 Github 项目整合的远程 Hosts 直链，适配多种规则、终端，每 30 分钟 自动同步一次 Github 最新可用项目并提供打包下载`](https://github.com/forkgood/easyhosts)
  - [apollo `An open autonomous driving platform`](https://github.com/ApolloAuto/apollo)
  - [`facebook` graphql `GraphQL is a query language and execution engine tied to any backend service.`](https://github.com/facebook/graphql)
  - [移动视频直播 SDK、直播互动解决方案首选（API based、Live Streaming as-a-Service](https://github.com/pili-engineering)
@@ -64,6 +63,7 @@
  - [v2ray](https://www.v2ray.com/)
  - [vps 搭建 v2ray，shadowrocket 相关博客](https://233blog.com/)
  - [WebSiteUseful `翻墙！科学上网，免费ss帐号分享、ssr订阅源，免费VPN下载，获取及使用教程请看：https://github.com/loremwalker/fq-book`](https://github.com/loremwalker/WebSiteUseful)
+ - [easyhosts `基于 Github 项目整合的远程 Hosts 直链，适配多种规则、终端，每 30 分钟 自动同步一次 Github 最新可用项目并提供打包下载`](https://github.com/forkgood/easyhosts)
  
 ### 比特币
  - [bitcoin `Bitcoin Core integration/staging tree https://bitcoincore.org/en/download`](https://github.com/bitcoin/bitcoin)
