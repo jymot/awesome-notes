@@ -32,11 +32,7 @@
  - [TranslateProject `Linux中国翻译项目 https://linux.cn/lctt`](https://github.com/LCTT/TranslateProject)
  - [system-design-primer `Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.`](https://github.com/donnemartin/system-design-primersystem-design-primer)
  - [cheat.sh `the only cheat sheet you need https://cheat.sh/` `这是一个网站，更是一个实用的速查工具，它具有的功能特性包括：
-简洁的 curl / browser 界面；
-涵盖 55 种编程语言和 1000 多种最重要的 UNIX/Linux 命令；
-无需安装，随处可用；
-速度快，通常在 100 毫秒以内就可以返回答案；
-可以直接在代码编辑器中使用，无需打开浏览器。`](https://github.com/chubin/cheat.sh)
+简洁的 curl / browser 界面;涵盖 55 种编程语言和 1000 多种最重要的 UNIX/Linux 命令；无需安装，随处可用；速度快，通常在 100 毫秒以内就可以返回答案；可以直接在代码编辑器中使用，无需打开浏览器。`](https://github.com/chubin/cheat.sh)
  - [open-source-mac-os-apps `Awesome list of open source applications for macOS.`](https://github.com/serhii-londar/open-source-mac-os-apps)
  - [InterviewMap `Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc. https://yuchengkai.cn/docs/`](https://github.com/InterviewMap/InterviewMap)
  - [WeChatPlugin-MacOS `一款功能强大的 macOS 版微信小助手 v1.7.1 / A powerful assistant for wechat macOS`](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS)
