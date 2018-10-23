@@ -38,6 +38,7 @@
  - [multiscroll `多边滑动效果`](https://github.com/alvarotrigo/multiscroll.js)
  - [diaporama `Kenburns 效果 与 glsl 转换动画库`](https://github.com/gre/diaporama)
  - [RainEffect `雨滴效果`](https://github.com/codrops/RainEffect)
+ - [`Tencent` omi `Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating) http://omijs.org`](https://github.com/Tencent/omi)
 
 ### Library
  - [lodash `Lodash, 作为NPM最多下载量和被依赖最多的包，提供了更加支持跨环境一致性的对数组、字符串、对象和参数对象的支持` `A modern JavaScript utility library delivering modularity, performance, & extras.`](https://github.com/lodash/lodash)
