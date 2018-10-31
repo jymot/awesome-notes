@@ -30,6 +30,7 @@
  - [kubernetes `Production-Grade Container Scheduling and Management https://kubernetes.io` `Kubernetes（k8s）是自动化容器操作的开源平台，这些操作包括部署，调度和节点集群间扩展。如果你曾经用过Docker容器技术部署容器，那么可以将Docker看成Kubernetes内部使用的低级别组件`](https://github.com/kubernetes/kubernetes)
  - [`XiaoMi` soar `SQL Optimizer And Rewriter`](https://github.com/XiaoMi/soar)
  - [`alibaba` cobar `Cobar是提供关系型数据库（MySQL）分布式服务的中间件，它可以让传统的数据库得到良好的线性扩展，并看上去还是一个数据库,对应用保持透明`](https://github.com/alibaba/cobar)
+ - [sharding-sphere `Sharding-Sphere是一套开源的分布式数据库中间件解决方案组成的生态圈，它由Sharding-JDBC、Sharding-Proxy和Sharding-Sidecar（计划中）这3款相互独立的产品组成。他们均提供标准化的数据分片、分布式事务和数据库治理功能，可适用于如Java同构、异构语言、容器、云原生等各种多样化的应用场景`](https://github.com/sharding-sphere/sharding-sphere)
 
 ### Service Mesh
  - [service-mesh](https://jimmysong.io/kubernetes-handbook/usecases/service-mesh.html)
