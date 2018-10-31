@@ -29,6 +29,7 @@
  - [canal `阿里巴巴mysql数据库binlog的增量订阅&消费组件 。阿里云DRDS( https://www.aliyun.com/product/drds )、阿里巴巴TDDL 二级索引、小表复制powerd by canal.`](https://github.com/alibaba/canal)
  - [kubernetes `Production-Grade Container Scheduling and Management https://kubernetes.io` `Kubernetes（k8s）是自动化容器操作的开源平台，这些操作包括部署，调度和节点集群间扩展。如果你曾经用过Docker容器技术部署容器，那么可以将Docker看成Kubernetes内部使用的低级别组件`](https://github.com/kubernetes/kubernetes)
  - [`XiaoMi` soar `SQL Optimizer And Rewriter`](https://github.com/XiaoMi/soar)
+ - [`alibaba` cobar `Cobar是提供关系型数据库（MySQL）分布式服务的中间件，它可以让传统的数据库得到良好的线性扩展，并看上去还是一个数据库,对应用保持透明`](https://github.com/alibaba/cobar)
 
 ### Service Mesh
  - [service-mesh](https://jimmysong.io/kubernetes-handbook/usecases/service-mesh.html)
