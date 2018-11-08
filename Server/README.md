@@ -31,6 +31,7 @@
  - [`XiaoMi` soar `SQL Optimizer And Rewriter`](https://github.com/XiaoMi/soar)
  - [`alibaba` cobar `Cobar是提供关系型数据库（MySQL）分布式服务的中间件，它可以让传统的数据库得到良好的线性扩展，并看上去还是一个数据库,对应用保持透明`](https://github.com/alibaba/cobar)
  - [sharding-sphere `Sharding-Sphere是一套开源的分布式数据库中间件解决方案组成的生态圈，它由Sharding-JDBC、Sharding-Proxy和Sharding-Sidecar（计划中）这3款相互独立的产品组成。他们均提供标准化的数据分片、分布式事务和数据库治理功能，可适用于如Java同构、异构语言、容器、云原生等各种多样化的应用场景`](https://github.com/sharding-sphere/sharding-sphere)
+ - [mango `Distributed ORM Framework for Java http://mango.jfaster.org/`](https://github.com/jfaster/mango/)
 
 ### Service Mesh
  - [service-mesh](https://jimmysong.io/kubernetes-handbook/usecases/service-mesh.html)
