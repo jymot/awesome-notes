@@ -65,6 +65,7 @@
  - [fresco `facebook`](https://github.com/facebook/fresco)
  - [picasso `square`](https://github.com/square/picasso)
  - [zopfli `Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.`](https://github.com/google/zopfli)
+ - [一种JNI方法实现图片压缩，压缩率极高 `https://github.com/zengfw/EffectiveBitmap`](https://mp.weixin.qq.com/s/FVQR6VGA0dvqh6EvEuoFfA)
 
 ### Android Utils
  - [DSBridge-Android `WebView` `JS bridge`](https://github.com/wendux/DSBridge-Android)
