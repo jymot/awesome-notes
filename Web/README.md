@@ -132,6 +132,7 @@
  - [vuesax `Framework Components for Vue.js 2`](https://github.com/lusaxweb/vuesax)
  - [tinymce-vue `vue 富文本`](https://github.com/tinymce/tinymce-vue)
  - [kui-vue `基于VUE2.0的 UI组件库，欢迎使用！ https://k-ui.xyz`](https://github.com/chuchur/kui-vue)
+ - [TypeScript-Vue-Starter `A starter template for TypeScript and Vue with a detailed README describing how to use the two together.`](https://github.com/Microsoft/TypeScript-Vue-Starter)
 #### Vue admin
  - [vue-element-admin `A magical vue admin`](https://github.com/PanJiaChen/vue-element-admin)
  - [vueAdmin-template `a vue2.0 minimal admin template`](https://github.com/PanJiaChen/vueAdmin-template)
