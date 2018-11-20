@@ -60,6 +60,7 @@
  - [reconnecting-websocket `Reconnecting WebSocket. For Web, React Native, cli (Node.js)`](https://github.com/pladaria/reconnecting-websocket)
  - [graphql-js `A reference implementation of GraphQL for JavaScript http://graphql.org/graphql-js/`](https://github.com/graphql/graphql-js)
  - [ky `Tiny and elegant HTTP client based on the browser Fetch API`](https://github.com/sindresorhus/ky)
+ - [semantic-ui `Semantic is a UI component framework based around useful principles from natural language. http://www.semantic-ui.com`](https://github.com/semantic-org/semantic-ui/)
 
 ### Framework
  - [flux `Application Architecture for Building User Interfaces `](https://github.com/facebook/flux)
