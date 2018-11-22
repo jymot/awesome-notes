@@ -26,8 +26,15 @@
  - [canal `阿里巴巴mysql数据库binlog的增量订阅&消费组件 。阿里云DRDS( https://www.aliyun.com/product/drds )、阿里巴巴TDDL 二级索引、小表复制powerd by canal.`](https://github.com/alibaba/canal)
  - [kubernetes `Production-Grade Container Scheduling and Management https://kubernetes.io` `Kubernetes（k8s）是自动化容器操作的开源平台，这些操作包括部署，调度和节点集群间扩展。如果你曾经用过Docker容器技术部署容器，那么可以将Docker看成Kubernetes内部使用的低级别组件`](https://github.com/kubernetes/kubernetes)
  - [`Alibaba` arthas `Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas https://alibaba.github.io/arthas/`](https://github.com/alibaba/arthas)
- - [xxl-job `A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB） http://www.xuxueli.com/xxl-job/`](https://github.com/xuxueli/xxl-job/)
 
+### 分布式任务调度
+ - [xxl-job `A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB） http://www.xuxueli.com/xxl-job/`](https://github.com/xuxueli/xxl-job/)
+ - [elastic-job-lite `Elastic-Job is a distributed scheduled job framework, based on Quartz and Zookeeper.`](https://github.com/elasticjob/elastic-job-lite)
+ - [light-task-scheduler `Distributed Scheduled Job Framework` `主要用于解决分布式任务调度问题，支持实时任务，定时任务和Cron任务。有较好的伸缩性，扩展性，健壮稳定性而被多家公司使用，同时也希望开源爱好者一起贡献。`](https://github.com/ltsopensource/light-task-scheduler)
+ - [uncode-schedule `基于zookeeper+spring task的分布式任务调度组件，非常小巧，无需任何修改就可以使spring task具备分布式特性，确保所有任务在集群中不重复，不遗漏的执行。 http://www.uncode.cn`](https://github.com/uncodecn/uncode-schedule)
+ - [opencron `opencron 是强大的管理linux crontab任务的系统，基于JAVA开发`](https://gitee.com/benjobs/opencron)
+ - [antares `分布式任务调度平台(Distributed Job Schedule Platform)`](https://github.com/ihaolin/antares)
+ 
 ### About Database
  - [sharding-sphere `Sharding-Sphere是一套开源的分布式数据库中间件解决方案组成的生态圈，它由Sharding-JDBC、Sharding-Proxy和Sharding-Sidecar（计划中）这3款相互独立的产品组成。他们均提供标准化的数据分片、分布式事务和数据库治理功能，可适用于如Java同构、异构语言、容器、云原生等各种多样化的应用场景`](https://github.com/sharding-sphere/sharding-sphere)
  - [mango `Distributed ORM Framework for Java http://mango.jfaster.org/`](https://github.com/jfaster/mango/)
