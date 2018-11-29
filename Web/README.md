@@ -17,7 +17,7 @@
  - [Font-Awesome `The iconic SVG, font, and CSS toolkit `](https://github.com/FortAwesome/Font-Awesome)
  - [core-decorators `Library of stage-0 JavaScript decorators (aka ES2016/ES7 decorators but not accurate) inspired by languages that come with built-ins like @​override, @​deprecate, @​autobind, @​mixin and more. Popular with React/Angular, but is framework agnostic.`](https://github.com/jayphelps/core-decorators)
  - [Web `前端入门和进阶学习笔记，超详细的前端学习图文教程。从零开始学前端，做一个web全栈工程师。每日更新...`](https://github.com/smyhvae/Web)
- - [ice `alibaba`](https://github.com/alibaba/ice/)
+ - [ice `alibaba` `让前端开发简单而友好,海量可复用物料，配套桌面工具极速构建前端应用，效率提升 100%`](https://github.com/alibaba/ice/)
  - [mpvue `基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。 http://mpvue.com`](https://github.com/Meituan-Dianping/mpvue)
  - [awesome-design-patterns `A curated list of software and architecture related design patterns.`](https://github.com/DovAmir/awesome-design-patterns)
  - [taro `多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序、H5、React Native 等的应用。 https://taro.aotu.io`](https://github.com/NervJS/taro)
