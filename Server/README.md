@@ -27,6 +27,7 @@
  - [kubernetes `Production-Grade Container Scheduling and Management https://kubernetes.io` `Kubernetes（k8s）是自动化容器操作的开源平台，这些操作包括部署，调度和节点集群间扩展。如果你曾经用过Docker容器技术部署容器，那么可以将Docker看成Kubernetes内部使用的低级别组件`](https://github.com/kubernetes/kubernetes)
  - [`Alibaba` arthas `Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas https://alibaba.github.io/arthas/`](https://github.com/alibaba/arthas)
  - [dive `A tool for exploring each layer in a docker image`](https://github.com/wagoodman/dive)
+ - [zipkin `Zipkin is a distributed tracing system http://zipkin.io`](https://github.com/openzipkin/zipkin)
 
 ### 分布式任务调度
  - [xxl-job `A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB） http://www.xuxueli.com/xxl-job/`](https://github.com/xuxueli/xxl-job/)
