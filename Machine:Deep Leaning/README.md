@@ -4,3 +4,4 @@
  - [AndroidTensorFlowMNISTExample](https://github.com/MindorksOpenSource/AndroidTensorFlowMNISTExample)
  - [Deep Learning `for chinese`](https://github.com/exacity/deeplearningbook-chinese)
  - [tensorflow `Computation using data flow graphs for scalable machine learning `](https://github.com/tensorflow/tensorflow)
+ - [d2l-zh `《动手学深度学习》 https://zh.diveintodeeplearning.org`](https://github.com/diveintodeeplearning/d2l-zh)
