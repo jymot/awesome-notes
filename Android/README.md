@@ -27,6 +27,8 @@
   - [T-MVVM `This repository contains a detailed sample app that implements MVVM architecture using LiveData,ViewModel,Retrofit,Rxjava`](https://github.com/SelfZhangTQ/T-MVVM)
   - [`alibaba` freeline `Freeline 是 Android 平台上的秒级编译方案，Instant Run 的替代品`](https://github.com/alibaba/freeline)
   - [phimpme-android `Phimp.me - Photo Image Editor App https://phimp.me`](https://github.com/fossasia/phimpme-android)
+  - [android-priority-jobqueue `A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability.`](https://github.com/yigit/android-priority-jobqueue)
+ 
  
 ### 精选
   - [material_design_zh `Material Design 中文协同翻译 `](https://github.com/1sters/material_design_zh)
