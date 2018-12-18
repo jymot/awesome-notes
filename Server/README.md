@@ -28,6 +28,7 @@
  - [`Alibaba` arthas `Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas https://alibaba.github.io/arthas/`](https://github.com/alibaba/arthas)
  - [dive `A tool for exploring each layer in a docker image`](https://github.com/wagoodman/dive)
  - [zipkin `Zipkin is a distributed tracing system http://zipkin.io`](https://github.com/openzipkin/zipkin)
+ - [miaosha `😮😮秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓`](https://github.com/qiurunze123/miaosha)
 
 ### 分布式任务调度
  - [xxl-job `A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB） http://www.xuxueli.com/xxl-job/`](https://github.com/xuxueli/xxl-job/)
