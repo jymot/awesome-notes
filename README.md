@@ -50,6 +50,7 @@
  - [BaiduPCS-Go `百度网盘客户端 - Go语言编写`](https://github.com/iikira/BaiduPCS-Go)
  - [`TypeScript Book` typescript-book-chinese `TypeScript Deep Dive 中文版 https://jkchao.github.io/typescript-b…`](https://github.com/jkchao/typescript-book-chinese)
  - [2019_campus_apply `Full Stack Developer Tutorial，后台技术栈/全栈开发/架构师之路，秋招/春招/校招/面试。 from zero to hero.`](https://github.com/frank-lam/2019_campus_apply)
+ - [GitHubDaily `GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。`](https://github.com/GitHubDaily/GitHubDaily)
 
 ### Chrome Plugins
  - [awesome-chrome-plugins `好用的 Chrome 插件`](https://github.com/Mike-bel/awesome-chrome-plugins)
