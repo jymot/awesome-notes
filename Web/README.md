@@ -61,7 +61,7 @@
  - [reconnecting-websocket `Reconnecting WebSocket. For Web, React Native, cli (Node.js)`](https://github.com/pladaria/reconnecting-websocket)
  - [graphql-js `A reference implementation of GraphQL for JavaScript http://graphql.org/graphql-js/`](https://github.com/graphql/graphql-js)
  - [ky `Tiny and elegant HTTP client based on the browser Fetch API`](https://github.com/sindresorhus/ky)
-
+ - [insomnia `Cross-platform HTTP and GraphQL Client https://insomnia.rest`](https://github.com/getinsomnia/insomnia)
 
 ### Framework
  - [flux `Application Architecture for Building User Interfaces `](https://github.com/facebook/flux)
