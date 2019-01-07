@@ -41,6 +41,8 @@
  - [`Tencent` omi `Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating) http://omijs.org`](https://github.com/Tencent/omi)
  - [eva-icons `A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support. https://akveo.github.io/eva-icons/`](https://github.com/akveo/eva-icons)
  - [semantic-ui `Semantic is a UI component framework based around useful principles from natural language. http://www.semantic-ui.com`](https://github.com/semantic-org/semantic-ui/)
+ - [prisma `⚡️ Prisma enables seamless type-safe database access & declarative data modeling https://www.prisma.io
+`](https://github.com/prisma/prisma)
 
 ### Library
  - [lodash `Lodash, 作为NPM最多下载量和被依赖最多的包，提供了更加支持跨环境一致性的对数组、字符串、对象和参数对象的支持` `A modern JavaScript utility library delivering modularity, performance, & extras.`](https://github.com/lodash/lodash)
