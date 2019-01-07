@@ -30,6 +30,7 @@
   - [`任务队列` android-priority-jobqueue `A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability.`](https://github.com/yigit/android-priority-jobqueue)
   - [Android-Debug-Database `A library for debugging android databases and shared preferences - Make Debugging Great Again https://mindorks.com/open-source-proj…` `利用这个库，我们可以通过浏览器方便的查看的数据库`](https://github.com/amitshekhariitbhu/Android-Debug-Database)
   - [xHook `🔥 A PLT hook library for Android native ELF (executable and shared libraries). Support Android 4.0+. Support armeabi-v7a, arm64-v8a, x86, x86_64.`](https://github.com/iqiyi/xHook)
+  - [Awesome-Android-Notebook `A complete plan for better android developers.（continuous updating ...）`](https://github.com/JsonChao/Awesome-Android-Notebook)
  
 ### 精选
   - [material_design_zh `Material Design 中文协同翻译 `](https://github.com/1sters/material_design_zh)
