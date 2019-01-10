@@ -31,6 +31,7 @@
  - [miaosha `😮😮秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓`](https://github.com/qiurunze123/miaosha)
  - [prisma `⚡️ Prisma enables seamless type-safe database access & declarative data modeling https://www.prisma.io
 `](https://github.com/prisma/prisma)
+ - [`alibaba` sofa-rpc `SOFARPC is a high-performance, high-extensibility, production-level Java RPC framework.`](https://github.com/alipay/sofa-rpc)
 
 ### 分布式任务调度
  - [xxl-job `A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB） http://www.xuxueli.com/xxl-job/`](https://github.com/xuxueli/xxl-job/)
