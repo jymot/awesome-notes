@@ -44,6 +44,7 @@
  - [prisma `⚡️ Prisma enables seamless type-safe database access & declarative data modeling https://www.prisma.io
 `](https://github.com/prisma/prisma)
  - [rough `Create graphics with a hand-drawn, sketchy, appearance http://roughjs.com`](https://github.com/pshihn/rough)
+ - [`facebook内容加载效果` react-content-loader `⚪️ SVG component to create placeholder loading, like Facebook cards loading. http://danilowoz.com/create-content-l…`](https://github.com/danilowoz/react-content-loader)
 
 ### Library
  - [lodash `Lodash, 作为NPM最多下载量和被依赖最多的包，提供了更加支持跨环境一致性的对数组、字符串、对象和参数对象的支持` `A modern JavaScript utility library delivering modularity, performance, & extras.`](https://github.com/lodash/lodash)
