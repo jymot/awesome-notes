@@ -16,7 +16,6 @@
  - [移动视频直播 SDK、直播互动解决方案首选（API based、Live Streaming as-a-Service](https://github.com/pili-engineering)
  - [learn-regex `正则学习`](https://github.com/zeeshanu/learn-regex)
  - [freemarker `Java模版引擎`](https://github.com/apache/incubator-freemarker)
- - [可能是让你受益匪浅的英语进阶指南](https://github.com/byoungd/english-level-up-tips-for-Chinese)
  - [国内顶尖团队的开源地址](https://github.com/niezhiyang/open_source_team)
  - [lanproxy `anproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，目前仅支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面...）。目前市面上提供类似服务的有花生壳、TeamView、GoToMyCloud等等，但要使用第三方的公网服务器就必须为第三方付费，并且这些服务都有各种各样的限制，此外，由于数据包会流经第三方，因此对数据安全也是一大隐患。 https://lanproxy.thingsglobal.org`](https://github.com/ffay/lanproxy/)
  - [macaca `多端自动化测试解决方案`](https://github.com/alibaba/macaca)
@@ -51,6 +50,8 @@
  - [`TypeScript Book` typescript-book-chinese `TypeScript Deep Dive 中文版 https://jkchao.github.io/typescript-b…`](https://github.com/jkchao/typescript-book-chinese)
  - [2019_campus_apply `Full Stack Developer Tutorial，后台技术栈/全栈开发/架构师之路，秋招/春招/校招/面试。 from zero to hero.`](https://github.com/frank-lam/2019_campus_apply)
  - [GitHubDaily `GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。`](https://github.com/GitHubDaily/GitHubDaily)
+ - [可能是让你受益匪浅的英语进阶指南](https://github.com/byoungd/english-level-up-tips-for-Chinese)
+ - [An-English-Guide-for-Programmers `专为程序员编写的英语学习指南。v1.0`](https://github.com/yujiangshui/An-English-Guide-for-Programmers)
 
 ### Chrome Plugins
  - [awesome-chrome-plugins `好用的 Chrome 插件`](https://github.com/Mike-bel/awesome-chrome-plugins)
