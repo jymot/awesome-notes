@@ -52,6 +52,7 @@
  - [Android-CleanArchitecture `This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.`](https://github.com/android10/Android-CleanArchitecture)
 
 ### Google / Google Samples
+ - [`google` flexbox-layout `Flexbox for Android`](https://github.com/google/flexbox-layout)
  - [aosp-mirror !!!](https://github.com/aosp-mirror)
  - [iosched](https://github.com/google/iosched)
  - [`google` cameraview](https://github.com/google/cameraview)
