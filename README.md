@@ -52,7 +52,7 @@
  - [GitHubDaily `GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。`](https://github.com/GitHubDaily/GitHubDaily)
  - [可能是让你受益匪浅的英语进阶指南](https://github.com/byoungd/english-level-up-tips-for-Chinese)
  - [An-English-Guide-for-Programmers `专为程序员编写的英语学习指南。v1.0`](https://github.com/yujiangshui/An-English-Guide-for-Programmers)
-
+ - [hyper `A terminal built on web technologies https://hyper.is`](https://github.com/zeit/hyper)
 
 ### Chrome Plugins
  - [awesome-chrome-plugins `好用的 Chrome 插件`](https://github.com/Mike-bel/awesome-chrome-plugins)
