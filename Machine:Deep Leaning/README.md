@@ -5,4 +5,4 @@
  - [Deep Learning `for chinese`](https://github.com/exacity/deeplearningbook-chinese)
  - [tensorflow `Computation using data flow graphs for scalable machine learning `](https://github.com/tensorflow/tensorflow)
  - [d2l-zh `《动手学深度学习》 https://zh.diveintodeeplearning.org`](https://github.com/diveintodeeplearning/d2l-zh)
- - [HyperDL-Tutorial `深度学习教程整理 | 干货 http://www.zeusee.com`] (https://github.com/zeusees/HyperDL-Tutorial)
+ - [HyperDL-Tutorial `深度学习教程整理 | 干货 http://www.zeusee.com`](https://github.com/zeusees/HyperDL-Tutorial)
