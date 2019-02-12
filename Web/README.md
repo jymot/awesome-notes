@@ -48,6 +48,7 @@
  - [images `图片缓存` `Source code of images.weserv.nl, to be used on your own server(s). https://images.weserv.nl/`](https://github.com/weserv/images)
  - [quicklink `⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time`](https://github.com/GoogleChromeLabs/quicklink)
  - [rxdb `💻 📱 A realtime Database for the Web https://rxdb.info/`](https://github.com/pubkey/rxdb)
+ - [vditor `♏ 一款浏览器端的 Markdown 编辑器，使用 TypeScript 实现。 https://hacpai.com/tag/vditor`](https://github.com/b3log/vditor)
 
 ### Library
  - [lodash `Lodash, 作为NPM最多下载量和被依赖最多的包，提供了更加支持跨环境一致性的对数组、字符串、对象和参数对象的支持` `A modern JavaScript utility library delivering modularity, performance, & extras.`](https://github.com/lodash/lodash)
