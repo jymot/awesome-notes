@@ -75,6 +75,7 @@
  - [一种JNI方法实现图片压缩，压缩率极高 `https://github.com/zengfw/EffectiveBitmap`](https://mp.weixin.qq.com/s/FVQR6VGA0dvqh6EvEuoFfA)
 
 ### Android Utils
+ - [DoraemonKit `简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。`](https://github.com/didi/DoraemonKit)
  - [`tencent` matrix `Matrix is a plugin style, no-intrusion APM system developed by WeChat.` `Matrix 是一款微信研发并日常使用的 APM（Application Performance Manage），当前主要运行在 Android 平台上。 Matrix 的目标是建立统一的应用性能接入框架，通过各种性能监控方案，对性能监控项的异常数据进行采集和分析，输出相应的问题分析、定位与优化建议，从而帮助开发者开发出更高质量的应用。`](https://github.com/tencent/matrix)
  - [DSBridge-Android `WebView` `JS bridge`](https://github.com/wendux/DSBridge-Android)
  - [WebViewJavascriptBridge `WebView` `JS bridge`](https://github.com/wendux/WebViewJavascriptBridge)
