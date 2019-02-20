@@ -34,6 +34,7 @@
   - [`square` wire `Clean, lightweight protocol buffers for Android and Java.`](https://github.com/square/wire)
   - [`square` dagger `A fast dependency injector for Android and Java. http://square.github.io/dagger/`](https://github.com/square/dagger)
   - [Android-ReadTheFuckingSourceCode](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode)
+  - [RxReplayingShare](https://github.com/JakeWharton/RxReplayingShare)
  
 ### 精选
   - [material_design_zh `Material Design 中文协同翻译 `](https://github.com/1sters/material_design_zh)
