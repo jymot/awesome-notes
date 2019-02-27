@@ -34,7 +34,6 @@
  - [`alibaba` sofa-rpc `SOFARPC is a high-performance, high-extensibility, production-level Java RPC framework.`](https://github.com/alipay/sofa-rpc)
  - [FEBS-Vue `SpringBoot，Shiro，JWT，Vue & Ant Design 前后端分离权限管理系统，预览地址（小油管，初次加载较慢）： http://111.230.157.133:8081`](https://github.com/wuyouzhuguli/FEBS-Vue)
  - [nginx-quick-reference `This notes describes how to improve Nginx performance, security and other important things; ssllabs A+ 100%.`](https://github.com/trimstray/nginx-quick-reference)
- - [spring-cloud-alibaba `Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.`](https://github.com/spring-cloud-incubator/spring-cloud-alibaba)
 
 ### 分布式任务调度
  - [xxl-job `A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB） http://www.xuxueli.com/xxl-job/`](https://github.com/xuxueli/xxl-job/)
@@ -96,6 +95,7 @@
  - [xbin-store-cloud `模仿国内知名B2C网站,实现的一个分布式B2C商城 使用Spring Cloud 使用dubbox版本请查看`](https://github.com/xubinux/xbin-store-cloud)
  - [xbin-newstore-cloud `基于xbin-store-cloud重构，完全保留原业务逻辑，模块更精简，部署更方便`](https://github.com/phantasies/xbin-newstore-cloud)
   - [paascloud-master `spring cloud + vue 全家桶实战，模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目`](https://github.com/paascloud/paascloud-master)
+  - [spring-cloud-alibaba `Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.`](https://github.com/spring-cloud-incubator/spring-cloud-alibaba)
   
 ### Leaning
  - [SpringCloud-Learning](https://github.com/dyc87112/SpringCloud-Learning)
