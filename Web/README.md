@@ -52,6 +52,7 @@
  - [material-kit `Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design https://demos.creative-tim.com/materi…
 `](https://github.com/creativetimofficial/material-kit)
  - [cleave `Format input text content when you are typing... http://nosir.github.io/cleave.js`](https://github.com/nosir/cleave.js)
+ - [ejs `Embedded JavaScript templates -- http://ejs.co`](https://github.com/mde/ejs)
 
 ### Library
  - [lodash `Lodash, 作为NPM最多下载量和被依赖最多的包，提供了更加支持跨环境一致性的对数组、字符串、对象和参数对象的支持` `A modern JavaScript utility library delivering modularity, performance, & extras.`](https://github.com/lodash/lodash)
