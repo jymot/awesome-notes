@@ -53,6 +53,7 @@
 `](https://github.com/creativetimofficial/material-kit)
  - [cleave `Format input text content when you are typing... http://nosir.github.io/cleave.js`](https://github.com/nosir/cleave.js)
  - [ejs `Embedded JavaScript templates -- http://ejs.co`](https://github.com/mde/ejs)
+ - [Inquirer.js `A collection of common interactive command line user interfaces.`](https://github.com/SBoudrias/Inquirer.js)
 
 ### Library
  - [lodash `Lodash, 作为NPM最多下载量和被依赖最多的包，提供了更加支持跨环境一致性的对数组、字符串、对象和参数对象的支持` `A modern JavaScript utility library delivering modularity, performance, & extras.`](https://github.com/lodash/lodash)
