@@ -31,6 +31,7 @@
   - [Android-Debug-Database `A library for debugging android databases and shared preferences - Make Debugging Great Again https://mindorks.com/open-source-proj…` `利用这个库，我们可以通过浏览器方便的查看的数据库`](https://github.com/amitshekhariitbhu/Android-Debug-Database)
   - [xHook `🔥 A PLT hook library for Android native ELF (executable and shared libraries). Support Android 4.0+. Support armeabi-v7a, arm64-v8a, x86, x86_64.`](https://github.com/iqiyi/xHook)
   - [Awesome-Android-Notebook `A complete plan for better android developers.（continuous updating ...）`](https://github.com/JsonChao/Awesome-Android-Notebook)
+  - [Android-ReadTheFuckingSourceCode `记录日常的开发技巧，开发中遇到的技术重点、难点，各个知识点的总结，优质面试题等等`](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode)
   - [`square` wire `Clean, lightweight protocol buffers for Android and Java.`](https://github.com/square/wire)
   - [`square` dagger `A fast dependency injector for Android and Java. http://square.github.io/dagger/`](https://github.com/square/dagger)
   - [Android-ReadTheFuckingSourceCode](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode)
