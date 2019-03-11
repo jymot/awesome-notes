@@ -35,6 +35,7 @@
  - [FEBS-Vue `SpringBoot，Shiro，JWT，Vue & Ant Design 前后端分离权限管理系统，预览地址（小油管，初次加载较慢）： http://111.230.157.133:8081`](https://github.com/wuyouzhuguli/FEBS-Vue)
  - [nginx-quick-reference `This notes describes how to improve Nginx performance, security and other important things; ssllabs A+ 100%.`](https://github.com/trimstray/nginx-quick-reference)
  - [jetcache `JetCache is a Java cache framework which is more convenient than Spring Cache.`](https://github.com/alibaba/jetcache)
+ - [nacos `an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.` `一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台。`](https://github.com/alibaba/nacos)
 
 ### 分布式任务调度
  - [xxl-job `A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB） http://www.xuxueli.com/xxl-job/`](https://github.com/xuxueli/xxl-job/)
