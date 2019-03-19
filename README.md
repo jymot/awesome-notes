@@ -55,6 +55,7 @@
  - [hyper `A terminal built on web technologies https://hyper.is`](https://github.com/zeit/hyper)
  - [K8tools `K8工具(内网渗透/提权工具/远程溢出/漏洞利用/Exploit/APT/0day/Shellcode/Payload/priviledge/OverFlow/WebShell/PenTest)`](https://github.com/k8gege/K8tools)
  - [libfacedetection `An open source library for face detection in images. The face detection speed can reach 1500FPS.`](https://github.com/ShiqiYu/libfacedetection)
+ - [baiduyun `油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速 https://greasyfork.org/zh-CN/scripts/…`](https://github.com/syhyz1990/baiduyun)
 
 ### Chrome Plugins
  - [awesome-chrome-plugins `好用的 Chrome 插件`](https://github.com/Mike-bel/awesome-chrome-plugins)
