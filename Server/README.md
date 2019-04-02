@@ -37,6 +37,7 @@
  - [jetcache `JetCache is a Java cache framework which is more convenient than Spring Cache.`](https://github.com/alibaba/jetcache)
  - [nacos `an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.` `一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台。`](https://github.com/alibaba/nacos)
  - [Leaf `Distributed ID Generate Service`](https://github.com/Meituan-Dianping/Leaf)
+ - [drools `Drools Expert is the rule engine and Drools Fusion does complex event processing (CEP). http://www.drools.org`](https://github.com/kiegroup/drools)
 
 ### 分布式任务调度
  - [xxl-job `A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB） http://www.xuxueli.com/xxl-job/`](https://github.com/xuxueli/xxl-job/)
