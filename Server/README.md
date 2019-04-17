@@ -40,6 +40,7 @@
  - [drools `Drools Expert is the rule engine and Drools Fusion does complex event processing (CEP). http://www.drools.org`](https://github.com/kiegroup/drools)
  - [Activiti `Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the… http://www.activiti.org`](https://github.com/Activiti/Activiti)
  - [yapi `YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 http://yapi.demo.qunar.com/`](https://github.com/YMFE/yapi)
+ - [transmittable-thread-local `The missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits ThreadLocal value between threads even using thread pooling components. https://github.com/alibaba/transmitta…`](https://github.com/alibaba/transmittable-thread-local)
 
 ### 分布式任务调度
  - [xxl-job `A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB） http://www.xuxueli.com/xxl-job/`](https://github.com/xuxueli/xxl-job/)
