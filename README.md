@@ -57,7 +57,7 @@
  - [libfacedetection `An open source library for face detection in images. The face detection speed can reach 1500FPS.`](https://github.com/ShiqiYu/libfacedetection)
  - [baiduyun `油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速 https://greasyfork.org/zh-CN/scripts/…`](https://github.com/syhyz1990/baiduyun)
  - [Daily-Interview-Question `工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。`](https://github.com/Advanced-Frontend/Daily-Interview-Question)
-
+ - [jsproxy `一个基于浏览器端 JS 实现的在线代理 https://zjcqoo.github.io/`](https://github.com/EtherDream/jsproxy)
 
 ### Chrome Plugins
  - [awesome-chrome-plugins `好用的 Chrome 插件`](https://github.com/Mike-bel/awesome-chrome-plugins)
@@ -99,7 +99,7 @@
  - [zopfli `图片压缩`](https://github.com/google/zopfli)
  - [UPNG.js `图片压缩`](https://github.com/photopea/UPNG.js)
  - [tinypng `图片压缩`](https://tinypng.com/)
- - [EasyPR `opencv` `EasyPR是一个开源的中文车牌识别系统，其目标是成为一个简单、高效、准确的非限制场景(unconstrained situation)下的车牌识别库`](https://github.com/liuruoze/EasyPR)
+ - [EasyPR `opencv` `EasyPR是一个开源的中文车牌识别系统，其目标是成为一个简单、高效、准确的非限制场景(unconstrained situation)下的车牌识别库`](https://github.com/liuruoze/EasyPR) 
 
 ### Algorithm
  - [`google` google-diff-match-patch](https://github.com/bystep15/google-diff-match-patch)
