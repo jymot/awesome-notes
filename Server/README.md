@@ -41,6 +41,7 @@
  - [Activiti `Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the… http://www.activiti.org`](https://github.com/Activiti/Activiti)
  - [yapi `YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 http://yapi.demo.qunar.com/`](https://github.com/YMFE/yapi)
  - [transmittable-thread-local `The missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits ThreadLocal value between threads even using thread pooling components. https://github.com/alibaba/transmitta…`](https://github.com/alibaba/transmittable-thread-local)
+ - [kratos `Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。 https://www.bilibili.com`](https://github.com/bilibili/kratos)
 
 ### 分布式任务调度
  - [xxl-job `A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB） http://www.xuxueli.com/xxl-job/`](https://github.com/xuxueli/xxl-job/)
