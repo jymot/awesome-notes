@@ -55,6 +55,7 @@
  - [ejs `Embedded JavaScript templates -- http://ejs.co`](https://github.com/mde/ejs)
  - [Inquirer.js `A collection of common interactive command line user interfaces.`](https://github.com/SBoudrias/Inquirer.js)
  - [webpack-chain `A chaining API to generate and simplify the modification of Webpack configurations.`](https://github.com/neutrinojs/webpack-chain)
+ - [avue `Avue.js是基于现有的element-ui库进行的二次封装，简化一些繁琐的操作，核心理念为数据驱动视图,主要的组件库针对table表格和form表单场景，同时衍生出更多企业常用的组件，达到高复用，容易维护和扩展的框架，同时内置了丰富了数据展示组件，让开发变得更加容易 https://avue.top`](https://github.com/nmxiaowei/avue)
 
 ### Library
  - [lodash `Lodash, 作为NPM最多下载量和被依赖最多的包，提供了更加支持跨环境一致性的对数组、字符串、对象和参数对象的支持` `A modern JavaScript utility library delivering modularity, performance, & extras.`](https://github.com/lodash/lodash)
