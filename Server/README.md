@@ -44,6 +44,8 @@
  - [kratos `Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。 https://www.bilibili.com`](https://github.com/bilibili/kratos)
  - [minio `MinIO is an open source object storage server compatible with Amazon S3 APIs https://min.io/download`](https://github.com/minio/minio)
  - [tx-lcn `LCN distributed transaction framework, compatible with dubbo, spring cloud and Motan framework, supports various relational databases https://www.txlcn.org`](https://github.com/codingapi/tx-lcn)
+ - [motan `A cross-language remote procedure call(RPC) framework for rapid development of high performance distributed services.`](https://github.com/weibocom/motan)
+
 
 ### 分布式任务调度
  - [xxl-job `A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB） http://www.xuxueli.com/xxl-job/`](https://github.com/xuxueli/xxl-job/)
