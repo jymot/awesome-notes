@@ -46,6 +46,8 @@
  - [tx-lcn `LCN distributed transaction framework, compatible with dubbo, spring cloud and Motan framework, supports various relational databases https://www.txlcn.org`](https://github.com/codingapi/tx-lcn)
  - [motan `A cross-language remote procedure call(RPC) framework for rapid development of high performance distributed services.`](https://github.com/weibocom/motan)
 
+### Doc
+ - [system-design-primer `系统设计入门`](https://github.com/donnemartin/system-design-primer)
 
 ### 分布式任务调度
  - [xxl-job `A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB） http://www.xuxueli.com/xxl-job/`](https://github.com/xuxueli/xxl-job/)
