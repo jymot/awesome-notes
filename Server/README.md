@@ -36,7 +36,6 @@
  - [nginx-quick-reference `This notes describes how to improve Nginx performance, security and other important things; ssllabs A+ 100%.`](https://github.com/trimstray/nginx-quick-reference)
  - [jetcache `JetCache is a Java cache framework which is more convenient than Spring Cache.`](https://github.com/alibaba/jetcache)
  - [nacos `an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.` `一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台。`](https://github.com/alibaba/nacos)
- - [Leaf `Distributed ID Generate Service`](https://github.com/Meituan-Dianping/Leaf)
  - [drools `Drools Expert is the rule engine and Drools Fusion does complex event processing (CEP). http://www.drools.org`](https://github.com/kiegroup/drools)
  - [Activiti `Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the… http://www.activiti.org`](https://github.com/Activiti/Activiti)
  - [yapi `YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 http://yapi.demo.qunar.com/`](https://github.com/YMFE/yapi)
@@ -45,6 +44,10 @@
  - [minio `MinIO is an open source object storage server compatible with Amazon S3 APIs https://min.io/download`](https://github.com/minio/minio)
  - [tx-lcn `LCN distributed transaction framework, compatible with dubbo, spring cloud and Motan framework, supports various relational databases https://www.txlcn.org`](https://github.com/codingapi/tx-lcn)
  - [motan `A cross-language remote procedure call(RPC) framework for rapid development of high performance distributed services.`](https://github.com/weibocom/motan)
+
+### ID 
+ - [`baidu` uid-generator `UidGenerator是Java实现的, 基于Snowflake算法的唯一ID生成器`](https://github.com/baidu/uid-generator)
+ - [`meituan` Leaf `Distributed ID Generate Service`](https://github.com/Meituan-Dianping/Leaf)
 
 ### Doc
  - [system-design-primer `系统设计入门`](https://github.com/donnemartin/system-design-primer)
