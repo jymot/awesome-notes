@@ -49,6 +49,7 @@
  - [tx-lcn `LCN distributed transaction framework, compatible with dubbo, spring cloud and Motan framework, supports various relational databases https://www.txlcn.org`](https://github.com/codingapi/tx-lcn)
 
 ### ID generator
+ - [snowflake `Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees. http://twitter.com/`](https://github.com/twitter-archive/snowflake)
  - [`baidu` uid-generator `UidGenerator是Java实现的, 基于Snowflake算法的唯一ID生成器`](https://github.com/baidu/uid-generator)
  - [`meituan` Leaf `Distributed ID Generate Service`](https://github.com/Meituan-Dianping/Leaf)
 
