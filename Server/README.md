@@ -43,6 +43,7 @@
  - [kratos `Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。 https://www.bilibili.com`](https://github.com/bilibili/kratos)
  - [minio `MinIO is an open source object storage server compatible with Amazon S3 APIs https://min.io/download`](https://github.com/minio/minio)
  - [motan `A cross-language remote procedure call(RPC) framework for rapid development of high performance distributed services.`](https://github.com/weibocom/motan)
+ - [DBProxy `DBProxy是由美团点评公司技术工程部DBA团队（北京）开发维护的一个基于MySQL协议的数据中间层。它在奇虎360公司开源的Atlas基础上，修改了部分bug，并且添加了很多特性。目前DBProxy在美团点评广泛应用，包括美团支付、酒店旅游、外卖、团购等产品线，公司内部对DBProxy的开发全面转到github上，开源和内部使用保持一致。目前只支持MySQL（Percona）5.5和5.6。`](https://github.com/Meituan-Dianping/DBProxy)
 
 ### 分布式事务
  - [tx-lcn `LCN distributed transaction framework, compatible with dubbo, spring cloud and Motan framework, supports various relational databases https://www.txlcn.org`](https://github.com/codingapi/tx-lcn)
