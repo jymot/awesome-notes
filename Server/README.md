@@ -45,6 +45,7 @@
  - [motan `A cross-language remote procedure call(RPC) framework for rapid development of high performance distributed services.`](https://github.com/weibocom/motan)
  - [DBProxy `DBProxy是由美团点评公司技术工程部DBA团队（北京）开发维护的一个基于MySQL协议的数据中间层。它在奇虎360公司开源的Atlas基础上，修改了部分bug，并且添加了很多特性。目前DBProxy在美团点评广泛应用，包括美团支付、酒店旅游、外卖、团购等产品线，公司内部对DBProxy的开发全面转到github上，开源和内部使用保持一致。目前只支持MySQL（Percona）5.5和5.6。`](https://github.com/Meituan-Dianping/DBProxy)
  - [kkFileView `使用spring boot打造文件文档在线预览项目解决方案，支持doc、docx、ppt、pptx、xls、xlsx、zip、rar、mp4，mp3以及众多类文本如txt、html、xml、java、properties、sql、js、md、json、conf、ini、vue、php、py、bat、gitignore等文件在线预览 http://file.keking.cn/`](https://github.com/kekingcn/kkFileView)
+ - [soul `High-Performance Java API Gateway https://dromara.org`](https://github.com/Dromara/soul)
 
 ### 分布式事务
  - [tx-lcn `LCN distributed transaction framework, compatible with dubbo, spring cloud and Motan framework, supports various relational databases https://www.txlcn.org`](https://github.com/codingapi/tx-lcn)
