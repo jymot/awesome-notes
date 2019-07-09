@@ -56,6 +56,7 @@
  - [tx-lcn `LCN distributed transaction framework, compatible with dubbo, spring cloud and Motan framework, supports various relational databases https://www.txlcn.org`](https://github.com/codingapi/tx-lcn)
  - [servicecomb-pack `Apache ServiceComb Saga https://servicecomb.apache.org/
 `](https://github.com/apache/servicecomb-pack)
+ - [seata `Seata is an easy-to-use, high-performance, open source distributed transaction solution.`](https://github.com/seata/seata)
 
 ### ID generator
  - [snowflake `Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees. http://twitter.com/`](https://github.com/twitter-archive/snowflake)
