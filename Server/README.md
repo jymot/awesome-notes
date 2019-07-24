@@ -48,6 +48,9 @@
  - [freemarker `Java模版引擎`](https://github.com/apache/incubator-freemarker)
  - [kong `🦍 The Cloud-Native API Gateway https://konghq.com/install`](https://github.com/Kong/kong)
 
+### Tools
+ - [SwitchHosts`切换hosts神器`](https://github.com/oldj/SwitchHosts)
+
 ### 工作流
   - [Activiti `Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the… http://www.activiti.org`](https://github.com/Activiti/Activiti)
   - [flowable-engine `A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users. https://www.flowable.org`](https://github.com/flowable/flowable-engine)
