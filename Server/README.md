@@ -47,6 +47,7 @@
  - [soul `High-Performance Java API Gateway https://dromara.org`](https://github.com/Dromara/soul)
  - [freemarker `Java模版引擎`](https://github.com/apache/incubator-freemarker)
  - [kong `🦍 The Cloud-Native API Gateway https://konghq.com/install`](https://github.com/Kong/kong)
+ - [resilience4j `Resilience4j is a fault tolerance library designed for Java8 and functional programming` `熔断`](https://github.com/resilience4j/resilience4j)
 
 ### Tools
  - [SwitchHosts`切换hosts神器`](https://github.com/oldj/SwitchHosts)
