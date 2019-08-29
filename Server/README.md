@@ -55,6 +55,7 @@
 ### 工作流
   - [Activiti `Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the… http://www.activiti.org`](https://github.com/Activiti/Activiti)
   - [flowable-engine `A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users. https://www.flowable.org`](https://github.com/flowable/flowable-engine)
+  - [activiti-in-action-codes`Activiti官方唯一推荐中文书籍——《Activiti实战》示例源码 `](https://github.com/henryyan/activiti-in-action-codes)
   
 ### 分布式事务
  - [tx-lcn `LCN distributed transaction framework, compatible with dubbo, spring cloud and Motan framework, supports various relational databases https://www.txlcn.org`](https://github.com/codingapi/tx-lcn)
