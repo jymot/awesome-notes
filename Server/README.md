@@ -86,7 +86,7 @@
  - [`alibaba` cobar `Cobar是提供关系型数据库（MySQL）分布式服务的中间件，它可以让传统的数据库得到良好的线性扩展，并看上去还是一个数据库,对应用保持透明`](https://github.com/alibaba/cobar)
  - [`XiaoMi` soar `SQL Optimizer And Rewriter`](https://github.com/XiaoMi/soar)
  - [r2dbc `Reactive Relational Database Connectivity`](https://github.com/r2dbc)
- 
+ - [otter `阿里巴巴分布式数据库同步系统(解决中美异地机房)`](https://github.com/alibaba/otter)
 ##### mybatis
  - [Mapper `Mybatis Common Mapper - Easy to use 通用Mapper都可以极大的方便开发人员`](https://github.com/abel533/Mapper)
  - [mybatis-generator-gui `mybatis-generator界面工具，让你生成代码更简单更快捷`](https://github.com/zouzg/mybatis-generator-gui)
