@@ -157,7 +157,18 @@
  - [vueAdmin-template `a vue2.0 minimal admin template`](https://github.com/PanJiaChen/vueAdmin-template)
  - [d2-admin `An elegant dashboard built by vue `](https://github.com/d2-projects/d2-admin)
  - [iview-admin `Vue 2.0 admin management system template based on iView https://admin.iviewui.com/`](https://github.com/iview/iview-admin)
- 
+ - [vue-admin](https://github.com/vue-bulma/vue-admin)
+
+### Admin
+ - [AdminLTE `Free Premium Admin control Panel Theme Based On Bootstrap 3.x https://adminlte.io`](https://github.com/ColorlibHQ/AdminLTE)
+ - [tabler `Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap https://tabler.io/
+`](https://github.com/tabler/tabler)
+ - [gentelella `Free Bootstrap 3 Admin Template https://colorlib.com/polygon/gentelel…`](https://github.com/ColorlibHQ/gentelella)
+ - [ngx-admin `Customizable admin dashboard template based on Angular 8+ https://akveo.github.io/ngx-admin/`](https://github.com/akveo/ngx-admin)
+ - [ant-design-pro `👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro! http://pro.ant.design/`](https://github.com/ant-design/ant-design-pro)
+ - [blur-admin `AngularJS Bootstrap Admin Panel Framework http://akveo.github.io/blur-admin/`](https://github.com/akveo/blur-admin)
+ - [material-dashboard `Material Dashboard - Open Source Bootstrap 4 Material Design Admin https://demos.creative-tim.com/materi…`](https://github.com/creativetimofficial/material-dashboard)
+
 ### React
  - [react-toolbox](https://github.com/react-toolbox/react-toolbox/)
  - [terminal-in-react `A tiny component that renders a terminal`](https://github.com/nitin42/terminal-in-react)
