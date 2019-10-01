@@ -20,7 +20,6 @@
  - [macaca `多端自动化测试解决方案`](https://github.com/alibaba/macaca)
  - [awesome-blockchain `收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料`](https://github.com/chaozh/awesome-blockchain)
  - [chinese-independent-developer `中国独立开发者项目列表 -- 分享大家都在做什么`](https://github.com/1c7/chinese-independent-developer)
- - [anaconda 镜像](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/?C=M&O=A)
  - [`Book` modern-cpp-tutorial `高速上手现代 C++ 11/14/17`](https://github.com/changkun/modern-cpp-tutorial)
  - [architecture.of.internet-product `互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构`](https://github.com/davideuler/architecture.of.internet-product)
  - [navicat-keygen `A keygen for Navicat`](https://github.com/DoubleLabyrinth/navicat-keygen)
