@@ -48,6 +48,10 @@
  - [freemarker `Java模版引擎`](https://github.com/apache/incubator-freemarker)
  - [kong `🦍 The Cloud-Native API Gateway https://konghq.com/install`](https://github.com/Kong/kong)
  - [resilience4j `Resilience4j is a fault tolerance library designed for Java8 and functional programming` `熔断`](https://github.com/resilience4j/resilience4j)
+ - [flask `python`](https://github.com/pallets/flask)
+
+### 流媒体
+ - [srs `SRS is a simple live streaming cluster, a simple joy. http://182.92.80.26`](https://github.com/ossrs/srs)
 
 ### Tools
  - [SwitchHosts`切换hosts神器`](https://github.com/oldj/SwitchHosts)
