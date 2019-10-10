@@ -37,6 +37,8 @@
   - [Android-ReadTheFuckingSourceCode](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode)
   - [RxReplayingShare](https://github.com/JakeWharton/RxReplayingShare)
   - [AndroidScreenAdaptation `A light and easy-to-use Android development screen adaptation tool library(一个轻量好用的安卓开发屏幕适配工具库)`](https://github.com/yatoooon/AndroidScreenAdaptation)
+  - [`tencent` Hardcoder `Hardcoder is a solution which allows Android APP and Android System to communicate with each other directly, solving the problem that Android APP could only use system standard API rather than the hardware resource of system.`](https://github.com/Tencent/Hardcoder)
+ 
  
 ### 精选
   - [material_design_zh `Material Design 中文协同翻译 `](https://github.com/1sters/material_design_zh)
