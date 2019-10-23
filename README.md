@@ -57,7 +57,7 @@
  - [Daily-Interview-Question `工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。`](https://github.com/Advanced-Frontend/Daily-Interview-Question)
  - [jsproxy `一个基于浏览器端 JS 实现的在线代理 https://zjcqoo.github.io/`](https://github.com/EtherDream/jsproxy)
  - [algo `数据结构和算法必知必会的50个代码实现`](https://github.com/wangzheng0822/algo)
-
+ - [magnetW `磁力搜网页版 - 磁力链接聚合搜索 - https://bt.lansou.pw`](https://github.com/dengyuhan/magnetW)
 
 ### Chrome Plugins
  - [awesome-chrome-plugins `好用的 Chrome 插件`](https://github.com/Mike-bel/awesome-chrome-plugins)
