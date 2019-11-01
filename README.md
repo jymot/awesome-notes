@@ -59,7 +59,6 @@
  - [algo `数据结构和算法必知必会的50个代码实现`](https://github.com/wangzheng0822/algo)
  - [magnetW `磁力搜网页版 - 磁力链接聚合搜索 - https://bt.lansou.pw`](https://github.com/dengyuhan/magnetW)
 
-
 ### Chrome Plugins
  - [awesome-chrome-plugins `好用的 Chrome 插件`](https://github.com/Mike-bel/awesome-chrome-plugins)
 
