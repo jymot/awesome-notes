@@ -11,6 +11,7 @@
 ## Tensorflow
  - [tensorflow `Computation using data flow graphs for scalable machine learning `](https://github.com/tensorflow/tensorflow)
  - [TensorFlow-2.x-Tutorials](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)
+ - [tensorlayer `Deep Learning and Reinforcement Learning Library for Scientists http://tensorlayer.org`](https://github.com/tensorlayer/tensorlayer)
  
 ## Pytorch
  - [pytorch](https://github.com/pytorch/pytorch)
