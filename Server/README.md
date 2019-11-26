@@ -50,6 +50,7 @@
  - [resilience4j `Resilience4j is a fault tolerance library designed for Java8 and functional programming` `熔断`](https://github.com/resilience4j/resilience4j)
  - [flask `python`](https://github.com/pallets/flask)
  - [`注册中心` harbor `An open source trusted cloud native registry project that stores, signs, and scans content. https://goharbor.io/`](https://github.com/goharbor/harbor)
+ - [plato `腾讯高性能分布式图计算框架Plato`](https://github.com/tencent/plato)
 
 ### 流媒体
  - [srs `SRS is a simple live streaming cluster, a simple joy. http://182.92.80.26`](https://github.com/ossrs/srs)
