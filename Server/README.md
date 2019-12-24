@@ -58,6 +58,7 @@
  - [flask `python`](https://github.com/pallets/flask)
  - [`注册中心` harbor `An open source trusted cloud native registry project that stores, signs, and scans content. https://goharbor.io/`](https://github.com/goharbor/harbor)
  - [plato `腾讯高性能分布式图计算框架Plato`](https://github.com/tencent/plato)
+ - [jumpserver Jumpserver是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。 http://www.jumpserver.org`](https://github.com/jumpserver/jumpserver)
 
 ### 流媒体
  - [srs `SRS is a simple live streaming cluster, a simple joy. http://182.92.80.26`](https://github.com/ossrs/srs)
