@@ -112,7 +112,7 @@
 
 ## Archive
  - [`google` styleguide](https://github.com/google/styleguide)
- 
+ - [算法 LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
 ### [Web](https://github.com/motcwang/awesome-notes/blob/master/Web/README.md)
 ### [Server](https://github.com/motcwang/awesome-notes/blob/master/Server/README.md)
 ### [Android](https://github.com/motcwang/awesome-notes/blob/master/Android/README.md)
