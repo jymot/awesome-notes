@@ -35,8 +35,6 @@
  - [WeChatPlugin-MacOS `一款功能强大的 macOS 版微信小助手 v1.7.1 / A powerful assistant for wechat macOS`](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS)
  - [shuttle `ss-local proxy, HTTP/HTTPS 抓包，多服务器rtt选择，DNS解析(参照Surge)`](https://github.com/sipt/shuttle)
  - [bat `A cat(1) clone with syntax highlighting and Git integration.`](https://github.com/sharkdp/bat)
- - [awesome-tmux](https://github.com/rothgar/awesome-tmux)
- - [tmux](https://github.com/tmux/tmux)
  - [`google` dopamine `Dopamine is a research framework for fast prototyping of reinforcement learning algorithms. https://github.com/google/dopamine`](https://github.com/google/dopamine)
  - [skill-map `程序员技能图谱 https://github.com/TeamStuQ/skill-map`](https://github.com/TeamStuQ/skill-map)
  - [chinese-dos-games `🎮 Chinese DOS games in browser. https://dos.zczc.cz`](https://github.com/rwv/chinese-dos-games)
@@ -58,6 +56,8 @@
  - [jsproxy `一个基于浏览器端 JS 实现的在线代理 https://zjcqoo.github.io/`](https://github.com/EtherDream/jsproxy)
  - [algo `数据结构和算法必知必会的50个代码实现`](https://github.com/wangzheng0822/algo)
  - [magnetW `磁力搜网页版 - 磁力链接聚合搜索 - https://bt.lansou.pw`](https://github.com/dengyuhan/magnetW)
+ - [awesome-tmux](https://github.com/rothgar/awesome-tmux)
+ - [tmux](https://github.com/tmux/tmux)
 
 ### Chrome Plugins
  - [awesome-chrome-plugins `好用的 Chrome 插件`](https://github.com/Mike-bel/awesome-chrome-plugins)
