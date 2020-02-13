@@ -1,10 +1,15 @@
 # Other
 
 ### [`Awesome API` 国内部分官方API](https://github.com/SkiaWorks/Awesome_APIs)
-### [AndroidInterview](https://github.com/helen-x/AndroidInterview)
 ### [jstraining](https://github.com/ruanyf/jstraining)
-### [Interview-Notebook `技术面试需要掌握的基础知识整理`](https://github.com/CyC2018/Interview-Notebook)
 
+### Interview
+ - [AndroidInterview](https://github.com/helen-x/AndroidInterview)
+ - [Interview-Notebook `技术面试需要掌握的基础知识整理`](https://github.com/CyC2018/Interview-Notebook)
+ - [数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo)
+ - [JavaGuide `【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 https://github.com/Snailclimb/JavaGuide`](https://github.com/Snailclimb/JavaGuide)
+ - [Java-Interview `Java related : basic, concurrent, algorithm`](https://github.com/crossoverJie/Java-Interview) 
+ 
 ### git
  - [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
  - [用 Git Hooks 进行自动部署](http://segmentfault.com/a/1190000003836345?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
