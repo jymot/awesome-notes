@@ -67,6 +67,7 @@
  - [koajs-design-note](https://github.com/chenshenhai/koajs-design-note)
  - [egg `🥚 Born to build better enterprise frameworks and apps with Node.js & Koa https://eggjs.org`](https://github.com/eggjs/egg)
  - [egg-cnode `CNode 社区 Egg 版本 https://cnodejs.org/`](https://github.com/cnodejs/egg-cnode)
+ - [log4js-node `A port of log4js to node.js`](https://github.com/log4js-node/log4js-node)
 
 ### 流媒体
  - [srs `SRS is a simple live streaming cluster, a simple joy. http://182.92.80.26`](https://github.com/ossrs/srs)
