@@ -60,6 +60,7 @@
  - [`注册中心` harbor `An open source trusted cloud native registry project that stores, signs, and scans content. https://goharbor.io/`](https://github.com/goharbor/harbor)
  - [plato `腾讯高性能分布式图计算框架Plato`](https://github.com/tencent/plato)
  - [jumpserver Jumpserver是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。 http://www.jumpserver.org`](https://github.com/jumpserver/jumpserver)
+ - [monitoror `Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything. https://monitoror.com`](https://github.com/monitoror/monitoror)
 
 ### Node
  - [express `Fast, unopinionated, minimalist web framework for node. https://expressjs.com`](https://github.com/expressjs/express)
