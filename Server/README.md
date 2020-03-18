@@ -82,6 +82,7 @@
  - [coturn `coturn TURN server project`](https://github.com/coturn/coturn)
  - [media-server `SFU`](https://github.com/medooze/media-server)
  - [mediasoup `webrtc sfu`](https://github.com/versatica/mediasoup)
+ - [Kurento mediasoup-demos`ffmpeg或gstreamer消费视频流`](https://github.com/Kurento/mediasoup-demos)
 
 ### Tools
  - [SwitchHosts`切换hosts神器`](https://github.com/oldj/SwitchHosts)
