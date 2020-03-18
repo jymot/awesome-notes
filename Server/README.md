@@ -83,6 +83,7 @@
  - [media-server `SFU`](https://github.com/medooze/media-server)
  - [mediasoup `webrtc sfu`](https://github.com/versatica/mediasoup)
  - [Kurento mediasoup-demos`ffmpeg或gstreamer消费视频流`](https://github.com/Kurento/mediasoup-demos)
+ - [kurento-media-server `Media Server responsible for media transmission, processing, loading and recording https://www.kurento.org/`](https://github.com/Kurento/kurento-media-server)
 
 ### Tools
  - [SwitchHosts`切换hosts神器`](https://github.com/oldj/SwitchHosts)
