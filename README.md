@@ -109,10 +109,11 @@
  - [位运算简介及实用技巧（二）：进阶篇(1)](http://www.matrix67.com/blog/archives/264)
  - [位运算简介及实用技巧（三）：进阶篇(2)](http://www.matrix67.com/blog/archives/266)
  - [位运算简介及实用技巧（四）：实战篇](http://www.matrix67.com/blog/archives/268)
+ - [算法 LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
+ - [手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why. https://labuladong.gitbook.io/algo/](https://github.com/labuladong/fucking-algorithm)
 
 ## Archive
  - [`google` styleguide](https://github.com/google/styleguide)
- - [算法 LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
 ### [Web](https://github.com/motcwang/awesome-notes/blob/master/Web/README.md)
 ### [Server](https://github.com/motcwang/awesome-notes/blob/master/Server/README.md)
 ### [Android](https://github.com/motcwang/awesome-notes/blob/master/Android/README.md)
