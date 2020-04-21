@@ -6,7 +6,7 @@
  - [`google` protobuf `Protocol Buffers - Google's data interchange format`](https://github.com/google/protobuf)
  - [`alibaba` dubbo `Dubbo is a high-performance, java based, open source RPC framework`](https://github.com/alibaba/dubbo)
  - [`square` tape `A lightning fast, transactional, file-based FIFO for Android and Java.`](https://github.com/square/tape)
-
+ - [《On Java 8》中文版，又名《Java编程思想》 第5版 https://lingcoder.github.io/OnJava8/](https://github.com/lingcoder/onJava8/)
  
 ### Library
  - [`google` guava](https://github.com/google/guava)
