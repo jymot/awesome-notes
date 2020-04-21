@@ -7,6 +7,7 @@
  - [HyperDL-Tutorial `深度学习教程整理 | 干货 http://www.zeusee.com`](https://github.com/zeusees/HyperDL-Tutorial)
  - [Virgilio `机器学习，学习路线图`](https://github.com/clone95/Virgilio/tree/master/zh-CN)
  - [anaconda 清华镜像](https://mirror.tuna.tsinghua.edu.cn/help/anaconda/)
+ - [pipcook `基于 tfjs-node 的前端算法工程框架 front-end algorithm engineer platform based on tfjs-node https://alibaba.github.io/pipcook/`](https://github.com/alibaba/pipcook)
 
 ## Tensorflow
  - [tensorflow `Computation using data flow graphs for scalable machine learning `](https://github.com/tensorflow/tensorflow)
