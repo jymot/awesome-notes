@@ -152,6 +152,7 @@
  - [tinymce-vue `vue 富文本`](https://github.com/tinymce/tinymce-vue)
  - [kui-vue `基于VUE2.0的 UI组件库，欢迎使用！ https://k-ui.xyz`](https://github.com/chuchur/kui-vue)
  - [TypeScript-Vue-Starter `A starter template for TypeScript and Vue with a detailed README describing how to use the two together.`](https://github.com/Microsoft/TypeScript-Vue-Starter)
+ - [DataV `Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布) http://datav.jiaminghi.com`](https://github.com/DataV-Team/DataV)
 #### Vue admin
  - [vue-element-admin `A magical vue admin`](https://github.com/PanJiaChen/vue-element-admin)
  - [vueAdmin-template `a vue2.0 minimal admin template`](https://github.com/PanJiaChen/vueAdmin-template)
