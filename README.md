@@ -121,7 +121,6 @@
  - [awesome-go](https://github.com/avelino/awesome-go)
  - [hugo `The world’s fastest framework for building websites. https://gohugo.io`](https://github.com/gohugoio/hugo)
  - [gin `Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. https://gin-gonic.com/`](https://github.com/gin-gonic/gin)
- - [faygo](https://github.com/henrylee2cn/faygo)
 ### [Web](https://github.com/motcwang/awesome-notes/blob/master/Web/README.md)
 ### [Server](https://github.com/motcwang/awesome-notes/blob/master/Server/README.md)
 ### [Android](https://github.com/motcwang/awesome-notes/blob/master/Android/README.md)
