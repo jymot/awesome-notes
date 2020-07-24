@@ -59,6 +59,10 @@
  - [pdf `PDF Reader in JavaScript`](https://github.com/mozilla/pdf.js)
  - [video.js](https://github.com/videojs/video.js)
 
+### WebGL
+ - [WebGL](https://developer.mozilla.org/zh-CN/docs/Web/API/WebGL_API)
+ - [pixijs `reate beautiful digital content with the fastest, most flexible 2D WebGL renderer.`](https://www.pixijs.com/)
+
 ### 数据可视化
  - [`uber` xviz `A protocol for real-time transfer and visualization of autonomy data http://xviz.io`](https://github.com/uber/xviz)
  - [`uber` streetscape.gl `streetscape.gl是一个工具包，用于可视化XVIZ协议中的自治和机器人数据。 它建立在React和Uber基于WebGL的可视化框架的基础上。`](https://github.com/uber/streetscape.gl)
