@@ -59,6 +59,15 @@
  - [pdf `PDF Reader in JavaScript`](https://github.com/mozilla/pdf.js)
  - [video.js](https://github.com/videojs/video.js)
 
+### 360环视
+ - [top-7-best-360-degrees-equirectangular-image-viewer-javascript-plugins](https://ourcodeworld.com/articles/read/843/top-7-best-360-degrees-equirectangular-image-viewer-javascript-plugins)
+ - [marzipano `A 360° media viewer for the modern web.`](https://github.com/google/marzipano)
+ - [Photo-Sphere-Viewer `A JavaScript library to display Photo Sphere panoramas.`](https://github.com/mistic100/Photo-Sphere-Viewer)
+ - [pannellum `Pannellum is a lightweight, free, and open source panorama viewer for the web.`](https://github.com/mpetroff/pannellum)
+ - [panolens `Javascript panorama viewer based on Three.js`](https://github.com/pchen66/panolens.js)
+ - [kaleidoscope `🔮 An embeddable, lightweight 360º video/image viewer`](https://github.com/thiagopnts/kaleidoscope)
+ - [360-image-viewer `A standalone panorama viewer with WebGL`](https://github.com/Jam3/360-image-viewer)
+
 ### WebGL
  - [WebGL](https://developer.mozilla.org/zh-CN/docs/Web/API/WebGL_API)
  - [pixijs `reate beautiful digital content with the fastest, most flexible 2D WebGL renderer.`](https://www.pixijs.com/)
