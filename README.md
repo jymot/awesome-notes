@@ -74,7 +74,6 @@
  - [easyhosts `基于 Github 项目整合的远程 Hosts 直链，适配多种规则、终端，每 30 分钟 自动同步一次 Github 最新可用项目并提供打包下载`](https://github.com/forkgood/easyhosts)
  - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)
  
- 
 ### Books
  - [free-programming-books-zh_CN `📚 免费的计算机编程类中文书籍，欢迎投稿 http://weibo.com/justjavac`](https://github.com/justjavac/free-programming-books-zh_CN)
  - [ebooks](https://github.com/yangtong/ebooks)
