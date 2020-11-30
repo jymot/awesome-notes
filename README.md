@@ -128,7 +128,7 @@
  - [jwt-go `Golang implementation of JSON Web Tokens (JWT)`](https://github.com/dgrijalva/jwt-go)
  - [go-micro `A Go standard library for microservices`](https://github.com/micro/go-micro)
  - [grpc-go `The Go language implementation of gRPC. HTTP/2 based RPC`](https://github.com/grpc/grpc-go)
- 
+ - [Uber Go 语言编码规范](https://github.com/xxjwxc/uber_go_guide_cn)
 ### Developer Roadmap
  - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
  - [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
