@@ -121,6 +121,7 @@
 
 ### [Web](https://github.com/motcwang/awesome-notes/blob/master/Web/README.md)
 ### [Server](https://github.com/motcwang/awesome-notes/blob/master/Server/README.md)
+### [Go](https://github.com/motcwang/awesome-notes/blob/master/Go/README.md)
 ### [Android](https://github.com/motcwang/awesome-notes/blob/master/Android/README.md)
 ### [iOS](https://github.com/motcwang/awesome-notes/blob/master/iOS/README.md)
 ### [Java](https://github.com/motcwang/awesome-notes/blob/master/Java/README.md)
