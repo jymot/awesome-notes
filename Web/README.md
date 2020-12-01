@@ -71,6 +71,7 @@
 ### WebGL
  - [WebGL](https://developer.mozilla.org/zh-CN/docs/Web/API/WebGL_API)
  - [pixijs `reate beautiful digital content with the fastest, most flexible 2D WebGL renderer.`](https://www.pixijs.com/)
+ - [potree `WebGL point cloud viewer for large datasets`](https://github.com/potree/potree)
 
 ### 数据可视化
  - [`uber` demo](https://avs.auto/demo/index.html)
