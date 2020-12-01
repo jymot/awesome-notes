@@ -3,12 +3,13 @@
 ## TODO
 ### 大数据
  - [BigData-Notes](https://github.com/heibaiying/BigData-Notes)
+
 ### Netty
  - [NettyRPC](https://github.com/tang-jie/NettyRPC)
  - [NettyRpc `A simple RPC framework based on Netty, ZooKeeper and Spring`](https://github.com/luxiaoxun/NettyRpc)
  - [springboot-netty](https://github.com/pjmike/springboot-netty)
+
 ### Unarchived
- - [Spring MVC 4.2.4.RELEASE 中文文档](https://linesh.gitbooks.io/spring-mvc-documentation-linesh-translation/content/)
  - [API-Security-Checklist `Checklist of the most important security countermeasures when designing, testing, and releasing your API`](https://github.com/shieldfy/API-Security-Checklist)
  - [tengine `A distribution of Nginx with some advanced features http://tengine.taobao.org/`](https://github.com/alibaba/tengine)
  - [`alibaba` jarslink `模块化开发框架`](https://github.com/alibaba/jarslink)
@@ -88,7 +89,7 @@
  - [kurento-media-server `Media Server responsible for media transmission, processing, loading and recording https://www.kurento.org/`](https://github.com/Kurento/kurento-media-server)
  - [aiortc `WebRTC and ORTC implementation for Python using asyncio`](https://github.com/aiortc/aiortc)
  - [Janus: the general purpose WebRTC server](https://janus.conf.meetecho.com/)
- 
+
 ### Tools
  - [SwitchHosts`切换hosts神器`](https://github.com/oldj/SwitchHosts)
 
@@ -97,7 +98,7 @@
   - [flowable-engine `A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users. https://www.flowable.org`](https://github.com/flowable/flowable-engine)
   - [activiti-in-action-codes`Activiti官方唯一推荐中文书籍——《Activiti实战》示例源码 `](https://github.com/henryyan/activiti-in-action-codes)
   - [`demo` kft-activiti-demo](https://github.com/henryyan/kft-activiti-demo)
-  
+
 ### 分布式事务
  - [tx-lcn `LCN distributed transaction framework, compatible with dubbo, spring cloud and Motan framework, supports various relational databases https://www.txlcn.org`](https://github.com/codingapi/tx-lcn)
  - [servicecomb-pack `Apache ServiceComb Saga https://servicecomb.apache.org/
@@ -109,7 +110,7 @@
  - [`baidu` uid-generator `UidGenerator是Java实现的, 基于Snowflake算法的唯一ID生成器`](https://github.com/baidu/uid-generator)
  - [`meituan` Leaf `Distributed ID Generate Service`](https://github.com/Meituan-Dianping/Leaf)
 
-### Doc
+### 系统设计
  - [system-design-primer `系统设计入门`](https://github.com/donnemartin/system-design-primer)
 
 ### 分布式任务调度
@@ -119,7 +120,7 @@
  - [uncode-schedule `基于zookeeper+spring task的分布式任务调度组件，非常小巧，无需任何修改就可以使spring task具备分布式特性，确保所有任务在集群中不重复，不遗漏的执行。 http://www.uncode.cn`](https://github.com/uncodecn/uncode-schedule)
  - [opencron `opencron 是强大的管理linux crontab任务的系统，基于JAVA开发`](https://gitee.com/benjobs/opencron)
  - [antares `分布式任务调度平台(Distributed Job Schedule Platform)`](https://github.com/ihaolin/antares)
- 
+
 ### About Database
  - [sharding-sphere `Sharding-Sphere是一套开源的分布式数据库中间件解决方案组成的生态圈，它由Sharding-JDBC、Sharding-Proxy和Sharding-Sidecar（计划中）这3款相互独立的产品组成。他们均提供标准化的数据分片、分布式事务和数据库治理功能，可适用于如Java同构、异构语言、容器、云原生等各种多样化的应用场景`](https://github.com/sharding-sphere/sharding-sphere)
  - [mango `Distributed ORM Framework for Java http://mango.jfaster.org/`](https://github.com/jfaster/mango/)
@@ -144,7 +145,7 @@
  - [mapstruct `An annotation processor for generating type-safe bean mappers http://mapstruct.org/`](https://github.com/mapstruct/mapstruct)
  - [dozer `Dozer is a Java Bean to Java Bean mapper that recursively copies data from one object to another. https://dozermapper.github.io/`](https://github.com/DozerMapper/dozer)
  - [logstash-logback-encoder `Logback encoder which creates JSON for use with Logstash`](https://github.com/logstash/logstash-logback-encoder)
- 
+
 ### RPC
  - [`Tencent` Tars `Tars is a highly performance rpc framework based on naming service using tars protocol and provides a semi-automatic operation platform.`](https://github.com/Tencent/Tars)
  - [incubator-dubbo `Dubbo is a high-performance, java based, open source RPC framework http://dubbo.io`](https://github.com/apache/incubator-dubbo)
@@ -159,15 +160,12 @@
  - [RAP `Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理。阿里妈妈MUX团队出品！阿里巴巴都在用！1000+公司的选择`](https://github.com/thx/RAP)
  - [springfox `Automated JSON API documentation for API's built with Spring`](https://github.com/springfox/springfox)
  - [showdoc `ShowDoc is a tool greatly applicable for an IT team to share documents online `](https://github.com/star7th/showdoc)
- 
+
 ### Framework
  - [spring-framework](https://github.com/spring-projects/spring-framework)
  - [spring-boot](https://github.com/spring-projects/spring-boot)
  - [jersey `github` `RESTful Web Services in Java`](https://github.com/jersey/jersey)
- 
-### Spring-boot
- - [application `Open Source application generator for creating Spring Boot + Angular projects in seconds!`](https://github.com/jhipster/generator-jhipster)
- 
+
 ### spring framework
  - [hsweb-framework](https://github.com/hs-web/hsweb-framework)
  - [zheng](https://github.com/shuzheng/zheng)
@@ -175,12 +173,12 @@
  - [xbin-newstore-cloud `基于xbin-store-cloud重构，完全保留原业务逻辑，模块更精简，部署更方便`](https://github.com/phantasies/xbin-newstore-cloud)
   - [paascloud-master `spring cloud + vue 全家桶实战，模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目`](https://github.com/paascloud/paascloud-master)
   - [spring-cloud-alibaba `Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.`](https://github.com/spring-cloud-incubator/spring-cloud-alibaba)
-  
+
 ### Leaning
  - [SpringCloud-Learning](https://github.com/dyc87112/SpringCloud-Learning)
  - [SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning)
  - [spring-boot-examples `about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 http://www.ityouknow.com/`](https://github.com/ityouknow/spring-boot-examples)
-  
+
 ### Other
  - [`alibaba` druid `为监控而生的数据库连接池`](https://github.com/alibaba/druid)
  - [RAP `Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理`](https://github.com/thx/RAP)

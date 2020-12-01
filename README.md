@@ -59,10 +59,6 @@
  - [awesome-tmux](https://github.com/rothgar/awesome-tmux)
  - [tmux](https://github.com/tmux/tmux)
 
-
-### Chrome Plugins
- - [awesome-chrome-plugins `好用的 Chrome 插件`](https://github.com/Mike-bel/awesome-chrome-plugins)
-
 ### App
  - [iina `The modern video player for macOS. https://iina.io`](https://github.com/iina/iina)
 
@@ -74,24 +70,24 @@
  - [WebSiteUseful `翻墙！科学上网，免费ss帐号分享、ssr订阅源，免费VPN下载，获取及使用教程请看：https://github.com/loremwalker/fq-book`](https://github.com/loremwalker/WebSiteUseful)
  - [easyhosts `基于 Github 项目整合的远程 Hosts 直链，适配多种规则、终端，每 30 分钟 自动同步一次 Github 最新可用项目并提供打包下载`](https://github.com/forkgood/easyhosts)
  - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)
- 
+
 ### Books
  - [free-programming-books-zh_CN `📚 免费的计算机编程类中文书籍，欢迎投稿 http://weibo.com/justjavac`](https://github.com/justjavac/free-programming-books-zh_CN)
  - [ebooks](https://github.com/yangtong/ebooks)
- 
+
 ### 比特币
  - [bitcoin `Bitcoin Core integration/staging tree https://bitcoincore.org/en/download`](https://github.com/bitcoin/bitcoin)
 
 ### 视频
  - [VBrowser-Android `M3U8嗅探, 缓存, 播放`](https://github.com/xm0625/VBrowser-Android)
  - [ivideo `一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux），包括 VIP 资源`](https://github.com/phobal/ivideo)
- 
+
 ### 持续集成
  - [harbor `An enterprise-class container registry server based on Docker Distribution `](https://github.com/vmware/harbor)
  - [bitrise `持续集成`](https://www.bitrise.io/)
  - [jenkins](https://jenkins.io/)
- 
-### 图片处理
+
+### 视觉处理
  - [opencv `opencv` `Open Source Computer Vision Library 跨平台计算机视觉库`](https://github.com/opencv/opencv)
  - [`iOS` `GPU` GPUImage](https://github.com/BradLarson/GPUImage)
  - [`Android` `GPU` GPUImage](https://github.com/CyberAgent/android-gpuimage)
@@ -101,7 +97,7 @@
  - [zopfli `图片压缩`](https://github.com/google/zopfli)
  - [UPNG.js `图片压缩`](https://github.com/photopea/UPNG.js)
  - [tinypng `图片压缩`](https://tinypng.com/)
- - [EasyPR `opencv` `EasyPR是一个开源的中文车牌识别系统，其目标是成为一个简单、高效、准确的非限制场景(unconstrained situation)下的车牌识别库`](https://github.com/liuruoze/EasyPR) 
+ - [EasyPR `opencv` `EasyPR是一个开源的中文车牌识别系统，其目标是成为一个简单、高效、准确的非限制场景(unconstrained situation)下的车牌识别库`](https://github.com/liuruoze/EasyPR)
 
 ### Algorithm
  - [`google` google-diff-match-patch](https://github.com/bystep15/google-diff-match-patch)
@@ -115,25 +111,10 @@
 
 ## Archive
  - [`google` styleguide](https://github.com/google/styleguide)
- 
+
 ### Docker
  - [nginx-proxy `Automated nginx proxy for Docker containers using docker-gen`](https://github.com/nginx-proxy/nginx-proxy)
 
-### Go
- - [awesome-go](https://github.com/avelino/awesome-go)
- - [hugo `The world’s fastest framework for building websites. https://gohugo.io`](https://github.com/gohugoio/hugo)
- - [gin `Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. https://gin-gonic.com/`](https://github.com/gin-gonic/gin)
- - [wire `Compile-time Dependency Injection for Go`](https://github.com/google/wire)
- - [oauth2 `OAuth 2.0 server library for the Go programming language.`](https://github.com/go-oauth2/oauth2)
- - [casbin `An authorization library that supports access control models like ACL, RBAC, ABAC in Golang`](https://github.com/casbin/casbin)
- - [logrus `Structured, pluggable logging for Go.`](https://github.com/sirupsen/logrus)
- - [gorm `The fantastic ORM library for Golang, aims to be developer friendly`](https://github.com/go-gorm/gorm)
- - [jwt-go `Golang implementation of JSON Web Tokens (JWT)`](https://github.com/dgrijalva/jwt-go)
- - [go-micro `A Go standard library for microservices`](https://github.com/micro/go-micro)
- - [grpc-go `The Go language implementation of gRPC. HTTP/2 based RPC`](https://github.com/grpc/grpc-go)
- - [Uber Go 语言编码规范](https://github.com/xxjwxc/uber_go_guide_cn)
- - [Standard Go Project Layout](https://github.com/golang-standards/project-layout/blob/master/README_zh.md)
- 
 ### Developer Roadmap
  - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
  - [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
@@ -150,4 +131,3 @@
 ### [Cross Platform](https://github.com/motcwang/awesome-notes/blob/master/Cross%20Platform/README.md)
 ### [Artificial intelligence](https://github.com/motcwang/awesome-notes/blob/master/Machine%3ADeep%20Leaning/README.md)
 ### [Other](https://github.com/motcwang/awesome-notes/blob/master/Other/README.md)
-
