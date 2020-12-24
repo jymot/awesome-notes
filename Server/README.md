@@ -110,6 +110,7 @@
  - [snowflake `Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees. http://twitter.com/`](https://github.com/twitter-archive/snowflake)
  - [`baidu` uid-generator `UidGenerator是Java实现的, 基于Snowflake算法的唯一ID生成器`](https://github.com/baidu/uid-generator)
  - [`meituan` Leaf `Distributed ID Generate Service`](https://github.com/Meituan-Dianping/Leaf)
+ - [`didi` tinyid](https://github.com/didi/tinyid)
 
 ### 系统设计
  - [system-design-primer `系统设计入门`](https://github.com/donnemartin/system-design-primer)
