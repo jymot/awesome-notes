@@ -119,6 +119,9 @@
  - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
  - [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 
+### Book
+ - [typescript-book-chinese `TypeScript Deep Dive 中文版`](https://github.com/jkchao/typescript-book-chinese)
+
 ### [Web](https://github.com/motcwang/awesome-notes/blob/master/Web/README.md)
 ### [Server](https://github.com/motcwang/awesome-notes/blob/master/Server/README.md)
 ### [Go](https://github.com/motcwang/awesome-notes/blob/master/Go/README.md)
