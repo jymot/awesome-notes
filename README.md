@@ -122,6 +122,7 @@
 
 ### Book
  - [typescript-book-chinese `TypeScript Deep Dive 中文版`](https://github.com/jkchao/typescript-book-chinese)
+ - [`The OAuth 2.0 Authorization Framework` RFC6749 翻译](https://github.com/jeansfish/RFC6749.zh-cn)
 
 ### [Web](https://github.com/motcwang/awesome-notes/blob/master/Web/README.md)
 ### [Server](https://github.com/motcwang/awesome-notes/blob/master/Server/README.md)
