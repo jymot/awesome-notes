@@ -64,6 +64,7 @@
  - [jumpserver Jumpserver是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。 http://www.jumpserver.org`](https://github.com/jumpserver/jumpserver)
  - [monitoror `Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything. https://monitoror.com`](https://github.com/monitoror/monitoror)
  - [ureport `一款高性能的架构在Spring之上纯Java报表引擎，通过迭代单元格可以实现任意复杂的中国式报表`](https://github.com/youseries/ureport)
+ - [kubesphere `Enterprise-grade container platform tailored for multicloud and multi-cluster management`](https://github.com/kubesphere/kubesphere)
 
 ### 微服务
  - [quarkus `Quarkus: Supersonic Subatomic Java.`](https://github.com/quarkusio/quarkus)
