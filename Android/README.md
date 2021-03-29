@@ -39,6 +39,10 @@
   - [AndroidScreenAdaptation `A light and easy-to-use Android development screen adaptation tool library(一个轻量好用的安卓开发屏幕适配工具库)`](https://github.com/yatoooon/AndroidScreenAdaptation)
   - [`tencent` Hardcoder `Hardcoder is a solution which allows Android APP and Android System to communicate with each other directly, solving the problem that Android APP could only use system standard API rather than the hardware resource of system.`](https://github.com/Tencent/Hardcoder)
  
+### 360环视视频
+  - [Pano360 `Pure Java library to play 360 degree panorama video / photo (VR video) on Android. Using OpenGL ES 2.0 -安卓全景视频/图片播放器`](https://github.com/Martin20150405/Pano360)
+  - [Pano360 blog](https://blog.csdn.net/Martin20150405/article/details/53149578)
+
 ### 精选
   - [material_design_zh `Material Design 中文协同翻译 `](https://github.com/1sters/material_design_zh)
   - [微信Android模块化架构重构实践](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286672&idx=1&sn=4d9db00c496fcafd1d3e01d69af083f9&chksm=8334cc92b4434584e8bdb117274f41145fb49ba467ec0cd9ba5e3551a8abf92f1996bd6b147a&scene=0#rd)
