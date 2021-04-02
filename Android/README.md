@@ -42,6 +42,7 @@
 ### 360环视视频
   - [Pano360 `Pure Java library to play 360 degree panorama video / photo (VR video) on Android. Using OpenGL ES 2.0 -安卓全景视频/图片播放器`](https://github.com/Martin20150405/Pano360)
   - [Pano360 blog](https://blog.csdn.net/Martin20150405/article/details/53149578)
+  - [MD360Player4Android `it is a lite library to render 360 degree panorama video for Android. VR Player.`](https://github.com/ashqal/MD360Player4Android)
 
 ### 精选
   - [material_design_zh `Material Design 中文协同翻译 `](https://github.com/1sters/material_design_zh)
