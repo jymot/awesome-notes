@@ -59,8 +59,10 @@
  - [awesome-tmux](https://github.com/rothgar/awesome-tmux)
  - [tmux](https://github.com/tmux/tmux)
 
+
 ### App
  - [iina `The modern video player for macOS. https://iina.io`](https://github.com/iina/iina)
+
 
 ### 科学上网
  - [V2RayX `GUI for v2ray-core on macOS`](https://github.com/Cenmrev/V2RayX)
