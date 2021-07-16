@@ -46,8 +46,6 @@
  - [`TypeScript Book` typescript-book-chinese `TypeScript Deep Dive 中文版 https://jkchao.github.io/typescript-b…`](https://github.com/jkchao/typescript-book-chinese)
  - [2019_campus_apply `Full Stack Developer Tutorial，后台技术栈/全栈开发/架构师之路，秋招/春招/校招/面试。 from zero to hero.`](https://github.com/frank-lam/2019_campus_apply)
  - [GitHubDaily `GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。`](https://github.com/GitHubDaily/GitHubDaily)
- - [可能是让你受益匪浅的英语进阶指南](https://github.com/byoungd/english-level-up-tips-for-Chinese)
- - [An-English-Guide-for-Programmers `专为程序员编写的英语学习指南。v1.0`](https://github.com/yujiangshui/An-English-Guide-for-Programmers)
  - [hyper `A terminal built on web technologies https://hyper.is`](https://github.com/zeit/hyper)
  - [K8tools `K8工具(内网渗透/提权工具/远程溢出/漏洞利用/Exploit/APT/0day/Shellcode/Payload/priviledge/OverFlow/WebShell/PenTest)`](https://github.com/k8gege/K8tools)
  - [libfacedetection `An open source library for face detection in images. The face detection speed can reach 1500FPS.`](https://github.com/ShiqiYu/libfacedetection)
@@ -58,6 +56,10 @@
  - [magnetW `磁力搜网页版 - 磁力链接聚合搜索 - https://bt.lansou.pw`](https://github.com/dengyuhan/magnetW)
  - [awesome-tmux](https://github.com/rothgar/awesome-tmux)
  - [tmux](https://github.com/tmux/tmux)
+
+### English
+ - [可能是让你受益匪浅的英语进阶指南](https://github.com/byoungd/english-level-up-tips-for-Chinese)
+ - [An-English-Guide-for-Programmers `专为程序员编写的英语学习指南。v1.0`](https://github.com/yujiangshui/An-English-Guide-for-Programmers)
 
 ### App
  - [iina `The modern video player for macOS. https://iina.io`](https://github.com/iina/iina)
