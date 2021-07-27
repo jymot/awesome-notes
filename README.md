@@ -42,7 +42,6 @@
  - [awesome-leetcode `Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现`](https://github.com/apachecn/awesome-leetcode)
  - [MyTikTok `我的抖音APP 从0开始撸抖音`](https://github.com/whenSunSet/MyTikTok)
  - [kotlin_tips `用Kotlin去提高生产力:汇总Kotlin相对于Java的优势，以及怎么用Kotlin去简洁、务实、高效、安全开发的Tips`](https://github.com/heimashi/kotlin_tips)
- - [BaiduPCS-Go `百度网盘客户端 - Go语言编写`](https://github.com/iikira/BaiduPCS-Go)
  - [`TypeScript Book` typescript-book-chinese `TypeScript Deep Dive 中文版 https://jkchao.github.io/typescript-b…`](https://github.com/jkchao/typescript-book-chinese)
  - [2019_campus_apply `Full Stack Developer Tutorial，后台技术栈/全栈开发/架构师之路，秋招/春招/校招/面试。 from zero to hero.`](https://github.com/frank-lam/2019_campus_apply)
  - [GitHubDaily `GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。`](https://github.com/GitHubDaily/GitHubDaily)
