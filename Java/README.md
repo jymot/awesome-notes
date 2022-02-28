@@ -7,6 +7,7 @@
  - [`alibaba` dubbo `Dubbo is a high-performance, java based, open source RPC framework`](https://github.com/alibaba/dubbo)
  - [`square` tape `A lightning fast, transactional, file-based FIFO for Android and Java.`](https://github.com/square/tape)
  - [《On Java 8》中文版，又名《Java编程思想》 第5版 https://lingcoder.github.io/OnJava8/](https://github.com/lingcoder/onJava8/)
+ - [Effective-Java-3rd-edition-Chinese-English-bilingual](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual)
  
 ### Library
  - [`google` guava](https://github.com/google/guava)
