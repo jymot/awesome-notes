@@ -188,5 +188,4 @@
  - [spring-boot-examples `about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 http://www.ityouknow.com/`](https://github.com/ityouknow/spring-boot-examples)
 
 ### Other
- - [`alibaba` druid `为监控而生的数据库连接池`](https://github.com/alibaba/druid)
  - [RAP `Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理`](https://github.com/thx/RAP)
