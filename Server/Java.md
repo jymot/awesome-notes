@@ -3,7 +3,9 @@
 ## 学习资料
   1. [JavaGuide](https://javaguide.cn/)
       * 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
-
+## 中间件
+  1. [druid](https://github.com/alibaba/druid)
+      * 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
 ## Spring Boot 开源项目
   1. [mall](https://github.com/macrozheng/mall)
       * mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
