@@ -1,5 +1,9 @@
 # Vue
 
+## 组件
+  * [tinymce](https://github.com/tinymce/tinymce)
+      * The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
+
 ## 工具
   * [UnoCSS](https://uno.antfu.me/)
       * 即时按需原子CSS引擎
