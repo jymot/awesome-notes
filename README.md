@@ -75,6 +75,8 @@
 ### Books
  - [free-programming-books-zh_CN `📚 免费的计算机编程类中文书籍，欢迎投稿 http://weibo.com/justjavac`](https://github.com/justjavac/free-programming-books-zh_CN)
  - [ebooks](https://github.com/yangtong/ebooks)
+ - [typescript-book-chinese `TypeScript Deep Dive 中文版`](https://github.com/jkchao/typescript-book-chinese)
+ - [`The OAuth 2.0 Authorization Framework` RFC6749 翻译](https://github.com/jeansfish/RFC6749.zh-cn)
 
 ### 比特币
  - [bitcoin `Bitcoin Core integration/staging tree https://bitcoincore.org/en/download`](https://github.com/bitcoin/bitcoin)
@@ -113,19 +115,12 @@
 ## Archive
  - [`google` styleguide](https://github.com/google/styleguide)
 
-
-
 ### Docker
  - [nginx-proxy `Automated nginx proxy for Docker containers using docker-gen`](https://github.com/nginx-proxy/nginx-proxy)
 
 ### Developer Roadmap
  - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
  - [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
-
-### Book
- - [typescript-book-chinese `TypeScript Deep Dive 中文版`](https://github.com/jkchao/typescript-book-chinese)
- - [`The OAuth 2.0 Authorization Framework` RFC6749 翻译](https://github.com/jeansfish/RFC6749.zh-cn)
-
 
 ### [Web](https://github.com/motcwang/awesome-notes/blob/master/Web/README.md)
 ### [Server](https://github.com/motcwang/awesome-notes/blob/master/Server/README.md)
