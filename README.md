@@ -120,7 +120,6 @@
 
 ### Developer Roadmap
  - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
- 
  - [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 
 ### [Web](https://github.com/motcwang/awesome-notes/blob/master/Web/README.md)
