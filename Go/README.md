@@ -1,6 +1,8 @@
 # Go
  - [awesome-go](https://github.com/avelino/awesome-go)
  - [hugo `The world’s fastest framework for building websites. https://gohugo.io`](https://github.com/gohugoio/hugo)
+ - [IOC-golang](https://github.com/alibaba/IOC-golang)
+    - 一款服务于 Go 开发者的依赖注入框架，方便搭建任何 Go 应用。 A Golang depenedency injection framework, helps developers to build any go application.  
  - [gin `Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. https://gin-gonic.com/`](https://github.com/gin-gonic/gin)
  - [wire `Compile-time Dependency Injection for Go`](https://github.com/google/wire)
  - [oauth2 `OAuth 2.0 server library for the Go programming language.`](https://github.com/go-oauth2/oauth2)
