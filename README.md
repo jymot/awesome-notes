@@ -68,8 +68,8 @@
  - [v2ray-core `A platform for building proxies to bypass network restrictions. https://www.v2ray.com/`](https://github.com/v2ray/v2ray-core)
  - [v2ray](https://www.v2ray.com/)
  - [vps 搭建 v2ray，shadowrocket 相关博客](https://233blog.com/)
- - [WebSiteUseful `翻墙！科学上网，免费ss帐号分享、ssr订阅源，免费VPN下载，获取及使用教程请看：https://github.com/loremwalker/fq-book`](https://github.com/loremwalker/WebSiteUseful)
- - [easyhosts `基于 Github 项目整合的远程 Hosts 直链，适配多种规则、终端，每 30 分钟 自动同步一次 Github 最新可用项目并提供打包下载`](https://github.com/forkgood/easyhosts)
+ - [WebSiteUseful `科学上网，免费ss帐号分享、ssr订阅源，免费VPN下载，获取及使用教程请看：https://github.com/loremwalker/fq-book`](https://github.com/loremwalker/WebSiteUseful)
+ - [easyhosts `基于 Github 项目整合的远程 Hosts 直链，适配多种规则、终端，每30分钟自动同步一次 Github 最新可用项目并提供打包下载`](https://github.com/forkgood/easyhosts)
  - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)
 
 ### Books
@@ -117,7 +117,6 @@
 
 ### Docker
  - [nginx-proxy `Automated nginx proxy for Docker containers using docker-gen`](https://github.com/nginx-proxy/nginx-proxy)
- 
 
 ### Developer Roadmap
  - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
