@@ -12,7 +12,8 @@
   * [vant](https://github.com/youzan/vant)
       * A lightweight, customizable Vue UI library for mobile web apps.  
 #### 轮播
-  * [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper)
+  * [swiper](https://github.com/nolimits4web/swiper)
+      * Most modern mobile touch slider with hardware accelerated transitions
   * [vue-easy-slider](https://github.com/shhdgit/vue-easy-slider)
       * Slider Component of Vue.js.  
   * [vue-carousel-3d](https://github.com/wlada/vue-carousel-3d)
