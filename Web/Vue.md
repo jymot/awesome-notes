@@ -11,6 +11,12 @@
       * A lightweight and amazing WYSIWYG JavaScript editor under 10kB 
   * [vant](https://github.com/youzan/vant)
       * A lightweight, customizable Vue UI library for mobile web apps.  
+#### 轮播
+  * [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper)
+  * [vue-easy-slider](https://github.com/shhdgit/vue-easy-slider)
+      * Slider Component of Vue.js.  
+  * [vue-carousel-3d](https://github.com/wlada/vue-carousel-3d)
+      * Vue Carousel 3D - Beautiful, flexible and touch supported 3D Carousel for Vue.js
 
 ## 工具
   * [UnoCSS](https://uno.antfu.me/)
