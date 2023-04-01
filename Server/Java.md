@@ -14,6 +14,10 @@
   2. [redisson](https://github.com/redisson/redisson)
       * Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache
 
+## 算法
+  1. [the-algorithm](https://github.com/twitter/the-algorithm/)
+      * twitter核心推荐算法， Source code for Twitter's Recommendation Algorithm  
+      * [ML模型库](https://github.com/twitter/the-algorithm-ml)
 
 ## Spring Boot 开源项目
   1. [mall](https://github.com/macrozheng/mall)
