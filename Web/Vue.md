@@ -11,6 +11,9 @@
       * A lightweight and amazing WYSIWYG JavaScript editor under 10kB 
   * [vant](https://github.com/youzan/vant)
       * A lightweight, customizable Vue UI library for mobile web apps.  
+  * [DataV-Vue3](https://github.com/DataV-Team/DataV-Vue3)   
+      * 数据大屏组件，DataV Vue3 + Vite + TypeScript 
+     
 #### 轮播
   * [swiper](https://github.com/nolimits4web/swiper)
       * Most modern mobile touch slider with hardware accelerated transitions
