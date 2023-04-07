@@ -2,6 +2,7 @@
 ## index
  - [bit](https://github.com/teambit/bit)
      - A tool for composable software development.
+ - [pdf.js](https://github.com/mozilla/pdf.js)
 
 
  - [yeoman `THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS`](http://yeoman.io/)
