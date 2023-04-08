@@ -3,6 +3,8 @@
 ## vuejs
   * [vitepress](https://github.com/vuejs/vitepress)
       * VitePress is a Static Site Generator (SSG) designed for building fast, content-centric websites. In a nutshell, VitePress takes your source content written in Markdown, applies a theme to it, and generates static HTML pages that can be easily deployed anywhere. 
+  * [go-view](https://gitee.com/dromara/go-view)
+      * GoView 是一个Vue3搭建的低代码数据可视化开发平台，将图表或页面元素封装为基础组件，无需编写代码即可完成业务需求。 它的技术栈为：Vue3 + TypeScript4 + Vite2 + NaiveUI + ECharts5 + Axios + Pinia2 + PlopJS 
 
 ## 组件
   * [tinymce](https://github.com/tinymce/tinymce)
