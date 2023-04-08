@@ -19,6 +19,8 @@
       * A lightweight, customizable Vue UI library for mobile web apps.  
   * [DataV-Vue3](https://github.com/DataV-Team/DataV-Vue3)   
       * 数据大屏组件，DataV Vue3 + Vite + TypeScript 
+  * [naive-ui](https://github.com/tusen-ai/naive-ui)
+      * A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
      
 #### 轮播
   * [swiper](https://github.com/nolimits4web/swiper)
