@@ -8,6 +8,8 @@
 ## 组件
   * [tinymce](https://github.com/tinymce/tinymce)
       * The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
+  * [wangEditor](https://github.com/wangeditor-team/wangEditor)
+      * wangEditor —— 开源 Web 富文本编辑器 
   * [ckeditor5](https://github.com/ckeditor/ckeditor5)
       * Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
   * [editor.js](https://github.com/codex-team/editor.js)  
@@ -22,6 +24,10 @@
       * GoView 是一个Vue3搭建的低代码数据可视化开发平台，将图表或页面元素封装为基础组件，无需编写代码即可完成业务需求。 它的技术栈为：Vue3 + TypeScript4 + Vite2 + NaiveUI + ECharts5 + Axios + Pinia2 + PlopJS 
   * [naive-ui](https://github.com/tusen-ai/naive-ui)
       * A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
+  * [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout)
+      * A draggable and resizable grid layout, for Vue.js.
+  * [splitpanes](https://github.com/antoniandre/splitpanes) 
+      * A Vue 2 & 3 reliable, simple and touch-ready panes splitter / resizer. 
      
 #### 轮播
   * [swiper](https://github.com/nolimits4web/swiper)
