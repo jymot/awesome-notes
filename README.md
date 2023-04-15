@@ -56,6 +56,12 @@
  - [awesome-tmux](https://github.com/rothgar/awesome-tmux)
  - [tmux](https://github.com/tmux/tmux)
 
+### GPT
+ - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+     - An experimental open-source attempt to make GPT-4 fully autonomous.
+ - [AgentGPT](https://github.com/reworkd/AgentGPT)
+     - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. 
+
 ### English
  - [可能是让你受益匪浅的英语进阶指南](https://github.com/byoungd/english-level-up-tips-for-Chinese)
  - [An-English-Guide-for-Programmers `专为程序员编写的英语学习指南。v1.0`](https://github.com/yujiangshui/An-English-Guide-for-Programmers)
