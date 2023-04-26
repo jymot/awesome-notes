@@ -1,4 +1,9 @@
 # Awesome Notes
+
+## AI
+  [AI做图](https://rightbrain.art/)
+
+## inbox
  - [`lyfeyaj` awesome-resources(开发实战资源整合)](https://github.com/lyfeyaj/awesome-resources)
  - [awesome](https://github.com/sindresorhus/awesome)
  - [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
