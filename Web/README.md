@@ -1,10 +1,12 @@
 # Web
-## index
  - [bit](https://github.com/teambit/bit)
      - A tool for composable software development.
  - [pdf.js](https://github.com/mozilla/pdf.js)
+ - [dataease](https://github.com/dataease/dataease)
+     - 人人可用的开源数据可视化分析工具  
 
 
+## index
  - [yeoman `THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS`](http://yeoman.io/)
  - [ECMAScript 6 入门](http://es6.ruanyifeng.com/#README)
  - [`(译)` 值得前端开发者在2017学习的东西](https://zhuanlan.zhihu.com/p/24612841)
