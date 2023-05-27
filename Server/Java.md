@@ -7,6 +7,8 @@
 ## 工具
   1. [captcha](https://github.com/anji-plus/captcha)
       * 行为验证码(滑动拼图、点选文字)，前后端(java)交互，包含h5/Android/IOS/flutter/uni-app的源码和实现 
+  2. [`square` javapoet](https://github.com/square/javapoet)
+      * A Java API for generating .java source files. 
 
 ## 组件
   1. [druid](https://github.com/alibaba/druid)
