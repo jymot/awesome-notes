@@ -8,14 +8,16 @@
 ## 组件
   * [tinymce](https://github.com/tinymce/tinymce)
       * The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
-  * [wangEditor](https://github.com/wangeditor-team/wangEditor)
+  * [wangEditor `富文本编辑器`](https://github.com/wangeditor-team/wangEditor)
       * wangEditor —— 开源 Web 富文本编辑器 
-  * [ckeditor5](https://github.com/ckeditor/ckeditor5)
+  * [ckeditor5 `富文本编辑器`](https://github.com/ckeditor/ckeditor5)
       * Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
-  * [editor.js](https://github.com/codex-team/editor.js)  
+  * [editor.js `富文本编辑器`](https://github.com/codex-team/editor.js)  
       * A block-style editor with clean JSON output 
-  * [Trumbowyg](https://github.com/Alex-D/Trumbowyg)
+  * [Trumbowyg `富文本编辑器`](https://github.com/Alex-D/Trumbowyg)
       * A lightweight and amazing WYSIWYG JavaScript editor under 10kB 
+  * [quill `富文本编辑器`](https://github.com/quilljs/quill)
+      * Quill is a modern WYSIWYG editor built for compatibility and extensibility.  
   * [vant](https://github.com/youzan/vant)
       * A lightweight, customizable Vue UI library for mobile web apps.  
   * [DataV-Vue3](https://github.com/DataV-Team/DataV-Vue3)   
