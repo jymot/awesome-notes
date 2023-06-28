@@ -1,5 +1,9 @@
 # Server
 
+### 数据库工具
+ - [Chat2DB](https://github.com/chat2db/Chat2DB)
+     - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
+
 ### 大数据
  - [BigData-Notes](https://github.com/heibaiying/BigData-Notes)
 
