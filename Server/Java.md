@@ -5,14 +5,13 @@
       * 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 
 ## 工具
-  1. [captcha](https://github.com/anji-plus/captcha)
-      * 行为验证码(滑动拼图、点选文字)，前后端(java)交互，包含h5/Android/IOS/flutter/uni-app的源码和实现
-  2. [tianai-captcha](https://github.com/tianaiyouqing/tianai-captcha)
-      * 行为验证码，滑块验证码，旋转验证码，滑动还原验证码，文字点选验证码
-  4. [`square` javapoet](https://github.com/square/javapoet)
+  1. [jadx](https://github.com/skylot/jadx)
+      * Dex to Java decompiler 反编译工具
+  2. [`square` javapoet](https://github.com/square/javapoet)
       * A Java API for generating .java source files. 
 
 ## 组件
+### 中间件
   1. [druid](https://github.com/alibaba/druid)
       * 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
   2. [redisson](https://github.com/redisson/redisson)
@@ -22,7 +21,13 @@
   4. [disruptor](https://github.com/LMAX-Exchange/disruptor)
       * 高性能线程间消息库 High Performance Inter-Thread Messaging Library
   5. [skywalking](https://github.com/apache/skywalking)
-      * APM, Application Performance Monitoring System   
+      * APM, Application Performance Monitoring System
+
+### 功能组件
+  1. [captcha](https://github.com/anji-plus/captcha)
+      * 行为验证码(滑动拼图、点选文字)，前后端(java)交互，包含h5/Android/IOS/flutter/uni-app的源码和实现
+  2. [tianai-captcha](https://github.com/tianaiyouqing/tianai-captcha)
+      * 行为验证码，滑块验证码，旋转验证码，滑动还原验证码，文字点选验证码
 
 ## 算法
   1. [the-algorithm](https://github.com/twitter/the-algorithm/)
