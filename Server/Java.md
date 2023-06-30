@@ -36,6 +36,10 @@
       * twitter核心推荐算法， Source code for Twitter's Recommendation Algorithm  
       * [ML模型库](https://github.com/twitter/the-algorithm-ml)
 
+## 低代码
+  1. [smart-admin](https://gitee.com/lab1024/smart-admin)
+      * SmartAdmin使用SpringBoot2 和 Vue3 Setup标签、 Composition Api (同时支持JavaScript和TypeScript双版本) ，开发出的一套简洁、易用的低代码中后台解决方案！ 我们开源一套漂亮的代码和一套整洁的代码规范，让大家在这浮躁的代码世界里感受到一股把代码写好的清流！同时又让开发者节省大量的时间，减少加班，快乐工作，热爱代码，更热爱生活。
+
 ## Spring Boot 开源项目
   1. [mall](https://github.com/macrozheng/mall)
       * mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
