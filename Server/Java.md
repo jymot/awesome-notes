@@ -28,6 +28,8 @@
       * 行为验证码(滑动拼图、点选文字)，前后端(java)交互，包含h5/Android/IOS/flutter/uni-app的源码和实现
   2. [tianai-captcha](https://github.com/tianaiyouqing/tianai-captcha)
       * 行为验证码，滑块验证码，旋转验证码，滑动还原验证码，文字点选验证码
+  3. [IJPay](https://gitee.com/javen205/IJPay)
+      * 聚合支付，IJPay 让支付触手可及，封装了微信支付、QQ支付、支付宝支付、京东支付、银联支付、PayPal支付等常用的支付方式以及各种常用的接口。不依赖任何第三方 mvc 框架，仅仅作为工具使用简单快速完成支付模块的开发，可轻松嵌入到任何系统里。  
 
 ## 算法
   1. [the-algorithm](https://github.com/twitter/the-algorithm/)
