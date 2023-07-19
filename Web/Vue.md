@@ -60,7 +60,9 @@
   * [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)
       * A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！https://vben.vvbin.cn/ 
   * [vue-next-admin](https://github.com/lyt-Top/vue-next-admin)
-      * 🎉🎉🔥基于vue3.x 、Typescript、vite、Element plus等，适配手机、平板、pc 的后台开源免费模板库（vue2.x请切换vue-prev-admin分支）  
+      * 🎉🎉🔥基于vue3.x 、Typescript、vite、Element plus等，适配手机、平板、pc 的后台开源免费模板库（vue2.x请切换vue-prev-admin分支）
+  * [vuestic-admin](https://github.com/epicmaxco/vuestic-admin)
+      * Free and Beautiful Vue 3 Admin Template 
 
 ## 低代码
   * [variant-form3-vite](https://github.com/vform666/variant-form3-vite)
