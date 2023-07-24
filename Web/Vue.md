@@ -9,6 +9,10 @@
       * 🏕 Opinionated Vite + Vue Starter Template 
 
 ## 组件
+  * [vuetify](https://github.com/vuetifyjs/vuetify)
+      * 🐉 Vue Component Framework
+  * [element-plus](https://github.com/element-plus/element-plus)
+      * 🎉 A Vue.js 3 UI Library made by Element team
   * [tinymce](https://github.com/tinymce/tinymce)
       * The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
   * [wangEditor `富文本编辑器`](https://github.com/wangeditor-team/wangEditor)
