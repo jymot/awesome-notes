@@ -12,6 +12,8 @@
  - [air `实时加载` `Live reload for Go apps`](https://github.com/cosmtrek/air)
  - [cli `命令行` `A simple, fast, and fun package for building command line apps in Go`](https://github.com/urfave/cli)
  - [dynamicgo `Dynamically and efficiently operate data for Go`](https://github.com/cloudwego/dynamicgo)
+ - [frp](https://github.com/fatedier/frp)
+    - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
 ## 依赖注入
  - [wire `Compile-time Dependency Injection for Go`](https://github.com/google/wire)
