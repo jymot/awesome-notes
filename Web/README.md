@@ -6,6 +6,7 @@
      - 人人可用的开源数据可视化分析工具  
  - [qrbtf](https://github.com/ciaochaos/qrbtf)
      - An art QR code (qrcode) beautifier. 艺术二维码生成器。https://qrbtf.com
+     - [beautify-qrcode](https://github.com/gexin1/beautify-qrcode)
 
 ## index
  - [yeoman `THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS`](http://yeoman.io/)
