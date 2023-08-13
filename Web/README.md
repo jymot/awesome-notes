@@ -125,20 +125,6 @@
 ### CSS
  - [postcss `Transforming styles with JS plugins`](https://github.com/postcss/postcss)
  - [stylus `Expressive, robust, feature-rich CSS language built for nodejs`](https://github.com/stylus/stylus/)
-
-### Node
- - [`github` http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
- - [`Terminal string styling done right` chalk](https://github.com/chalk/chalk)
- - [shell-task](https://github.com/yyx990803/shell-task)
- - [node-optimist `参数获取`](https://github.com/substack/node-optimist)
- - [Node.js 命令行程序开发教程](http://www.ruanyifeng.com/blog/2015/05/command-line-with-node.html)
- - [Learn-Node](https://github.com/wesbos/Learn-Node)
- - [pod `Git push deploy for Node.js`](https://github.com/yyx990803/pod)
- - [pm2 `Node.js Production Process Manager with a built-in Load Balancer.`](https://github.com/Unitech/pm2)
- - [nodemon `Nodemon is a utility that will monitor for any changes in your source and automatically restart your server. Perfect for development`](http://nodemon.io/)
- - [npx `execute npm package binaries`](https://github.com/zkat/npx)
- - [mysql `A pure node.js JavaScript Client implementing the MySql protocol.`](https://github.com/mysqljs/mysql)
- - [ndb `ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools`](https://github.com/GoogleChromeLabs/ndb)
  
 ### Vue
  - [pinia `vue store`](https://github.com/vuejs/pinia) 
