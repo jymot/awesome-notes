@@ -5,9 +5,7 @@
 
 ## inbox
  - [`lyfeyaj` awesome-resources(开发实战资源整合)](https://github.com/lyfeyaj/awesome-resources)
- - 
  - [awesome](https://github.com/sindresorhus/awesome)
- - 
  - [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
  - [FreeCodeCamp `The https://freeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.`](https://github.com/FreeCodeCamp/FreeCodeCamp)
  - [贝塞尔曲线教学](https://pomax.github.io/bezierinfo/zh-CN/)
