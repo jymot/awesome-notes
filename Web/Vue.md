@@ -50,7 +50,9 @@
   * [UnoCSS](https://uno.antfu.me/)
       * 即时按需原子CSS引擎
   * [iconify](https://iconify.design/sponsors/)
-      * 现代统一SVG框架  
+      * 现代统一SVG框架
+  * [vueuse](https://github.com/vueuse/vueuse)
+      * Collection of essential Vue Composition Utilities for Vue 2 and 3
   * [plop](https://github.com/plopjs/plop)
       * Consistency Made Simple 代码生成 
 
