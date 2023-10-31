@@ -7,6 +7,8 @@
  - [qrbtf](https://github.com/ciaochaos/qrbtf)
      - An art QR code (qrcode) beautifier. 艺术二维码生成器。https://qrbtf.com
      - [beautify-qrcode](https://github.com/gexin1/beautify-qrcode)
+ - [marked](https://github.com/markedjs/marked)
+     - A markdown parser and compiler. Built for speed.
 
 ## index
  - [yeoman `THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS`](http://yeoman.io/)
