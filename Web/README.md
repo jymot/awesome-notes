@@ -9,6 +9,9 @@
      - [beautify-qrcode](https://github.com/gexin1/beautify-qrcode)
  - [marked](https://github.com/markedjs/marked)
      - A markdown parser and compiler. Built for speed.
+ - [localForage](https://github.com/localForage/localForage)
+     - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+     - 离线存储，得到改进。使用简单但功能强大的API封装IndexedDB、WebSQL或localStorage。
 
 ## index
  - [yeoman `THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS`](http://yeoman.io/)
