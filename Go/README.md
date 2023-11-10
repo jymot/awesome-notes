@@ -14,6 +14,8 @@
  - [dynamicgo `Dynamically and efficiently operate data for Go`](https://github.com/cloudwego/dynamicgo)
  - [frp](https://github.com/fatedier/frp)
     - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+ - [invoice](https://github.com/maaslalani/invoice)
+    - Command line invoice generator，命令行生成发票
 
 ## 依赖注入
  - [wire `Compile-time Dependency Injection for Go`](https://github.com/google/wire)
