@@ -12,6 +12,8 @@
  - [localForage](https://github.com/localForage/localForage)
      - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
      - 离线存储，得到改进。使用简单但功能强大的API封装IndexedDB、WebSQL或localStorage。
+ - [L7](https://github.com/antvis/l7)
+     - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine 
 
 ## index
  - [yeoman `THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS`](http://yeoman.io/)
