@@ -70,7 +70,17 @@
   * [vue-next-admin](https://github.com/lyt-Top/vue-next-admin)
       * 🎉🎉🔥基于vue3.x 、Typescript、vite、Element plus等，适配手机、平板、pc 的后台开源免费模板库（vue2.x请切换vue-prev-admin分支）
   * [vuestic-admin](https://github.com/epicmaxco/vuestic-admin)
-      * Free and Beautiful Vue 3 Admin Template 
+      * Free and Beautiful Vue 3 Admin Template
+  * [naive-ui-admin](https://github.com/jekip/naive-ui-admin)
+      * Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。
+  * [scui](https://gitee.com/lolicode/scui)
+      * 一款开箱即用、高可配、高性能、风格精致、代码优雅的基于Vue3和elementPlus的WebUI前端框架，让前端开发更快乐。
+  * [vue-pure-admin](https://github.com/pure-admin/vue-pure-admin)
+      * 🔥 ✨✨ ✨ Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
+  * [vue-admin-work](http://www.vueadminwork.com/index)
+      * Admin Work X，漂亮、强大、完善。采用 Vue3 Webpack Typescript ElementPlus编写的中后台框架。全面的系统配置，优质模板，常用组件，真正一站式开箱即用。
+  * [soybean-admin](https://github.com/honghuangdc/soybean-admin)
+      * A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版] 
 
 ## 低代码
   * [variant-form3-vite](https://github.com/vform666/variant-form3-vite)
