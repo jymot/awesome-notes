@@ -5,6 +5,8 @@
      - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
  - [junodb](https://github.com/paypal/junodb)
      - JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.
+ - [tiny-rdm](https://github.com/tiny-craft/tiny-rdm)
+     - A Modern Redis GUI Client  一个现代化轻量级的跨平台Redis桌面客户端，支持Mac、Windows和Linux
 
 ### 数据可视化
  - [nightingale](https://github.com/ccfos/nightingale)
