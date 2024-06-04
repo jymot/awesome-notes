@@ -36,7 +36,9 @@
       * 聚合支付，IJPay 让支付触手可及，封装了微信支付、QQ支付、支付宝支付、京东支付、银联支付、PayPal支付等常用的支付方式以及各种常用的接口。不依赖任何第三方 mvc 框架，仅仅作为工具使用简单快速完成支付模块的开发，可轻松嵌入到任何系统里。
   4. [jsonflow-ui](https://gitee.com/jackrolling/jsonflow-ui)
       * 第一自研🚀工作流引擎🔥 (非开源BPM)，自动布局算法布局，绝对授权类工作流+自研引擎No.1。功能强大支持Online零编码流程设计与申请办公等，UI美观操作绝对简单⭐️前后端代码完全自研可控，非常容易进行二次开发。前后端纯Json交互（格式简单），简单易用且适应复杂的中国式审批流场景。
-
+  5. [canal](https://github.com/alibaba/canal)
+      * 阿里巴巴 MySQL binlog 增量订阅&消费组件
+  
 ## 算法
   1. [the-algorithm](https://github.com/twitter/the-algorithm/)
       * twitter核心推荐算法， Source code for Twitter's Recommendation Algorithm  
