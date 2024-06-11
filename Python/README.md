@@ -15,3 +15,7 @@ In a fast, simple, yet extensible way.`](https://scrapy.org/)
  - [30-seconds-of-python `A curated collection of useful Python snippets that you can understand in 30 seconds or less. https://python.30secondsofcode.org/`](https://github.com/30-seconds/30-seconds-of-python)
  - [python-socketio](https://github.com/miguelgrinberg/python-socketio/)
  - [《Python Parallel Programming Cookbook》中文版](https://github.com/laixintao/python-parallel-programming-cookbook-cn)
+
+### 组件
+ - [modin](https://github.com/modin-project/modin)
+    - Modin: Scale your Pandas workflows by changing a single line of code
