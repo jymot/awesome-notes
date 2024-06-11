@@ -19,3 +19,5 @@ In a fast, simple, yet extensible way.`](https://scrapy.org/)
 ### 组件
  - [modin](https://github.com/modin-project/modin)
     - Modin: Scale your Pandas workflows by changing a single line of code
+ - [pandas](https://github.com/pandas-dev/pandas)
+    - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
