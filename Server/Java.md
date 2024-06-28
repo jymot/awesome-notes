@@ -8,7 +8,12 @@
   1. [jadx](https://github.com/skylot/jadx)
       * Dex to Java decompiler 反编译工具
   2. [`square` javapoet](https://github.com/square/javapoet)
-      * A Java API for generating .java source files. 
+      * A Java API for generating .java source files.
+  3. [mybatis-plus-join](https://github.com/yulichang/mybatis-plus-join)
+      * 支持连表查询的mybatis-plus,mybatis-plus风格的连表操作提供wrapper.leftJoin(),wrapper.rightJoin()等操作
+  4. [javers](https://github.com/javers/javers)
+      * JaVers - object auditing and diff framework for Java
+     
 ## ETL
   1. [pentaho-kettle](https://github.com/pentaho/pentaho-kettle)
       * Pentaho Data Integration ( ETL ) a.k.a Kettle
