@@ -117,6 +117,8 @@
   - [flowable-engine `A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users. https://www.flowable.org`](https://github.com/flowable/flowable-engine)
   - [activiti-in-action-codes`Activiti官方唯一推荐中文书籍——《Activiti实战》示例源码 `](https://github.com/henryyan/activiti-in-action-codes)
   - [`demo` kft-activiti-demo](https://github.com/henryyan/kft-activiti-demo)
+  - [compileflow](https://github.com/alibaba/compileflow)
+     - 🎨 core business process engine of Alibaba Halo platform, best process engine for trade scenes. | 一个高性能流程编排引擎  
 
 ### 分布式事务
  - [tx-lcn `LCN distributed transaction framework, compatible with dubbo, spring cloud and Motan framework, supports various relational databases https://www.txlcn.org`](https://github.com/codingapi/tx-lcn)
