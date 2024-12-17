@@ -31,6 +31,8 @@
       * 高性能线程间消息库 High Performance Inter-Thread Messaging Library
   5. [skywalking](https://github.com/apache/skywalking)
       * APM, Application Performance Monitoring System
+  6. [canal](https://github.com/alibaba/canal)
+      * 阿里巴巴 MySQL binlog 增量订阅&消费组件  
 
 ### 功能组件
   1. [captcha](https://github.com/anji-plus/captcha)
