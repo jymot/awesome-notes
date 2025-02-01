@@ -7,6 +7,9 @@
  * [ollama](https://github.com/ollama/ollama)
    * Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
    * 开始使用Llama 3.3、DeepSeek-R1、Phi-4、Gemma 2和其他大型语言模型。
+ * [LM Studio](https://lmstudio.ai/)
+   * 大模型部署工具 
+   * [lms](https://github.com/lmstudio-ai/lms) LM Studio CLI
  * [cherry-studio](https://github.com/CherryHQ/cherry-studio)
    * 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
    * 支持多服务商的AI对话框客户端
