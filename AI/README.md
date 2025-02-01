@@ -9,4 +9,4 @@
    * 支持多服务商的AI对话框客户端
  * [ModelScope](https://www.modelscope.cn/home)
    * [modelscope github](https://github.com/modelscope) 
-   * 模型下载 
+   * 开源模型社区
