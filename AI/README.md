@@ -10,6 +10,9 @@
  * [LM Studio](https://lmstudio.ai/)
    * 大模型部署工具 
    * [lms](https://github.com/lmstudio-ai/lms) LM Studio CLI
+ * [sglang](https://github.com/sgl-project/sglang)
+   * SGLang is a fast serving framework for large language models and vision language models.
+   * 大模型部署工具
  * [cherry-studio](https://github.com/CherryHQ/cherry-studio)
    * 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
    * 支持多服务商的AI对话框客户端
