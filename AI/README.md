@@ -25,3 +25,5 @@
  * [ModelScope](https://www.modelscope.cn/home)
    * [modelscope github](https://github.com/modelscope) 
    * 开源模型社区
+ * [huggingface](https://huggingface.co/spaces)
+   * 开源模型社区
