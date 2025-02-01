@@ -10,6 +10,9 @@
  * [LM Studio](https://lmstudio.ai/)
    * 大模型部署工具 
    * [lms](https://github.com/lmstudio-ai/lms) LM Studio CLI
+ * [lmdeploy](https://github.com/InternLM/lmdeploy)
+   * About LMDeploy is a toolkit for compressing, deploying, and serving LLMs. 
+   * 大模型部署工具 
  * [sglang](https://github.com/sgl-project/sglang)
    * SGLang is a fast serving framework for large language models and vision language models.
    * 大模型部署工具
