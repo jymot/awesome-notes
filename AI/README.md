@@ -11,10 +11,13 @@
    * 大模型部署工具 
    * [lms](https://github.com/lmstudio-ai/lms) LM Studio CLI
  * [lmdeploy](https://github.com/InternLM/lmdeploy)
-   * About LMDeploy is a toolkit for compressing, deploying, and serving LLMs. 
+   * LMDeploy is a toolkit for compressing, deploying, and serving LLMs. 
    * 大模型部署工具 
  * [sglang](https://github.com/sgl-project/sglang)
    * SGLang is a fast serving framework for large language models and vision language models.
+   * 大模型部署工具
+ * [vllm](https://github.com/vllm-project/vllm)
+   * A high-throughput and memory-efficient inference and serving engine for LLMs
    * 大模型部署工具
  * [cherry-studio](https://github.com/CherryHQ/cherry-studio)
    * 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
