@@ -7,3 +7,5 @@
  * [cherry-studio](https://github.com/CherryHQ/cherry-studio)
    * 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
    * 支持多服务商的AI对话框客户端
+ * [ModelScope](https://www.modelscope.cn/home)
+   * 模型下载 
