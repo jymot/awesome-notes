@@ -1,7 +1,7 @@
 # Awesome Notes
 
-## AI
-  [AI做图](https://rightbrain.art/)
+ - [protopie](https://www.protopie.cn/)
+   - 高保真原型
 
 ## inbox
  - [`lyfeyaj` awesome-resources(开发实战资源整合)](https://github.com/lyfeyaj/awesome-resources)
