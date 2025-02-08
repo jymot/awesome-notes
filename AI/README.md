@@ -19,6 +19,8 @@
  * [vllm](https://github.com/vllm-project/vllm)
    * A high-throughput and memory-efficient inference and serving engine for LLMs
    * 大模型部署工具
+ * [anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+   * The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more. 
  * [cherry-studio](https://github.com/CherryHQ/cherry-studio)
    * 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
    * 支持多服务商的AI对话框客户端
