@@ -30,3 +30,7 @@
    * 开源模型社区
  * [huggingface](https://huggingface.co/spaces)
    * 开源模型社区
+
+## 向量数据库
+ * [milvus](https://github.com/milvus-io/milvus)
+   * Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search 
