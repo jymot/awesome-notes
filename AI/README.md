@@ -2,14 +2,25 @@
 
 
  * [虚拟信用卡，开通国外服务](https://yeka.ai)
+
+ 
  * [ragflow](https://github.com/infiniflow/ragflow)
    * 基于深度文档理解构建的开源 RAG（Retrieval-Augmented Generation）引擎。RAGFlow 可以为各种规模的企业及个人提供一套精简的 RAG 工作流程，结合大语言模型（LLM）针对用户各类不同的复杂格式数据提供可靠的问答以及有理有据的引用
-   * RAG
+   * 【个人】轻量级便捷RAG 推理框架
  * [kotaemon](https://github.com/Cinnamon/kotaemon)
    * An open-source RAG-based tool for chatting with your documents.
-   * RAG 
+   * 【企业级】RAG&GraphRAG 知识库对话框架
+ * [open-webui](https://github.com/open-webui/open-webui)
+   * User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+   * 【企业级】RAG&Agent 多功能综合前端框架
+ * [lobe-chat](https://github.com/lobehub/lobe-chat)
+   * 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
+   * 【企业级】多模态交互框架 
 
 ## 工具/模型社区
+ * [chatbox](https://github.com/Bin-Huang/chatbox)
+   * User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...) 
+   * 【个人】多端&多模型聊天框架 
  * [ollama](https://github.com/ollama/ollama)
    * Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
    * 开始使用Llama 3.3、DeepSeek-R1、Phi-4、Gemma 2和其他大型语言模型。
