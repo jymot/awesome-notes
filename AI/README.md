@@ -16,6 +16,10 @@
  * [lobe-chat](https://github.com/lobehub/lobe-chat)
    * 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
    * 【企业级】多模态交互框架
+ * [dify](https://github.com/langgenius/dify)  
+   * Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+   * Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型到生产。
+
 ### Deploy
  * [ollama](https://github.com/ollama/ollama)
    * Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
@@ -32,6 +36,7 @@
  * [vllm](https://github.com/vllm-project/vllm)
    * A high-throughput and memory-efficient inference and serving engine for LLMs
    * 大模型部署工具
+
 ### RAG
  * [ragflow](https://github.com/infiniflow/ragflow)
    * 基于深度文档理解构建的开源 RAG（Retrieval-Augmented Generation）引擎。RAGFlow 可以为各种规模的企业及个人提供一套精简的 RAG 工作流程，结合大语言模型（LLM）针对用户各类不同的复杂格式数据提供可靠的问答以及有理有据的引用
