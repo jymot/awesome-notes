@@ -48,6 +48,13 @@
    * User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
    * 【企业级】RAG&Agent 多功能综合前端框架
 
+### 微调
+ * [unsloth](https://github.com/unslothai/unsloth)
+   * Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory! 🦥
+ * [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+   * Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+ * [ms-SWIFT](https://github.com/modelscope/ms-swift)
+   * Use PEFT or Full-parameter to finetune 450+ LLMs (Qwen2.5, InternLM3, GLM4, Llama3.3, Mistral, Yi1.5, Baichuan2, DeepSeek-R1, ...) and 150+ MLLMs (Qwen2.5-VL, Qwen2-Audio, Llama3.2-Vision, Llava, InternVL2.5, MiniCPM-V-2.6, GLM4v, Xcomposer2.5, Yi-VL, DeepSeek-VL2, Phi3.5-Vision, GOT-OCR2, ...).
 
 ## 模型社区
  * [ModelScope](https://www.modelscope.cn/home)
