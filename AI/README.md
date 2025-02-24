@@ -37,6 +37,10 @@
    * A high-throughput and memory-efficient inference and serving engine for LLMs
    * 大模型部署工具
 
+### 集群
+  * [exo](https://github.com/exo-explore/exo)
+    * Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ 
+
 ### RAG
  * [ragflow](https://github.com/infiniflow/ragflow)
    * 基于深度文档理解构建的开源 RAG（Retrieval-Augmented Generation）引擎。RAGFlow 可以为各种规模的企业及个人提供一套精简的 RAG 工作流程，结合大语言模型（LLM）针对用户各类不同的复杂格式数据提供可靠的问答以及有理有据的引用
