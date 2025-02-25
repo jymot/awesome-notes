@@ -24,7 +24,8 @@
  * [dify](https://github.com/langgenius/dify)  
    * Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
    * Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型到生产。
- 
+ * [open-webui](https://github.com/open-webui/open-webui)
+   * User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 
 
 ### Deploy
  * [ollama](https://github.com/ollama/ollama)
