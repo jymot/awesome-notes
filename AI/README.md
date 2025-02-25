@@ -3,6 +3,11 @@
  * [虚拟信用卡，开通国外服务](https://yeka.ai)
 
 ## 工具
+
+### Video
+ * [Open-Sora](https://github.com/hpcaitech/Open-Sora)
+   * Open-Sora: Democratizing Efficient Video Production for All
+
 ### Application
  * [chatbox](https://github.com/Bin-Huang/chatbox)
    * User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...) 
@@ -19,6 +24,7 @@
  * [dify](https://github.com/langgenius/dify)  
    * Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
    * Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型到生产。
+ 
 
 ### Deploy
  * [ollama](https://github.com/ollama/ollama)
@@ -41,6 +47,11 @@
   * [exo](https://github.com/exo-explore/exo)
     * Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ 
 
+### 分布式
+  * [ColossalAI](https://github.com/hpcaitech/ColossalAI)
+    * Making large AI models cheaper, faster and more accessible
+    * 分布式训练和推理框架
+
 ### RAG
  * [ragflow](https://github.com/infiniflow/ragflow)
    * 基于深度文档理解构建的开源 RAG（Retrieval-Augmented Generation）引擎。RAGFlow 可以为各种规模的企业及个人提供一套精简的 RAG 工作流程，结合大语言模型（LLM）针对用户各类不同的复杂格式数据提供可靠的问答以及有理有据的引用
@@ -59,8 +70,6 @@
    * Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
  * [ms-SWIFT](https://github.com/modelscope/ms-swift)
    * Use PEFT or Full-parameter to finetune 450+ LLMs (Qwen2.5, InternLM3, GLM4, Llama3.3, Mistral, Yi1.5, Baichuan2, DeepSeek-R1, ...) and 150+ MLLMs (Qwen2.5-VL, Qwen2-Audio, Llama3.2-Vision, Llava, InternVL2.5, MiniCPM-V-2.6, GLM4v, Xcomposer2.5, Yi-VL, DeepSeek-VL2, Phi3.5-Vision, GOT-OCR2, ...).
- * [ColossalAI](https://github.com/hpcaitech/ColossalAI)
-   * Making large AI models cheaper, faster and more accessible 
 
 ## 模型社区
  * [ModelScope](https://www.modelscope.cn/home)
