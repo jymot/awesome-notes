@@ -71,6 +71,8 @@
    * Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
  * [ms-SWIFT](https://github.com/modelscope/ms-swift)
    * Use PEFT or Full-parameter to finetune 450+ LLMs (Qwen2.5, InternLM3, GLM4, Llama3.3, Mistral, Yi1.5, Baichuan2, DeepSeek-R1, ...) and 150+ MLLMs (Qwen2.5-VL, Qwen2-Audio, Llama3.2-Vision, Llava, InternVL2.5, MiniCPM-V-2.6, GLM4v, Xcomposer2.5, Yi-VL, DeepSeek-VL2, Phi3.5-Vision, GOT-OCR2, ...).
+ * [ktransformers](https://github.com/kvcache-ai/ktransformers)
+   * A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations 
 
 ## 模型社区
  * [ModelScope](https://www.modelscope.cn/home)
