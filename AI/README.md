@@ -77,6 +77,10 @@
 ## Agent
  * [openai-agents-python](https://github.com/openai/openai-agents-python)
    * A lightweight, powerful framework for multi-agent workflows
+ * [owl](https://github.com/camel-ai/owl)
+   * 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
+ * [OpenManus](https://github.com/mannaandpoem/OpenManus)
+   * MetaGPT 复现几乎完整的 manus 功能
 
 ## 模型社区
  * [ModelScope](https://www.modelscope.cn/home)
