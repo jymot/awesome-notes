@@ -74,6 +74,11 @@
  * [ms-SWIFT](https://github.com/modelscope/ms-swift)
    * Use PEFT or Full-parameter to finetune 450+ LLMs (Qwen2.5, InternLM3, GLM4, Llama3.3, Mistral, Yi1.5, Baichuan2, DeepSeek-R1, ...) and 150+ MLLMs (Qwen2.5-VL, Qwen2-Audio, Llama3.2-Vision, Llava, InternVL2.5, MiniCPM-V-2.6, GLM4v, Xcomposer2.5, Yi-VL, DeepSeek-VL2, Phi3.5-Vision, GOT-OCR2, ...).
 
+### DeepSeek
+ * [DeepEP](https://github.com/deepseek-ai/DeepEP)
+   * DeepEP: an efficient expert-parallel communication library
+   * 高效的专家并行通信库
+
 ## Agent
  * [openai-agents-python](https://github.com/openai/openai-agents-python)
    * A lightweight, powerful framework for multi-agent workflows
