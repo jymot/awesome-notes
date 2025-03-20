@@ -79,6 +79,11 @@
    * DeepEP: an efficient expert-parallel communication library
    * 高效的专家并行通信库
 
+## MCP
+ * [Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)
+ * [python-sdk](https://github.com/modelcontextprotocol/python-sdk)
+   * The official Python SDK for Model Context Protocol servers and clients
+
 ## Agent
  * [openai-agents-python](https://github.com/openai/openai-agents-python)
    * A lightweight, powerful framework for multi-agent workflows
