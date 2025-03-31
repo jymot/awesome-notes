@@ -4,6 +4,10 @@
 
 ## 工具
 
+### 爬虫
+ * [crawl4ai](https://github.com/unclecode/crawl4ai)
+   * 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+
 ### Video
  * [Open-Sora](https://github.com/hpcaitech/Open-Sora)
    * Open-Sora: Democratizing Efficient Video Production for All
