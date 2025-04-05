@@ -37,7 +37,10 @@
   * [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout)
       * A draggable and resizable grid layout, for Vue.js.
   * [splitpanes](https://github.com/antoniandre/splitpanes) 
-      * A Vue 2 & 3 reliable, simple and touch-ready panes splitter / resizer. 
+      * A Vue 2 & 3 reliable, simple and touch-ready panes splitter / resizer.
+  * [inspira-ui](https://github.com/unovue/inspira-ui)
+      * Build beautiful website using Vue & Nuxt.
+      * 动画效果UI
 
 #### 数据大屏
   * [DataV-Vue3](https://github.com/DataV-Team/DataV-Vue3)   
