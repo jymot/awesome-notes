@@ -12,8 +12,8 @@
       * 🏕 Opinionated Vite + Vue Starter Template 
 
 ## 组件
-  * [tdesign-vue](https://github.com/Tencent/tdesign-vue)(https://github.com/Tencent/tdesign-mobile-vue)
-      * A Vue3.x Mobile UI components lib for TDesign.
+  * [tdesign-vue](https://github.com/Tencent/tdesign-vue)
+      * [tdesign-mobile-vue](https://github.com/Tencent/tdesign-mobile-vue) A Vue3.x Mobile UI components lib for TDesign.
   * [vuetify](https://github.com/vuetifyjs/vuetify)
       * 🐉 Vue Component Framework
   * [element-plus](https://github.com/element-plus/element-plus)
