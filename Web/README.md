@@ -14,6 +14,8 @@
      - 离线存储，得到改进。使用简单但功能强大的API封装IndexedDB、WebSQL或localStorage。
  - [L7](https://github.com/antvis/l7)
      - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine 
+ - [anime](https://github.com/juliangarnier/anime)
+     - JavaScript animation engine 动画引擎 
 
 ## index
  - [yeoman `THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS`](http://yeoman.io/)
