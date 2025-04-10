@@ -95,6 +95,8 @@
    * 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
  * [OpenManus](https://github.com/mannaandpoem/OpenManus)
    * MetaGPT 复现几乎完整的 manus 功能
+ * [browser-use](https://github.com/browser-use/browser-use)
+   * Make websites accessible for AI agents 
 
 ## 模型社区
  * [ModelScope](https://www.modelscope.cn/home)
