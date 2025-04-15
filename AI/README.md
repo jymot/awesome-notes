@@ -7,10 +7,15 @@
 ### Index
  * [pandas-ai](https://github.com/sinaptik-ai/pandas-ai)
    * Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
+ * [n8n](https://github.com/n8n-io/n8n)
+   * Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+   * 具有原生AI功能的公平代码工作流自动化平台。将可视化建筑与自定义代码、自托管或云相结合，400多种集成。 
 
 ### 爬虫
  * [crawl4ai](https://github.com/unclecode/crawl4ai)
    * 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+ * [firecrawl](https://github.com/mendableai/firecrawl)
+   * 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 
 ### Video
  * [Open-Sora](https://github.com/hpcaitech/Open-Sora)
