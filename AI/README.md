@@ -2,6 +2,9 @@
 
  * [虚拟信用卡，开通国外服务](https://yeka.ai)
 
+ * [vanna](https://github.com/vanna-ai/vanna)
+   * 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄. 
+
 ## 工具
 
 ### Index
