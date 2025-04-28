@@ -5,7 +5,8 @@
  * [vanna](https://github.com/vanna-ai/vanna)
    * 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄. 
  * [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
-   * 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) 
+   * 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+   * 强大的少样本语音转换与语音合成Web用户界面
 
 ## 工具
 
