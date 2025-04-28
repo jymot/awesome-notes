@@ -99,6 +99,8 @@
    * 高效的专家并行通信库
 
 ## MCP
+ * [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+   * A collection of MCP servers. MCP集合
  * [Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)
  * [python-sdk](https://github.com/modelcontextprotocol/python-sdk)
    * The official Python SDK for Model Context Protocol servers and clients
