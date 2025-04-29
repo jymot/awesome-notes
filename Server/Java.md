@@ -59,6 +59,8 @@
       * Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
   4. [APIJSON](https://github.com/Tencent/APIJSON)
       * 🏆 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🏆 A JSON Transmission Protocol and an ORM Library 🚀 provides APIs and Docs without writing any code.
+  5. [agile-bpm-basic](https://gitee.com/agile-bpm/agile-bpm-basic)
+      * AgileBPM 工作流 低代码 快速开发平台，基于 JDK17、Activiti7、Vue3、TS、Vite、ElementPlus 的 全新版本，全新的技术栈，全新的体验，我们会持续更新 OA人事、资产管理 等低代码功能，敬请期待。 
 
 ## Spring Boot 开源项目
   1. [mall](https://github.com/macrozheng/mall)
