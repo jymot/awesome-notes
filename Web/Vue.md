@@ -8,7 +8,9 @@
  * [lowflow-design](https://github.com/tsai996/lowflow-design)
     * 低代码流程设计器
  * [variant-form3-vite](https://github.com/vform666/variant-form3-vite)
-    * 表单设计器 
+    * 表单设计器
+ * [agile-bpm-basic](https://gitee.com/agile-bpm/agile-bpm-basic)
+    *  AgileBPM 工作流 低代码 快速开发平台，基于 JDK17、Activiti7、Vue3、TS、Vite、ElementPlus 的 全新版本，全新的技术栈，全新的体验，我们会持续更新 OA人事、资产管理 等低代码功能，敬请期待。
 
 ## vuejs
   * [vitepress](https://github.com/vuejs/vitepress)
@@ -96,7 +98,3 @@
       * Admin Work X，漂亮、强大、完善。采用 Vue3 Webpack Typescript ElementPlus编写的中后台框架。全面的系统配置，优质模板，常用组件，真正一站式开箱即用。
   * [soybean-admin](https://github.com/honghuangdc/soybean-admin)
       * A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版] 
-
-## 低代码
-  * [variant-form3-vite](https://github.com/vform666/variant-form3-vite)
-      * Vue3低代码，使用element-plus 
