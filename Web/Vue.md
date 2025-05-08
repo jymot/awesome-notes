@@ -97,4 +97,6 @@
   * [vue-admin-work](http://www.vueadminwork.com/index)
       * Admin Work X，漂亮、强大、完善。采用 Vue3 Webpack Typescript ElementPlus编写的中后台框架。全面的系统配置，优质模板，常用组件，真正一站式开箱即用。
   * [soybean-admin](https://github.com/honghuangdc/soybean-admin)
-      * A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版] 
+      * A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版]
+  * [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
+      * 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ 
