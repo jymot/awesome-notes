@@ -57,6 +57,8 @@
   * [GSAP](https://github.com/greensock/GSAP)
       *  GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
       *  动画组件库
+  - [anime](https://github.com/juliangarnier/anime)
+      - JavaScript animation engine 动画引擎 
 
 #### 数据大屏
   * [DataV-Vue3](https://github.com/DataV-Team/DataV-Vue3)   
