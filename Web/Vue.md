@@ -47,12 +47,16 @@
       * A draggable and resizable grid layout, for Vue.js.
   * [splitpanes](https://github.com/antoniandre/splitpanes) 
       * A Vue 2 & 3 reliable, simple and touch-ready panes splitter / resizer.
-  * [inspira-ui](https://github.com/unovue/inspira-ui)
-      * Build beautiful website using Vue & Nuxt.
-      * 动画效果UI
   * [handsontable](https://github.com/handsontable/handsontable)
       * JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
       * 表格 
+#### 动画
+  * [inspira-ui](https://github.com/unovue/inspira-ui)
+      * Build beautiful website using Vue & Nuxt.
+      * 动画效果UI
+  * [GSAP](https://github.com/greensock/GSAP)
+      *  GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
+      *  动画组件库
 
 #### 数据大屏
   * [DataV-Vue3](https://github.com/DataV-Team/DataV-Vue3)   
