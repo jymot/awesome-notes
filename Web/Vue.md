@@ -49,7 +49,7 @@
       * A Vue 2 & 3 reliable, simple and touch-ready panes splitter / resizer.
   * [handsontable](https://github.com/handsontable/handsontable)
       * JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
-      * 表格 
+      * 表格
 #### 动画
   * [inspira-ui](https://github.com/unovue/inspira-ui)
       * Build beautiful website using Vue & Nuxt.
