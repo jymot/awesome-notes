@@ -44,6 +44,8 @@
       * 第一自研🚀工作流引擎🔥 (非开源BPM)，自动布局算法布局，绝对授权类工作流+自研引擎No.1。功能强大支持Online零编码流程设计与申请办公等，UI美观操作绝对简单⭐️前后端代码完全自研可控，非常容易进行二次开发。前后端纯Json交互（格式简单），简单易用且适应复杂的中国式审批流场景。
   5. [canal](https://github.com/alibaba/canal)
       * 阿里巴巴 MySQL binlog 增量订阅&消费组件
+  6. [liteflow](https://github.com/dromara/liteflow?tab=readme-ov-file)
+      * 轻量级、快速、稳定、可编程的基于组件的规则引擎/流程引擎。组件重用、同步/异步编排、动态编排、多语言脚本支持、复杂的嵌套规则、热部署、平滑刷新。让您提高开发效率！ 
   
 ## 算法
   1. [the-algorithm](https://github.com/twitter/the-algorithm/)
