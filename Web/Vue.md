@@ -12,6 +12,14 @@
  * [agile-bpm-basic](https://gitee.com/agile-bpm/agile-bpm-basic)
     *  AgileBPM 工作流 低代码 快速开发平台，基于 JDK17、Activiti7、Vue3、TS、Vite、ElementPlus 的 全新版本，全新的技术栈，全新的体验，我们会持续更新 OA人事、资产管理 等低代码功能，敬请期待。
 
+## 测试
+ * [playwright](https://github.com/microsoft/playwright)
+    * Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+ * [cypress](https://github.com/cypress-io/cypress)
+    * Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+ * [nightwatch](https://github.com/nightwatchjs/nightwatch)
+    * Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack 
+
 ## vuejs
   * [vitepress](https://github.com/vuejs/vitepress)
       * VitePress is a Static Site Generator (SSG) designed for building fast, content-centric websites. In a nutshell, VitePress takes your source content written in Markdown, applies a theme to it, and generates static HTML pages that can be easily deployed anywhere. 
