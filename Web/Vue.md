@@ -12,7 +12,10 @@
  * [agile-bpm-basic](https://gitee.com/agile-bpm/agile-bpm-basic)
     *  AgileBPM 工作流 低代码 快速开发平台，基于 JDK17、Activiti7、Vue3、TS、Vite、ElementPlus 的 全新版本，全新的技术栈，全新的体验，我们会持续更新 OA人事、资产管理 等低代码功能，敬请期待。
  * [vue-flow](https://github.com/bcakmakoglu/vue-flow)
-    * A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph. 
+    * A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
+ * [x6](https://github.com/antvis/x6)
+    * 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
+    * X6 是基于 HTML 和 SVG 的图编辑引擎，提供低成本的定制能力和开箱即用的内置扩展，方便我们快速搭建 DAG 图、ER 图、流程图、血缘图等应用。
 
 ## 测试
  * [playwright](https://github.com/microsoft/playwright)
