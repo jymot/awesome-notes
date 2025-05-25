@@ -11,6 +11,8 @@
     * 表单设计器
  * [agile-bpm-basic](https://gitee.com/agile-bpm/agile-bpm-basic)
     *  AgileBPM 工作流 低代码 快速开发平台，基于 JDK17、Activiti7、Vue3、TS、Vite、ElementPlus 的 全新版本，全新的技术栈，全新的体验，我们会持续更新 OA人事、资产管理 等低代码功能，敬请期待。
+ * [vue-flow](https://github.com/bcakmakoglu/vue-flow)
+    * A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph. 
 
 ## 测试
  * [playwright](https://github.com/microsoft/playwright)
