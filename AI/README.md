@@ -101,6 +101,8 @@
 ## MCP
  * [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
    * A collection of MCP servers. MCP集合
+ * [github-mcp-server](https://github.com/github/github-mcp-server)
+   * GitHub's official MCP Server
  * [Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)
  * [python-sdk](https://github.com/modelcontextprotocol/python-sdk)
    * The official Python SDK for Model Context Protocol servers and clients
