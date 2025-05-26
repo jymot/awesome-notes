@@ -80,6 +80,11 @@
  - [qrious `生成二维码`](https://github.com/neocotic/qrious)
  - [turf `用JavaScript编写的模块化地理空间引擎。它包括传统的空间操作、用于创建GeoJSON数据的助手函数，以及数据分类和统计工具`](https://github.com/Turfjs/turf/)
 
+### Workflow
+ - [flowgram.ai](https://github.com/bytedance/flowgram.ai)
+    - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
+    - FlowGram是一个基于节点的流构建引擎，可帮助开发人员在固定布局或自由连接布局模式下快速创建工作流
+
 ### 360环视
  - [top-7-best-360-degrees-equirectangular-image-viewer-javascript-plugins](https://ourcodeworld.com/articles/read/843/top-7-best-360-degrees-equirectangular-image-viewer-javascript-plugins)
  - [marzipano `A 360° media viewer for the modern web.`](https://github.com/google/marzipano)
@@ -134,58 +139,6 @@
 ### CSS
  - [postcss `Transforming styles with JS plugins`](https://github.com/postcss/postcss)
  - [stylus `Expressive, robust, feature-rich CSS language built for nodejs`](https://github.com/stylus/stylus/)
- 
-### Vue
- - [pinia `vue store`](https://github.com/vuejs/pinia) 
- - [vue-devtools `Browser devtools extension for debugging Vue.js applications.`](https://github.com/vuejs/vue-devtools)
- - [Vue.js 源码分析 https://ustbhuangyi.github.io/vue-ana…](https://github.com/ustbhuangyi/vue-analysis)
- - [awesome-vue](https://github.com/vuejs/awesome-vue)
- - [vue-strap](https://github.com/yuche/vue-strap)
- - [vue-resource](https://github.com/pagekit/vue-resource)
- - [vuex](https://github.com/vuejs/vuex/)
- - [vue-touch](https://github.com/vuejs/vue-touch)
- - [vue-router](https://github.com/vuejs/vue-router/)
- - [vue-element](https://github.com/karol-f/vue-element)
- - [element `Vue2.0 UI Toolkit`](https://github.com/ElemeFE/element)
- - [OnsenUI `Vue2.0 UI`](https://github.com/OnsenUI/OnsenUI)
- - [vux `Vue UI Components based on WeUI`](https://github.com/airyland/vux)
- - [iview `A high quality UI Toolkit built on Vue.js`](https://github.com/iview/iview)
- - [vue-recyclerview](https://github.com/hilongjw/vue-recyclerview)
- - [vue-manager `A panel framework based on Vue 2.0, iView and ECharts`](https://github.com/luosijie/vue-manager)
- - [`A Vue.js 2.0 Mobile UI at YouZan ` vant](https://github.com/youzan/vant)
- - [nuxt.js `Nuxt.js is a framework for server-rendered`](https://github.com/nuxt/nuxt.js)
- - [mint-ui `Mobile UI elements for Vue.js ` `为 Vue.js 提供 UI 元素，提供了用于构建移动应用程序的 CSS 和 JS 组件。当全部导入时，压缩后的代码只有月 30KB（JS+CSS），当然它也支持单个组件的导入。`](https://github.com/ElemeFE/mint-ui)
- - [vue-waterfall `A waterfall layout component for Vue.js`](https://github.com/MopTym/vue-waterfall)
- - [vue-cookies](https://www.npmjs.com/package/vue-cookies)
- - [mand-mobile `A mobile UI toolkit, based on Vue.js 2, designed for financial scenes.`](https://github.com/didi/mand-mobile)
- - [vuepress `Minimalistic Vue-powered static site generator`](https://github.com/vuejs/vuepress)
- - [vue-design `逐行级别的源码分析 http://hcysun.me/vue-design/`](https://github.com/HcySunYang/vue-design)
- - [vuetify `Material Component Framework for Vue.js 2 ` `提供了 80 多个 Vue.js 组件，这些组件是根据谷歌 Material Design 指南实现的。Vuetify 支持所有平台上的浏览器，包括 IE11 和 Safari 9+（使用 polyfill），并提供了 8 个 vue-cli 模板。`](https://github.com/vuetifyjs/vuetify)
- - [quasar `Quasar Framework ` `是构建 Vue.js 响应式网站、PWA、混合移动应用和 Electron 应用的流行框架。Quasar 还支持诸如 HTML/CSS/JS 压缩、缓存清除、摇树优化（tree shaking）、源映射、代码分割和延迟加载、ES6 转码等功能`](https://github.com/quasarframework/quasar)
- - [vue-material `是一个实现了谷歌 Material Design 的简单库。该库还提供了一个 webpack 样板、用于 Nuxt.js 的 SSR 模板和一个单独的 HTML 文件（通过这个文件开始使用框架）。这里有一些入门的例子 `](https://github.com/vuematerial/vue-material)
- - [Keen-UI `一组 Vue 组件的集合，在设计上受到了谷歌 Material Design 的启发。Keen-UI 并不是一个 CSS 框架，它不包含网格系统、排版样式等。相反，它关注的是基于 Javascript 的交互式组件。`](https://github.com/JosephusPaye/Keen-UI)
- - [buefy `基于 Bulma（https://bulma.io）提供了一组轻量级的 UI 组件。Vue.js 和 Bulma 是这个库唯一的两个内部依赖。它的大小约为 60KB（压缩后的大小，并且包含了 Bulma）。你可以查看实时文档网站（https://buefy.github.io/#/documentation/start）并在 Codepen 上运行代码。`](https://github.com/buefy/buefy)
- - [bootstrap-vue `为 Vue.js 提供了 Bootstrap 4 组件和网格系统的实现，并提供了自动 WAI-ARIA 可访问性标记。`](https://github.com/bootstrap-vue/bootstrap-vue)
- - [muse-ui `是另一个 Vue 2.0 MD 库，提供了 40 多个 UI 组件和可定制主题。文档主要使用中文撰写，不过大多数组件是自解释的，文档只起到辅助作用。该项目在积极的开发和维护当中。`](https://github.com/museui/muse-ui)
- - [at-ui `一个模块化的前端 UI 框架，用于开发基于 Vue.js 的 Web 界面，适用于桌面应用程序。它提供了 NPM+Webpack+Babel 的前端开发工作流和独立的 CSS 样式，值得一试。`](https://github.com/at-ui/at-ui)
- - [vuikit `一个用于网站界面的响应式的 Vue UI 库，设计风格干净而统一。该库作为由 Yarn 工作区管理的“monorepo”而构建，但图标和主题可作为单独的包发布。`](https://github.com/vuikit/vuikit)
- - [Semantic UI+Vue `这个项目基本上是 Semantic-UI 框架与 Vue.js 的集成。该库仍在开发当中，提供了一个类似于 Semantic-UI 的 API 以及一组可定制的主题。`](https://semantic-ui-vue.github.io/)
- - [fish-ui `fish-ui 提供了一个基于 Vue 的 Web 工具包，其中包含整洁干净的组件。该库支持 ES2015+Webpack 工作流。它的文档不是很全，但它的设计不容忽视。`](https://github.com/myliang/fish-ui)
- - [Framework7 Vue `这个集成提供了几乎所有的 Framework7 元素和组件，并集成了 Framework7 Router，按照 Vue 的方式来渲染页面。该库正处于积极的开发和维护当中。`](https://framework7.io/vue/)
- - [cube-ui `是用于 Vue.js 移动应用程序的 UI 组件库。所有组件都经过了单元测试，并且该库还支持按需进行后期编译和组件导入。这个库仍在积极开发中。`](https://github.com/didi/cube-ui)
- - [vue-blu `是基于 Vue 2.0 和 Bulma 的 UI 组件库，用于构建中台和后台办公产品。它支持 ES2015 和 NPM+Webpack+Babel 工作流，并提供可自定义主题。`](https://github.com/chenz24/vue-blu)
- - [Ant Design Vue `用于开发具有数十个 Ant Design 实现组件的企业级后端产品，并支持基于 Webpack 调试的构建解决方案（支持 ES6）。请注意，它的开发已经停止了一段时间。`](https://github.com/okoala/vue-antd)
- - [vuesax `Framework Components for Vue.js 2`](https://github.com/lusaxweb/vuesax)
- - [tinymce-vue `vue 富文本`](https://github.com/tinymce/tinymce-vue)
- - [kui-vue `基于VUE2.0的 UI组件库，欢迎使用！ https://k-ui.xyz`](https://github.com/chuchur/kui-vue)
- - [TypeScript-Vue-Starter `A starter template for TypeScript and Vue with a detailed README describing how to use the two together.`](https://github.com/Microsoft/TypeScript-Vue-Starter)
- - [DataV `Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布) http://datav.jiaminghi.com`](https://github.com/DataV-Team/DataV)
-#### Vue admin
- - [vue-element-admin `A magical vue admin`](https://github.com/PanJiaChen/vue-element-admin)
- - [vueAdmin-template `a vue2.0 minimal admin template`](https://github.com/PanJiaChen/vueAdmin-template)
- - [d2-admin `An elegant dashboard built by vue `](https://github.com/d2-projects/d2-admin)
- - [iview-admin `Vue 2.0 admin management system template based on iView https://admin.iviewui.com/`](https://github.com/iview/iview-admin)
- - [vue-admin](https://github.com/vue-bulma/vue-admin)
 
 ### Admin
  - [AdminLTE `Free Premium Admin control Panel Theme Based On Bootstrap 3.x https://adminlte.io`](https://github.com/ColorlibHQ/AdminLTE)
