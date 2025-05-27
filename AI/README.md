@@ -43,6 +43,9 @@
  * [dify](https://github.com/langgenius/dify)  
    * Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
    * Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型到生产。
+ * [bisheng](https://github.com/dataelement/bisheng)
+   * BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.
+   * BISHENG是一个面向下一代企业人工智能应用的开放式LLM开发平台。强大而全面的功能包括：GenAI工作流、RAG、Agent、统一模型管理、评估、SFT、数据集管理、企业级系统管理、可观察性等。
  * [open-webui](https://github.com/open-webui/open-webui)
    * User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 
 
