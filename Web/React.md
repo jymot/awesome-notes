@@ -14,3 +14,7 @@
    * A JS library for predictable global state management
  * [react-router](https://github.com/remix-run/react-router)
    * Declarative routing for React
+
+## admin
+ * [react-admin](https://github.com/marmelab/react-admin)
+   * A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
