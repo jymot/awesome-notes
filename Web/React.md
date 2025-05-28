@@ -1,5 +1,8 @@
 # React
 
+ * [awesome-react](https://github.com/enaqx/awesome-react)
+   * A collection of awesome things regarding React ecosystem
+
 ## 组件
  * [material-ui](https://github.com/mui/material-ui)
    * Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
