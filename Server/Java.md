@@ -46,6 +46,10 @@
       * 阿里巴巴 MySQL binlog 增量订阅&消费组件
   6. [liteflow](https://github.com/dromara/liteflow?tab=readme-ov-file)
       * 轻量级、快速、稳定、可编程的基于组件的规则引擎/流程引擎。组件重用、同步/异步编排、动态编排、多语言脚本支持、复杂的嵌套规则、热部署、平滑刷新。让您提高开发效率！ 
+  7. [Activiti](https://github.com/Activiti/Activiti)
+      * Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the…
+  8. [flowable-engine](https://github.com/flowable/flowable-engine)
+      * A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.
   
 ## 算法
   1. [the-algorithm](https://github.com/twitter/the-algorithm/)
