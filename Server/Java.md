@@ -50,6 +50,8 @@
       * Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the…
   8. [flowable-engine](https://github.com/flowable/flowable-engine)
       * A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.
+  9. [flowlong](https://github.com/aizuda/flowlong)
+      * 飞龙工作流 FlowLong workflow🐉 真正的国产工作流引擎、json 格式实例模型、仿飞书钉钉审批流程设计器、🚩为中国特色审批匠心打造❗
   
 ## 算法
   1. [the-algorithm](https://github.com/twitter/the-algorithm/)
