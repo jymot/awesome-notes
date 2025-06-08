@@ -7,6 +7,9 @@
  * [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
    * 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
    * 强大的少样本语音转换与语音合成Web用户界面
+ * [claude-task-master](https://github.com/eyaltoledano/claude-task-master)
+   * An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
+   * 一个基于人工智能的任务管理系统，您可以将其放入Cursor、Lovable、Windsurf、Roo等。
 
 ## 工具
 
