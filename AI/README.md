@@ -112,6 +112,8 @@
  * [Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)
  * [python-sdk](https://github.com/modelcontextprotocol/python-sdk)
    * The official Python SDK for Model Context Protocol servers and clients
+ * [playwright-mcp](https://github.com/microsoft/playwright-mcp)
+   * 使用Playwright提供浏览器自动化功能的模型上下文协议（MCP）服务器。此服务器使LLM能够通过结构化的可访问性快照与网页交互，从而绕过了对屏幕截图或视觉优化模型的需要。
 
 ## Agent
  * [openai-agents-python](https://github.com/openai/openai-agents-python)
