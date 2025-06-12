@@ -63,6 +63,8 @@
   * [handsontable](https://github.com/handsontable/handsontable)
       * JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
       * 表格
+  * [PPTist](https://github.com/pipipi-pikachu/PPTist)
+      * 本项目是一个 “Web 幻灯片应用” ，而不是 “低代码平台”、“H5 编辑器”、“图片编辑器” 、“白板应用”等
 #### 动画
   * [inspira-ui](https://github.com/unovue/inspira-ui)
       * Build beautiful website using Vue & Nuxt.
