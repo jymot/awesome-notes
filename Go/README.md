@@ -25,6 +25,8 @@
     - 一款服务于 Go 开发者的依赖注入框架，方便搭建任何 Go 应用。 A Golang depenedency injection framework, helps developers to build any go application.  
  - [dig](https://github.com/uber-go/dig)
     - A reflection based dependency injection toolkit for Go.
+ - [fx](https://github.com/uber-go/fx)
+    - A dependency injection based application framework for Go.
 
 ### 规范
  - [Uber Go 语言编码规范](https://github.com/xxjwxc/uber_go_guide_cn)
