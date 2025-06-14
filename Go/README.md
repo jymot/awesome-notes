@@ -16,12 +16,16 @@
     - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
  - [invoice](https://github.com/maaslalani/invoice)
     - Command line invoice generator，命令行生成发票
+ - [zap](https://github.com/uber-go/zap)
+    - Blazing fast, structured, leveled logging in Go.
 
 ## 依赖注入
  - [wire `Compile-time Dependency Injection for Go`](https://github.com/google/wire)
  - [IOC-golang](https://github.com/alibaba/IOC-golang)
     - 一款服务于 Go 开发者的依赖注入框架，方便搭建任何 Go 应用。 A Golang depenedency injection framework, helps developers to build any go application.  
-    
+ - [dig](https://github.com/uber-go/dig)
+    - A reflection based dependency injection toolkit for Go.
+
 ### 规范
  - [Uber Go 语言编码规范](https://github.com/xxjwxc/uber_go_guide_cn)
  - [Standard Go Project Layout](https://github.com/golang-standards/project-layout/blob/master/README_zh.md)
