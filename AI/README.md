@@ -10,6 +10,10 @@
  * [claude-task-master](https://github.com/eyaltoledano/claude-task-master)
    * An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
    * 一个基于人工智能的任务管理系统，您可以将其放入Cursor、Lovable、Windsurf、Roo等。
+ * [agents-towards-production](https://github.com/NirDiamant/agents-towards-production)
+   * This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.
+   * 该存储库提供端到端、代码优先的教程，涵盖生产级GenAI代理的每一层，用经过验证的模式和可重用的蓝图指导您从火花到规模，以实现真实世界的发布。
+
 
 ## 工具
 
@@ -19,6 +23,10 @@
  * [n8n](https://github.com/n8n-io/n8n)
    * Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
    * 具有原生AI功能的公平代码工作流自动化平台。将可视化建筑与自定义代码、自托管或云相结合，400多种集成。 
+
+### OCR
+ * [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+   * Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
 
 ### 爬虫
  * [crawl4ai](https://github.com/unclecode/crawl4ai)
