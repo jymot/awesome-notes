@@ -22,5 +22,9 @@ In a fast, simple, yet extensible way.`](https://scrapy.org/)
     - Modin: Scale your Pandas workflows by changing a single line of code
  - [pandas](https://github.com/pandas-dev/pandas)
     - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+
+### 爬虫
  - [scrapy](https://github.com/scrapy/scrapy)
     - Scrapy, a fast high-level web crawling & scraping framework for Python.
+ - [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+    - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
