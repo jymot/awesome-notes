@@ -26,6 +26,8 @@
  - [excalidraw](https://github.com/excalidraw/excalidraw)
      - Virtual whiteboard for sketching hand-drawn like diagrams
      - 用于绘制手绘图表的虚拟白板
+ - [galaxy](https://github.com/uiverse-io/galaxy)
+     - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
 
 ## index
  - [yeoman `THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS`](http://yeoman.io/)
