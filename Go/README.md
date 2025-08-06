@@ -18,6 +18,9 @@
     - Command line invoice generator，命令行生成发票
  - [zap](https://github.com/uber-go/zap)
     - Blazing fast, structured, leveled logging in Go.
+ - [excelize](https://github.com/qax-os/excelize)
+    - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+    - Excel读写生成
 
 ## 依赖注入
  - [wire `Compile-time Dependency Injection for Go`](https://github.com/google/wire)
