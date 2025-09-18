@@ -3,6 +3,11 @@
 ## 学习资料
   1. [JavaGuide](https://javaguide.cn/)
       * 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+  2. [javaguide](http://google.github.io/styleguide/javaguide.html)
+      * google java规范
+  3. [《Java编程思想》 第5版](https://github.com/lingcoder/onJava8/)
+  4. [Effective-Java-3rd-edition-Chinese-English-bilingual](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual)
+
 
 ## 工具
   1. [jadx](https://github.com/skylot/jadx)
@@ -40,19 +45,11 @@
       * 行为验证码，滑块验证码，旋转验证码，滑动还原验证码，文字点选验证码
   3. [IJPay](https://gitee.com/javen205/IJPay)
       * 聚合支付，IJPay 让支付触手可及，封装了微信支付、QQ支付、支付宝支付、京东支付、银联支付、PayPal支付等常用的支付方式以及各种常用的接口。不依赖任何第三方 mvc 框架，仅仅作为工具使用简单快速完成支付模块的开发，可轻松嵌入到任何系统里。
-  4. [jsonflow-ui](https://gitee.com/jackrolling/jsonflow-ui)
-      * 第一自研🚀工作流引擎🔥 (非开源BPM)，自动布局算法布局，绝对授权类工作流+自研引擎No.1。功能强大支持Online零编码流程设计与申请办公等，UI美观操作绝对简单⭐️前后端代码完全自研可控，非常容易进行二次开发。前后端纯Json交互（格式简单），简单易用且适应复杂的中国式审批流场景。
-  5. [canal](https://github.com/alibaba/canal)
+  4. [canal](https://github.com/alibaba/canal)
       * 阿里巴巴 MySQL binlog 增量订阅&消费组件
-  6. [liteflow](https://github.com/dromara/liteflow?tab=readme-ov-file)
-      * 轻量级、快速、稳定、可编程的基于组件的规则引擎/流程引擎。组件重用、同步/异步编排、动态编排、多语言脚本支持、复杂的嵌套规则、热部署、平滑刷新。让您提高开发效率！ 
-  7. [Activiti](https://github.com/Activiti/Activiti)
-      * Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the…
-  8. [flowable-engine](https://github.com/flowable/flowable-engine)
-      * A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.
-  9. [flowlong](https://github.com/aizuda/flowlong)
-      * 飞龙工作流 FlowLong workflow🐉 真正的国产工作流引擎、json 格式实例模型、仿飞书钉钉审批流程设计器、🚩为中国特色审批匠心打造❗
-  
+  5. [TinyPinyin](https://github.com/promeG/TinyPinyin)
+      * 适用于Java和Android的快速、低内存占用的汉字转拼音库
+
 ## 算法
   1. [the-algorithm](https://github.com/twitter/the-algorithm/)
       * twitter核心推荐算法， Source code for Twitter's Recommendation Algorithm  
@@ -68,7 +65,24 @@
   4. [APIJSON](https://github.com/Tencent/APIJSON)
       * 🏆 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🏆 A JSON Transmission Protocol and an ORM Library 🚀 provides APIs and Docs without writing any code.
   5. [agile-bpm-basic](https://gitee.com/agile-bpm/agile-bpm-basic)
-      * AgileBPM 工作流 低代码 快速开发平台，基于 JDK17、Activiti7、Vue3、TS、Vite、ElementPlus 的 全新版本，全新的技术栈，全新的体验，我们会持续更新 OA人事、资产管理 等低代码功能，敬请期待。 
+      * AgileBPM 工作流 低代码 快速开发平台，基于 JDK17、Activiti7、Vue3、TS、Vite、ElementPlus 的 全新版本，全新的技术栈，全新的体验，我们会持续更新 OA人事、资产管理 等低代码功能，敬请期待。
+ 
+### 工作流引擎
+  1. [jsonflow-ui](https://gitee.com/jackrolling/jsonflow-ui)
+      * 第一自研🚀工作流引擎🔥 (非开源BPM)，自动布局算法布局，绝对授权类工作流+自研引擎No.1。功能强大支持Online零编码流程设计与申请办公等，UI美观操作绝对简单⭐️前后端代码完全自研可控，非常容易进行二次开发。前后端纯Json交互（格式简单），简单易用且适应复杂的中国式审批流场景。
+  2. [liteflow](https://github.com/dromara/liteflow?tab=readme-ov-file)
+      * 轻量级、快速、稳定、可编程的基于组件的规则引擎/流程引擎。组件重用、同步/异步编排、动态编排、多语言脚本支持、复杂的嵌套规则、热部署、平滑刷新。让您提高开发效率！ 
+  3. [Activiti](https://github.com/Activiti/Activiti)
+      * Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the…
+  4. [flowable-engine](https://github.com/flowable/flowable-engine)
+      * A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.
+  5. [flowlong](https://github.com/aizuda/flowlong)
+      * 飞龙工作流 FlowLong workflow🐉 真正的国产工作流引擎、json 格式实例模型、仿飞书钉钉审批流程设计器、🚩为中国特色审批匠心打造❗
+
+## 其他
+  1. [auto](https://github.com/google/auto)
+      * A collection of source code generators for Java.
+      * Google
 
 ## Spring Boot 开源项目
   1. [mall](https://github.com/macrozheng/mall)
