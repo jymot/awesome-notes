@@ -21,6 +21,11 @@
  - [NettyRpc `A simple RPC framework based on Netty, ZooKeeper and Spring`](https://github.com/luxiaoxun/NettyRpc)
  - [springboot-netty](https://github.com/pjmike/springboot-netty)
 
+### 服务部署
+ - [supervisor](https://github.com/Supervisor/supervisor)
+    - Supervisor process control system for Unix (supervisord)
+    - Supervisor 是一个 C/S 架构的进程监控与管理工具，本文主要介绍其基本用法和部分高级特性，用于解决部署持久化进程的稳定性问题。
+
 ### Unarchived
  - [API-Security-Checklist `Checklist of the most important security countermeasures when designing, testing, and releasing your API`](https://github.com/shieldfy/API-Security-Checklist)
  - [tengine `A distribution of Nginx with some advanced features http://tengine.taobao.org/`](https://github.com/alibaba/tengine)
