@@ -78,6 +78,10 @@
       * A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.
   5. [flowlong](https://github.com/aizuda/flowlong)
       * 飞龙工作流 FlowLong workflow🐉 真正的国产工作流引擎、json 格式实例模型、仿飞书钉钉审批流程设计器、🚩为中国特色审批匠心打造❗
+  6. [camunda](https://github.com/camunda/camunda)
+      - Process Orchestration Framework
+      - Base Activiti5
+      - Camunda 基于 Activiti5，所以其保留了 PVM，其开源团队也是从 activiti 中分裂出来的，发展轨迹与 flowable 相似，同时也提供了商业版。不过对于一般企业应用，开源版也足够了，camunda7在功能方面比 flowable、activiti 流程引擎强大，性能和稳定性更突出。
 
 ## 其他
   1. [auto](https://github.com/google/auto)
