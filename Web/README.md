@@ -1,4 +1,5 @@
 # Web
+ - []()
  - [bit](https://github.com/teambit/bit)
      - A tool for composable software development.
  - [pdf.js](https://github.com/mozilla/pdf.js)
@@ -117,7 +118,9 @@
  - [`uber` streetscape.gl `streetscape.gl是一个工具包，用于可视化XVIZ协议中的自治和机器人数据。 它建立在React和Uber基于WebGL的可视化框架的基础上。`](https://github.com/uber/streetscape.gl)
 
 ### Library
- - [lodash `Lodash, 作为NPM最多下载量和被依赖最多的包，提供了更加支持跨环境一致性的对数组、字符串、对象和参数对象的支持` `A modern JavaScript utility library delivering modularity, performance, & extras.`](https://github.com/lodash/lodash)
+ - [lodash](https://github.com/lodash/lodash)
+    -  `Lodash, 作为NPM最多下载量和被依赖最多的包，提供了更加支持跨环境一致性的对数组、字符串、对象和参数对象的支持` `A modern JavaScript utility library delivering modularity, performance, & extras.`
+    - A modern JavaScript utility library delivering modularity, performance, & extras.
  - [underscore `日常使用的基础函数`](https://github.com/jashkenas/underscore)
  - [ramda `Ramda库可以用来在JavaScript中函数式编程，专门为函数式编程风格而设计，更容易创建函数式 pipeline、且从不改变用户已有数据。` `Practical functional Javascript`](https://github.com/ramda/ramda)
  - [mathjs `Math.js是一个Node.js和JavaScript的math扩展库，并且和内置的Math库兼容。该库中包含一个灵活的表达式分析器，并且有非常多的内置函数可以使用。你甚至可以自行做扩展`](https://github.com/josdejong/mathjs)
