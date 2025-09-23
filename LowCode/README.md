@@ -40,6 +40,10 @@
     - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
     - 一个用于编排、调度和监控工作流的开源平台
     - Python
+ - [camunda](https://github.com/camunda/camunda)
+    - Process Orchestration Framework
+    - Base Activiti5
+    - Camunda 基于 Activiti5，所以其保留了 PVM，其开源团队也是从 activiti 中分裂出来的，发展轨迹与 flowable 相似，同时也提供了商业版。不过对于一般企业应用，开源版也足够了，camunda7在功能方面比 flowable、activiti 流程引擎强大，性能和稳定性更突出。
 
 ### 低代码
  1. [smart-admin](https://gitee.com/lab1024/smart-admin)
