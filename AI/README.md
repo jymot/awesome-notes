@@ -23,6 +23,9 @@
  * [n8n](https://github.com/n8n-io/n8n)
    * Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
    * 具有原生AI功能的公平代码工作流自动化平台。将可视化建筑与自定义代码、自托管或云相结合，400多种集成。 
+ * [supervision](https://github.com/roboflow/supervision)
+   * We write your reusable computer vision tools. 💜
+   * 我们为您编写可重复使用的计算机视觉工具。无论您是需要从硬盘加载数据集，在图像或视频上绘制检测结果，还是计算一个区域中有多少检测结果。你可以信赖我们！ 🤝
 
 ### OCR
  * [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
