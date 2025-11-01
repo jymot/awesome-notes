@@ -29,7 +29,7 @@
 ### Unarchived
  - [hetty](https://github.com/dstotijn/hetty)
     - An HTTP toolkit for security research.
-    - 用于安全研究的HTTP工具包。
+    - Hetty是一个用于安全研究的HTTP工具包。它旨在成为Burp Suite Pro等商业软件的开源替代品，具有根据信息安全和漏洞赏金社区的需求量身定制的强大功能。
  - [supabase](https://github.com/supabase/supabase)
     - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
     - Postgres开发平台。Supabase为您提供了一个专用的Postgres数据库，用于构建您的网络、移动和人工智能应用程序。
