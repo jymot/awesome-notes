@@ -27,6 +27,9 @@
     - Supervisor 是一个 C/S 架构的进程监控与管理工具，本文主要介绍其基本用法和部分高级特性，用于解决部署持久化进程的稳定性问题。
 
 ### Unarchived
+ - [supabase](https://github.com/supabase/supabase)
+    - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+    - Postgres开发平台。Supabase为您提供了一个专用的Postgres数据库，用于构建您的网络、移动和人工智能应用程序。
  - [API-Security-Checklist `Checklist of the most important security countermeasures when designing, testing, and releasing your API`](https://github.com/shieldfy/API-Security-Checklist)
  - [tengine `A distribution of Nginx with some advanced features http://tengine.taobao.org/`](https://github.com/alibaba/tengine)
  - [`alibaba` jarslink `模块化开发框架`](https://github.com/alibaba/jarslink)
