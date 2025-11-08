@@ -32,6 +32,10 @@
  - [galaxy](https://github.com/uiverse-io/galaxy)
      - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
 
+## Web Component
+ - [lit](https://github.com/lit/lit)
+    - Lit is a simple library for building fast, lightweight web components.
+
 ## index
  - [yeoman `THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS`](http://yeoman.io/)
  - [ECMAScript 6 入门](http://es6.ruanyifeng.com/#README)
