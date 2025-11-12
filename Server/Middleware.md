@@ -10,6 +10,10 @@
     - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
     - JuiceFS是一个基于Redis和S3构建的分布式POSIX文件系统。
 
+## 数据库
+  - [mybatis-flex](https://github.com/mybatis-flex/mybatis-flex)
+    - mybatis-flex is an elegant Mybatis Enhancement Framework
+
 ## 工具
  - [dynamic-tp](https://github.com/dromara/dynamic-tp)
     - 🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (already support Nacos、Apollo、Zookeeper、Consul, can be customized through SPI).
