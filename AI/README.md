@@ -138,6 +138,9 @@
    * MetaGPT 复现几乎完整的 manus 功能
  * [browser-use](https://github.com/browser-use/browser-use)
    * Make websites accessible for AI agents 
+ * [agentscope](https://github.com/agentscope-ai/agentscope)
+   * AgentScope: Agent-Oriented Programming for Building LLM Applications
+   * AgentScope：面向代理的构建LLM应用程序的编程
 
 ## 模型社区
  * [ModelScope](https://www.modelscope.cn/home)
