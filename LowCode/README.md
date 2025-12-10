@@ -1,5 +1,9 @@
 # 低代码
 
+## BI
+ - [dataease](https://github.com/dataease/dataease)
+    - 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
+
 ## 前端
  - [variant-form3-vite](https://github.com/vform666/variant-form3-vite)
     - 表单设计器，可视化拖拽式设计，支持组件库二开，一键生成源码
