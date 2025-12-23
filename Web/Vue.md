@@ -82,6 +82,7 @@
   - [anime](https://github.com/juliangarnier/anime)
       - JavaScript animation engine 动画引擎 
   - [uiverse](https://uiverse.io/)
+      - UIverse 提供大量社区贡献的 UI / 动效代码，直接可用。
 
 #### 数据大屏
   * [DataV-Vue3](https://github.com/DataV-Team/DataV-Vue3)   
