@@ -25,6 +25,11 @@
  * [nightwatch](https://github.com/nightwatchjs/nightwatch)
     * Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack 
 
+## AI
+ * [Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X)
+    * Enterprise-level AI component library front-end solution 🤖
+
+
 ## vuejs
   * [vitepress](https://github.com/vuejs/vitepress)
       * VitePress is a Static Site Generator (SSG) designed for building fast, content-centric websites. In a nutshell, VitePress takes your source content written in Markdown, applies a theme to it, and generates static HTML pages that can be easily deployed anywhere. 
@@ -76,6 +81,7 @@
       *  动画组件库
   - [anime](https://github.com/juliangarnier/anime)
       - JavaScript animation engine 动画引擎 
+  - [uiverse](https://uiverse.io/)
 
 #### 数据大屏
   * [DataV-Vue3](https://github.com/DataV-Team/DataV-Vue3)   
@@ -98,8 +104,13 @@
       * 现代统一SVG框架
   * [vueuse](https://github.com/vueuse/vueuse)
       * Collection of essential Vue Composition Utilities for Vue 2 and 3
+  * [vue-hooks-plus](https://github.com/InhiblabCore/vue-hooks-plus)
+      * High performance & Simplicity 🧲 Vue 3 Hooks library
   * [plop](https://github.com/plopjs/plop)
       * Consistency Made Simple 代码生成 
+  * [oxc](https://github.com/oxc-project/oxc)
+      * ⚓ A collection of high-performance JavaScript tools.
+      * 用Rust编写的JavaScript和TypeScript高性能工具
 
 ## 多平台
   * [uni-app](https://www.dcloud.io/)
