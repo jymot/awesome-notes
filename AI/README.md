@@ -13,6 +13,8 @@
  * [agents-towards-production](https://github.com/NirDiamant/agents-towards-production)
    * This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.
    * 该存储库提供端到端、代码优先的教程，涵盖生产级GenAI代理的每一层，用经过验证的模式和可重用的蓝图指导您从火花到规模，以实现真实世界的发布。
+ * [openclaw](https://github.com/openclaw/openclaw)
+   * Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
 
 ## 工具
