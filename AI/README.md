@@ -15,7 +15,8 @@
    * 该存储库提供端到端、代码优先的教程，涵盖生产级GenAI代理的每一层，用经过验证的模式和可重用的蓝图指导您从火花到规模，以实现真实世界的发布。
  * [openclaw](https://github.com/openclaw/openclaw)
    * Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-
+ * [awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)
+   * GPT-Image-2 API and Prompts
 
 ## 工具
 
