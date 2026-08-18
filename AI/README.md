@@ -1,6 +1,7 @@
 # README
 
  * [虚拟信用卡，开通国外服务](https://yeka.ai)
+ * [订阅Gpt](https://bewild.ai/subscribe)
 
  * [vanna](https://github.com/vanna-ai/vanna)
    * 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄. 
