@@ -18,6 +18,8 @@
    * GPT-Image-2 API and Prompts
  * [gbrain](https://github.com/garrytan/gbrain)
    * Garry's Opinionated OpenClaw/Hermes Agent Brain
+ * [cc-switch](https://github.com/farion1231/cc-switch)
+   * A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 
 ## 工具
 
