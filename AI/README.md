@@ -20,6 +20,8 @@
    * Garry's Opinionated OpenClaw/Hermes Agent Brain
  * [cc-switch](https://github.com/farion1231/cc-switch)
    * A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
+ * [Strata](https://github.com/Niko1221/Strata)
+   * Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 
 ## 工具
 
