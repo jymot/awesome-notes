@@ -7,6 +7,8 @@
 - [skills](https://github.com/antfu/skills)
     - Anthony Fu's curated collection of agent skills.
     - Vue、Nuxt、Pinia、Vite、Vitest、UnoCSS 等项目的官方文档，都被按一定结构整理成 AI 可以理解和调用的技能。
+- [superpowers](https://github.com/obra/superpowers)
+    - An agentic skills framework & software development methodology that works.
 
 ## Design
 
