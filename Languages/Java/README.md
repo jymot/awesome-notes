@@ -1,5 +1,7 @@
 # Java
 
+Java 语言与生态。后端框架、微服务与中间件见 [Server](../../Server/README.md)；低代码平台见 [LowCode](../../LowCode/README.md)。
+
 ## 学习资料
   1. [JavaGuide](https://javaguide.cn/)
       * 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
@@ -22,7 +24,6 @@
 ## ETL
   1. [pentaho-kettle](https://github.com/pentaho/pentaho-kettle)
       * Pentaho Data Integration ( ETL ) a.k.a Kettle
-      * [download](https://www.hitachivantara.com/en-hk/products/pentaho-platform/data-integration-analytics/pentaho-community-edition.html)
 
 ## 组件
 ### 中间件
@@ -31,7 +32,7 @@
   2. [redisson](https://github.com/redisson/redisson)
       * Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache
   3. [urule](https://github.com/youseries/urule)
-      * URULE是一款基于RETE算法的纯Java规则引擎，提供规则集、决策表、决策树、评分卡，规则流等各种规则表现工具及基于网页的可视化设计器，可快速开发出各种复杂业务规则。 
+      * URULE是一款基于RETE算法的纯Java规则引擎，提供规则集、决策表、决策树、评分卡，规则流等各种规则表现工具及基于网页的可视化设计器，可快速开发出各种复杂业务规则。
   4. [disruptor](https://github.com/LMAX-Exchange/disruptor)
       * 高性能线程间消息库 High Performance Inter-Thread Messaging Library
   5. [skywalking](https://github.com/apache/skywalking)
@@ -41,7 +42,7 @@
 ### 功能组件
   1. [captcha](https://github.com/anji-plus/captcha)
       * 行为验证码(滑动拼图、点选文字)，前后端(java)交互，包含h5/Android/IOS/flutter/uni-app的源码和实现
-  2. [tianai-captcha](https://github.com/tianaiyouqing/tianai-captcha)
+  2. [tianai-captcha](https://github.com/dromara/tianai-captcha)
       * 行为验证码，滑块验证码，旋转验证码，滑动还原验证码，文字点选验证码
   3. [IJPay](https://gitee.com/javen205/IJPay)
       * 聚合支付，IJPay 让支付触手可及，封装了微信支付、QQ支付、支付宝支付、京东支付、银联支付、PayPal支付等常用的支付方式以及各种常用的接口。不依赖任何第三方 mvc 框架，仅仅作为工具使用简单快速完成支付模块的开发，可轻松嵌入到任何系统里。
@@ -52,7 +53,7 @@
 
 ## 算法
   1. [the-algorithm](https://github.com/twitter/the-algorithm/)
-      * twitter核心推荐算法， Source code for Twitter's Recommendation Algorithm  
+      * twitter核心推荐算法， Source code for Twitter's Recommendation Algorithm
       * [ML模型库](https://github.com/twitter/the-algorithm-ml)
 
 ## 低代码
@@ -62,7 +63,7 @@
       * 写的更少, 性能更好 -> 为开发人员打造的低代码开发平台。mybatis-plus关联查询，关联无SQL，性能高10倍，前后端代码本地可视化生成，flowable工作流，spring cloud微服务等全方位赋能！
   3. [appsmith](https://github.com/appsmithorg/appsmith)
       * Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-  4. [APIJSON](https://github.com/Tencent/APIJSON)
+  4. [APIJSON](https://github.com/APIJSON/APIJSON)
       * 🏆 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🏆 A JSON Transmission Protocol and an ORM Library 🚀 provides APIs and Docs without writing any code.
   5. [agile-bpm-basic](https://gitee.com/agile-bpm/agile-bpm-basic)
       * AgileBPM 工作流 低代码 快速开发平台，基于 JDK17、Activiti7、Vue3、TS、Vite、ElementPlus 的 全新版本，全新的技术栈，全新的体验，我们会持续更新 OA人事、资产管理 等低代码功能，敬请期待。
@@ -71,7 +72,7 @@
   1. [jsonflow-ui](https://gitee.com/jackrolling/jsonflow-ui)
       * 第一自研🚀工作流引擎🔥 (非开源BPM)，自动布局算法布局，绝对授权类工作流+自研引擎No.1。功能强大支持Online零编码流程设计与申请办公等，UI美观操作绝对简单⭐️前后端代码完全自研可控，非常容易进行二次开发。前后端纯Json交互（格式简单），简单易用且适应复杂的中国式审批流场景。
   2. [liteflow](https://github.com/dromara/liteflow?tab=readme-ov-file)
-      * 轻量级、快速、稳定、可编程的基于组件的规则引擎/流程引擎。组件重用、同步/异步编排、动态编排、多语言脚本支持、复杂的嵌套规则、热部署、平滑刷新。让您提高开发效率！ 
+      * 轻量级、快速、稳定、可编程的基于组件的规则引擎/流程引擎。组件重用、同步/异步编排、动态编排、多语言脚本支持、复杂的嵌套规则、热部署、平滑刷新。让您提高开发效率！
   3. [Activiti](https://github.com/Activiti/Activiti)
       * Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the…
   4. [flowable-engine](https://github.com/flowable/flowable-engine)
@@ -118,4 +119,4 @@
   13. [华夏ERP](https://gitee.com/jishenghua/JSH_ERP)
       * 华夏ERP基于SpringBoot框架，立志为中小企业提供开源好用的ERP软件，目前专注进销存+财务功能。主要模块有零售管理、采购管理、销售管理、仓库管理、财务管理、报表查询、基础数据、系统管理等。支持预付款、收入支出、仓库调拨、组装拆卸、订单等特色功能。拥有库存状况、出入库统计等报表。同时对角色和权限进行了细致全面控制，精确到每个按钮和菜单。
   14. [lilishop](https://github.com/lilishop/lilishop)
-      * 商城 JAVA电商商城 多语言商城 uniapp商城 微服务商城 
+      * 商城 JAVA电商商城 多语言商城 uniapp商城 微服务商城

@@ -1,14 +1,13 @@
-# Machine/Deep Leaning
+# Machine/Deep Learning
 
  - [`PArallel Distributed Deep LEarning` Paddle](https://github.com/PaddlePaddle/Paddle)
- - [AndroidTensorFlowMNISTExample](https://github.com/MindorksOpenSource/AndroidTensorFlowMNISTExample)
+ - [AndroidTensorFlowMNISTExample](https://github.com/amitshekhariitbhu/AndroidTensorFlowMNISTExample)
  - [Deep Learning `for chinese`](https://github.com/exacity/deeplearningbook-chinese)
- - [d2l-zh `《动手学深度学习》 https://zh.diveintodeeplearning.org`](https://github.com/diveintodeeplearning/d2l-zh)
- - [HyperDL-Tutorial `深度学习教程整理 | 干货 http://www.zeusee.com`](https://github.com/zeusees/HyperDL-Tutorial)
- - [Virgilio `机器学习，学习路线图`](https://github.com/clone95/Virgilio/tree/master/zh-CN)
+ - [d2l-zh `《动手学深度学习》 https://zh.d2l.ai`](https://github.com/d2l-ai/d2l-zh)
+ - [Virgilio `机器学习，学习路线图`](https://github.com/virgili0/Virgilio/tree/master/zh-CN)
  - [anaconda 清华镜像](https://mirror.tuna.tsinghua.edu.cn/help/anaconda/)
  - [pipcook `基于 tfjs-node 的前端算法工程框架 front-end algorithm engineer platform based on tfjs-node https://alibaba.github.io/pipcook/`](https://github.com/alibaba/pipcook)
- - [《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning https://nndl.github.io](https://github.com/nndl/nndl.github.io)
+ - [《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning https://nndl.ai](https://github.com/nndl/nndl.github.io)
 
 ## Tensorflow
  - [tensorflow `Computation using data flow graphs for scalable machine learning `](https://github.com/tensorflow/tensorflow)

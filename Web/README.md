@@ -1,13 +1,20 @@
 # Web
- - [FossFLOW](https://github.com/stan-smith/FossFLOW)
-    - Make beautiful isometric infrastructure diagrams
-    - FossFLOW[1] 是一款功能强大的、开源的渐进式 Web 应用（PWA），专为创建精美的等距图而设计。它基于 React 和 Isoflow 库构建，完全在浏览器中运行，并支持离线使用。
+
+前端与 Web 技术。
+
+## 本目录
+- [React](React.md)
+- [Vue](Vue.md)
+- [Node](Node.md)
+- [小程序](miniprogram.md)
+- [Web 跨端桌面](CrossPlatform.md)（Electron / Tauri / Wails）
+
  - [bit](https://github.com/teambit/bit)
      - A tool for composable software development.
  - [pdf.js](https://github.com/mozilla/pdf.js)
  - [dataease](https://github.com/dataease/dataease)
-     - 人人可用的开源数据可视化分析工具  
- - [qrbtf](https://github.com/ciaochaos/qrbtf)
+     - 人人可用的开源数据可视化分析工具
+ - [qrbtf](https://github.com/latentcat/qrbtf)
      - An art QR code (qrcode) beautifier. 艺术二维码生成器。https://qrbtf.com
      - [beautify-qrcode](https://github.com/gexin1/beautify-qrcode)
  - [marked](https://github.com/markedjs/marked)
@@ -16,9 +23,9 @@
      - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
      - 离线存储，得到改进。使用简单但功能强大的API封装IndexedDB、WebSQL或localStorage。
  - [L7](https://github.com/antvis/l7)
-     - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine 
+     - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine
  - [anime](https://github.com/juliangarnier/anime)
-     - JavaScript animation engine 动画引擎 
+     - JavaScript animation engine 动画引擎
  - [alova](https://github.com/alovajs/alova)
      - alova完美兼容你最喜欢的HTTP client和UI框架，快速开发客户端和服务的应用的业务逻辑，同时让API信息与代码进行交互，像虫洞一样拉近后端协作距离，极致高效地集成你的APIs
  - [drawdb](https://github.com/drawdb-io/drawdb)
@@ -38,20 +45,18 @@
 
 ## index
  - [yeoman `THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS`](http://yeoman.io/)
- - [ECMAScript 6 入门](http://es6.ruanyifeng.com/#README)
+ - [ECMAScript 6 入门](https://es6.ruanyifeng.com/#README)
  - [`(译)` 值得前端开发者在2017学习的东西](https://zhuanlan.zhihu.com/p/24612841)
  - [awesome-docker](https://github.com/veggiemonk/awesome-docker/blob/master/README.md)
- - [进攻即是最好的防御！19个练习黑客技术的在线网站](https://jaq.alibaba.com/community/art/show?articleid=683)
- - [axios Promise based HTTP client for the browser and node.js](https://github.com/mzabriskie/axios)
- - [fetch](https://github.com/github/fetch)
+ - [axios Promise based HTTP client for the browser and node.js](https://github.com/axios/axios)
+ - [fetch](https://github.com/JakeChampion/fetch)
  - [store `Cross-browser storage for all use cases • Used across the web • See below for v2.0 news`](https://github.com/marcuswestin/store.js)
- - [`极客学院Web大前端自学课程` JiKeXueYuan](https://github.com/xiangsongtao/JiKeXueYuan)
  - [marksheet `Free tutorial to learn HTML and CSS`](https://github.com/jgthms/marksheet)
  - [crypto-js `CryptoJS is a growing collection of standard and secure cryptographic algorithms implemented in JavaScript using best practices and patterns`](https://code.google.com/p/crypto-js/)
  - [UPNG.js `图片压缩`](https://github.com/photopea/UPNG.js)
  - [rax `A universal React-compatible render engine`](https://github.com/alibaba/rax)
  - [timeago `timeago.js is a tiny(~2.0kb) library used to format date with `*** time ago` statement. eg: '3 hours ago'. No dependency & localization & tiny`](https://github.com/hustcc/timeago.js)
- - [shaka-player `JavaScript player library / DASH client / MSE-EME player`](https://github.com/google/shaka-player)
+ - [shaka-player `JavaScript player library / DASH client / MSE-EME player`](https://github.com/shaka-project/shaka-player)
  - [Font-Awesome `The iconic SVG, font, and CSS toolkit `](https://github.com/FortAwesome/Font-Awesome)
  - [core-decorators `Library of stage-0 JavaScript decorators (aka ES2016/ES7 decorators but not accurate) inspired by languages that come with built-ins like @​override, @​deprecate, @​autobind, @​mixin and more. Popular with React/Angular, but is framework agnostic.`](https://github.com/jayphelps/core-decorators)
  - [Web `前端入门和进阶学习笔记，超详细的前端学习图文教程。从零开始学前端，做一个web全栈工程师。每日更新...`](https://github.com/smyhvae/Web)
@@ -59,16 +64,16 @@
  - [mpvue `基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。 http://mpvue.com`](https://github.com/Meituan-Dianping/mpvue)
  - [awesome-design-patterns `A curated list of software and architecture related design patterns.`](https://github.com/DovAmir/awesome-design-patterns)
  - [taro `多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序、H5、React Native 等的应用。 https://taro.aotu.io`](https://github.com/NervJS/taro)
- - [canner `Universal CMS framework using React & Apollo GraphQL for Prisma, GraphQL, Firebase, Restful API https://www.canner.io`](https://github.com/canner/canner)
+ - [canner `Universal CMS framework using React & Apollo GraphQL for Prisma, GraphQL, Firebase, Restful API https://www.canner.io`](https://github.com/CannerCMS/cannercms)
  - [easy-mock `A persistent service that generates mock data quickly and provids visualization view`](https://github.com/easy-mock/easy-mock)
  - [xgplayer `A HTML5 video player with a parser that saves traffic`](https://github.com/bytedance/xgplayer/)
  - [javascript-algorithms `Algorithms and data structures implemented in JavaScript with explanations and links to further readings`](https://github.com/trekhleb/javascript-algorithms)
- - [wechaty `WeChat Bot SDK for Personal Account, Powered by TypeScript, Docker, and 💖 https://chatie.io/wechaty/`](https://github.com/Chatie/wechaty)
+ - [wechaty `WeChat Bot SDK for Personal Account, Powered by TypeScript, Docker, and 💖 `](https://github.com/wechaty/wechaty)
  - [windows95 `💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.`](https://github.com/felixrieseberg/windows95)
  - [fabric.js `Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser http://fabricjs.com`](https://github.com/fabricjs/fabric.js)
  - [reveal `一个专门用来做 HTML 幻灯片的框架，支持 HTML 和 Markdown 语法。`](https://github.com/hakimel/reveal.js)
  - [impress `一个受 https://prezi.com/ 的启发，使用了现代浏览器里支持的 CSS3 transforms 和 transitions 的特效幻灯片。`](https://github.com/impress/impress.js)
- - [carbon `可以将你的代码生成美美的图片，然后你就可以分享到各个社区了。`](https://github.com/dawnlabs/carbon)
+ - [carbon `可以将你的代码生成美美的图片，然后你就可以分享到各个社区了。`](https://github.com/carbon-app/carbon)
  - [favico `让你的 favicon 用上胶囊图标、图片和视频`](https://github.com/ejci/favico.js)
  - [typed `打字机效果库`](https://github.com/mattboldt/typed.js)
  - [vConsole `一个轻量、可拓展、针对手机网页的前端开发者调试面板（chrome 开发者工具的便利实现）。一般在 web 应用开发过程中，可以用 console.log 去输出一些信息，但是在移动端，console.log 的信息是看不到的。这种情况下，当然可以选择使用 alert 弹出一些信息，但是这种方法实在不怎么方便，也会阻断 js 事件循环，调试体验和效率都很差。`](https://github.com/Tencent/vConsole)
@@ -76,17 +81,16 @@
  - [multiscroll `多边滑动效果`](https://github.com/alvarotrigo/multiscroll.js)
  - [diaporama `Kenburns 效果 与 glsl 转换动画库`](https://github.com/gre/diaporama)
  - [RainEffect `雨滴效果`](https://github.com/codrops/RainEffect)
- - [`Tencent` omi `Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating) http://omijs.org`](https://github.com/Tencent/omi)
+ - [`Tencent` omi `Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating) `](https://github.com/Tencent/omi)
  - [eva-icons `A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support. https://akveo.github.io/eva-icons/`](https://github.com/akveo/eva-icons)
  - [semantic-ui `Semantic is a UI component framework based around useful principles from natural language. http://www.semantic-ui.com`](https://github.com/semantic-org/semantic-ui/)
  - [prisma `⚡️ Prisma enables seamless type-safe database access & declarative data modeling https://www.prisma.io
-`](https://github.com/prisma/prisma)
- - [rough `Create graphics with a hand-drawn, sketchy, appearance http://roughjs.com`](https://github.com/pshihn/rough)
+`](https://github.com/prisma/orm)
+ - [rough `Create graphics with a hand-drawn, sketchy, appearance http://roughjs.com`](https://github.com/rough-stuff/rough)
  - [`facebook内容加载效果` react-content-loader `⚪️ SVG component to create placeholder loading, like Facebook cards loading. http://danilowoz.com/create-content-l…`](https://github.com/danilowoz/react-content-loader)
  - [images `图片缓存` `Source code of images.weserv.nl, to be used on your own server(s). https://images.weserv.nl/`](https://github.com/weserv/images)
  - [quicklink `⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time`](https://github.com/GoogleChromeLabs/quicklink)
  - [rxdb `💻 📱 A realtime Database for the Web https://rxdb.info/`](https://github.com/pubkey/rxdb)
- - [vditor `♏ 一款浏览器端的 Markdown 编辑器，使用 TypeScript 实现。 https://hacpai.com/tag/vditor`](https://github.com/b3log/vditor)
  - [material-kit `Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design https://demos.creative-tim.com/materi…
 `](https://github.com/creativetimofficial/material-kit)
  - [cleave `Format input text content when you are typing... http://nosir.github.io/cleave.js`](https://github.com/nosir/cleave.js)
@@ -96,7 +100,7 @@
  - [avue `Avue.js是基于现有的element-ui库进行的二次封装，简化一些繁琐的操作，核心理念为数据驱动视图,主要的组件库针对table表格和form表单场景，同时衍生出更多企业常用的组件，达到高复用，容易维护和扩展的框架，同时内置了丰富了数据展示组件，让开发变得更加容易 https://avue.top`](https://github.com/nmxiaowei/avue)
  - [pdf `PDF Reader in JavaScript`](https://github.com/mozilla/pdf.js)
  - [video.js](https://github.com/videojs/video.js)
- - [qrious `生成二维码`](https://github.com/neocotic/qrious)
+ - [qrious `生成二维码`](https://github.com/airmrcr/qrious)
  - [turf `用JavaScript编写的模块化地理空间引擎。它包括传统的空间操作、用于创建GeoJSON数据的助手函数，以及数据分类和统计工具`](https://github.com/Turfjs/turf/)
 
 ### Workflow
@@ -111,7 +115,7 @@
  - [pannellum `Pannellum is a lightweight, free, and open source panorama viewer for the web.`](https://github.com/mpetroff/pannellum)
  - [panolens `Javascript panorama viewer based on Three.js`](https://github.com/pchen66/panolens.js)
  - [kaleidoscope `🔮 An embeddable, lightweight 360º video/image viewer`](https://github.com/thiagopnts/kaleidoscope)
- - [360-image-viewer `A standalone panorama viewer with WebGL`](https://github.com/Jam3/360-image-viewer)
+ - [360-image-viewer `A standalone panorama viewer with WebGL`](https://github.com/Experience-Monks/360-image-viewer)
 
 ### WebGL
  - [WebGL](https://developer.mozilla.org/zh-CN/docs/Web/API/WebGL_API)
@@ -120,8 +124,8 @@
 
 ### 数据可视化
  - [`uber` demo](https://avs.auto/demo/index.html)
- - [`uber` xviz `A protocol for real-time transfer and visualization of autonomy data http://xviz.io`](https://github.com/uber/xviz)
- - [`uber` streetscape.gl `streetscape.gl是一个工具包，用于可视化XVIZ协议中的自治和机器人数据。 它建立在React和Uber基于WebGL的可视化框架的基础上。`](https://github.com/uber/streetscape.gl)
+ - [`uber` xviz `A protocol for real-time transfer and visualization of autonomy data http://xviz.io`](https://github.com/aurora-opensource/xviz)
+ - [`uber` streetscape.gl `streetscape.gl是一个工具包，用于可视化XVIZ协议中的自治和机器人数据。 它建立在React和Uber基于WebGL的可视化框架的基础上。`](https://github.com/aurora-opensource/streetscape.gl)
 
 ### Library
  - [lodash](https://github.com/lodash/lodash)
@@ -144,10 +148,10 @@
  - [reconnecting-websocket `Reconnecting WebSocket. For Web, React Native, cli (Node.js)`](https://github.com/pladaria/reconnecting-websocket)
  - [graphql-js `A reference implementation of GraphQL for JavaScript http://graphql.org/graphql-js/`](https://github.com/graphql/graphql-js)
  - [ky `Tiny and elegant HTTP client based on the browser Fetch API`](https://github.com/sindresorhus/ky)
- - [insomnia `Cross-platform HTTP and GraphQL Client https://insomnia.rest`](https://github.com/getinsomnia/insomnia)
+ - [insomnia `Cross-platform HTTP and GraphQL Client https://insomnia.rest`](https://github.com/Kong/insomnia)
 
 ### Framework
- - [flux `Application Architecture for Building User Interfaces `](https://github.com/facebook/flux)
+ - [flux `Application Architecture for Building User Interfaces `](https://github.com/facebookarchive/flux)
  
 ### Bundle
 #### parcel
@@ -169,7 +173,7 @@
  - [ngx-admin `Customizable admin dashboard template based on Angular 8+ https://akveo.github.io/ngx-admin/`](https://github.com/akveo/ngx-admin)
  - [ant-design-pro `👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro! http://pro.ant.design/`](https://github.com/ant-design/ant-design-pro)
  - [blur-admin `AngularJS Bootstrap Admin Panel Framework http://akveo.github.io/blur-admin/`](https://github.com/akveo/blur-admin)
- - [material-dashboard `Material Dashboard - Open Source Bootstrap 4 Material Design Admin https://demos.creative-tim.com/materi…`](https://github.com/creativetimofficial/material-dashboard)
+ - [material-dashboard `Material Dashboard - Open Source Bootstrap 4 Material Design Admin https://demos.creative-tim.com/materi…`](https://github.com/creativetimofficial/ui)
 
 ### React
  - [react-toolbox](https://github.com/react-toolbox/react-toolbox/)
@@ -188,4 +192,12 @@
 
 ### HTTPS 证书配置及申请
  - [`Let’s Encrypt` Let’s Encrypt is a free, automated, and open Certificate Authority.](https://letsencrypt.org/)
- - [acme.sh](https://github.com/Neilpang/acme.sh)
+ - [acme.sh](https://github.com/acmesh-official/acme.sh)
+
+## 学习 / 设计
+ - [贝塞尔曲线教学](https://pomax.github.io/bezierinfo/zh-CN/)
+ - [开源的漂亮图标集合](https://feathericons.com/)
+ - [`facebook` graphql `GraphQL is a query language and execution engine tied to any backend service.`](https://github.com/graphql/graphql-spec)
+ - [image-to-text `a pure front-end website transform image file to text.`](https://github.com/kainstar/image-to-text)
+ - [`TypeScript Book` typescript-book-chinese `TypeScript Deep Dive 中文版 https://jkchao.github.io/typescript-b…`](https://github.com/jkchao/typescript-book-chinese)
+ - [Daily-Interview-Question `工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。`](https://github.com/Advanced-Frontend/Daily-Interview-Question)

@@ -17,7 +17,7 @@
    * React Hooks — 👍
  * [redux](https://github.com/reduxjs/redux)
    * A JS library for predictable global state management
- * [redux-persist](https://github.com/rt2zz/redux-persist)
+ * [redux-persist](https://github.com/endograph/redux-persist)
    * Persist and rehydrate a Redux store
  * [react-router](https://github.com/remix-run/react-router)
    * Declarative routing for React
