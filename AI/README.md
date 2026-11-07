@@ -172,6 +172,9 @@
    * Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
  * [hermes-agent](https://github.com/NousResearch/hermes-agent)
    * The agent that grows with you
+ * [orca](https://github.com/stablyai/orca)
+   * Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
+   * 用自己的订阅并行运行 Claude Code、Codex 等编码 Agent，支持桌面、移动端和远程运行时。
 
 ## 模型社区
  * [ModelScope](https://www.modelscope.cn/home)
