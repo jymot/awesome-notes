@@ -1,10 +1,24 @@
-# README
+# AI
+
+领域目录（人工智能 / 大模型 / Agent）。与编程语言不是同一类分类。
+
+## 本目录
+- [综合](AI.md)
+- [设计](DESIGN.md)
+- [图像 / 3D](Image.md)
+- [机器学习 / 深度学习](Learning.md)
+- [OpenAI](OpenAI.md)
+- [Skill](Skill.md)
+- DeepSeek
+  - [Conda](DeepSeek/Conda.md)
+  - [Ollama 部署](DeepSeek/Ollama部署.md)
+  - [本地部署 R1](DeepSeek/本地部署R1模型.md)
 
  * [虚拟信用卡，开通国外服务](https://yeka.ai)
  * [订阅Gpt](https://bewild.ai/subscribe)
 
  * [vanna](https://github.com/vanna-ai/vanna)
-   * 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄. 
+   * 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
  * [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
    * 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
    * 强大的少样本语音转换与语音合成Web用户界面
@@ -14,7 +28,7 @@
  * [agents-towards-production](https://github.com/NirDiamant/agents-towards-production)
    * This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.
    * 该存储库提供端到端、代码优先的教程，涵盖生产级GenAI代理的每一层，用经过验证的模式和可重用的蓝图指导您从火花到规模，以实现真实世界的发布。
- * [awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)
+ * [awesome-gpt-image-2-API-and-Prompts](https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts)
    * GPT-Image-2 API and Prompts
  * [gbrain](https://github.com/garrytan/gbrain)
    * Garry's Opinionated OpenClaw/Hermes Agent Brain
@@ -30,7 +44,7 @@
    * Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
  * [n8n](https://github.com/n8n-io/n8n)
    * Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-   * 具有原生AI功能的公平代码工作流自动化平台。将可视化建筑与自定义代码、自托管或云相结合，400多种集成。 
+   * 具有原生AI功能的公平代码工作流自动化平台。将可视化建筑与自定义代码、自托管或云相结合，400多种集成。
  * [supervision](https://github.com/roboflow/supervision)
    * We write your reusable computer vision tools. 💜
    * 我们为您编写可重复使用的计算机视觉工具。无论您是需要从硬盘加载数据集，在图像或视频上绘制检测结果，还是计算一个区域中有多少检测结果。你可以信赖我们！ 🤝
@@ -42,7 +56,7 @@
 ### 爬虫
  * [crawl4ai](https://github.com/unclecode/crawl4ai)
    * 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
- * [firecrawl](https://github.com/mendableai/firecrawl)
+ * [firecrawl](https://github.com/firecrawl/firecrawl)
    * 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 
 ### Video
@@ -50,37 +64,37 @@
    * Open-Sora: Democratizing Efficient Video Production for All
 
 ### Application
- * [chatbox](https://github.com/Bin-Huang/chatbox)
-   * User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...) 
-   * 【个人】多端&多模型聊天框架 
+ * [chatbox](https://github.com/chatboxai/chatbox)
+   * User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+   * 【个人】多端&多模型聊天框架
  * [anything-llm](https://github.com/Mintplex-Labs/anything-llm)
    * The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
    * 这是一个全栈应用程序，可以将任何文档、资源（如网址链接、音频、视频）或内容片段转换为上下文，以便任何大语言模型（LLM）在聊天期间作为参考使用。此应用程序允许您选择使用哪个LLM或向量数据库，同时支持多用户管理并设置不同权限。
  * [cherry-studio](https://github.com/CherryHQ/cherry-studio)
    * 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
    * 支持多服务商的AI对话框客户端
- * [lobe-chat](https://github.com/lobehub/lobe-chat)
+ * [lobe-chat](https://github.com/lobehub/lobehub)
    * 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
    * 【企业级】多模态交互框架
- * [dify](https://github.com/langgenius/dify)  
+ * [dify](https://github.com/langgenius/dify)
    * Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
    * Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型到生产。
  * [bisheng](https://github.com/dataelement/bisheng)
    * BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.
    * BISHENG是一个面向下一代企业人工智能应用的开放式LLM开发平台。强大而全面的功能包括：GenAI工作流、RAG、Agent、统一模型管理、评估、SFT、数据集管理、企业级系统管理、可观察性等。
  * [open-webui](https://github.com/open-webui/open-webui)
-   * User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 
+   * User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ### Deploy
  * [ollama](https://github.com/ollama/ollama)
    * Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
    * 开始使用Llama 3.3、DeepSeek-R1、Phi-4、Gemma 2和其他大型语言模型。
  * [LM Studio](https://lmstudio.ai/)
-   * 大模型部署工具 
+   * 大模型部署工具
    * [lms](https://github.com/lmstudio-ai/lms) LM Studio CLI
  * [lmdeploy](https://github.com/InternLM/lmdeploy)
-   * LMDeploy is a toolkit for compressing, deploying, and serving LLMs. 
-   * 大模型部署工具 
+   * LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
+   * 大模型部署工具
  * [sglang](https://github.com/sgl-project/sglang)
    * SGLang is a fast serving framework for large language models and vision language models.
    * 大模型部署工具
@@ -88,11 +102,11 @@
    * A high-throughput and memory-efficient inference and serving engine for LLMs
    * 大模型部署工具
  * [ktransformers](https://github.com/kvcache-ai/ktransformers)
-   * A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations 
+   * A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
 
 ### 集群
   * [exo](https://github.com/exo-explore/exo)
-    * Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ 
+    * Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 
 ### 分布式
   * [ColossalAI](https://github.com/hpcaitech/ColossalAI)
@@ -113,7 +127,7 @@
 ### 微调
  * [unsloth](https://github.com/unslothai/unsloth)
    * Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory! 🦥
- * [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+ * [LLaMA-Factory](https://github.com/hiyouga/LlamaFactory)
    * Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
  * [ms-SWIFT](https://github.com/modelscope/ms-swift)
    * Use PEFT or Full-parameter to finetune 450+ LLMs (Qwen2.5, InternLM3, GLM4, Llama3.3, Mistral, Yi1.5, Baichuan2, DeepSeek-R1, ...) and 150+ MLLMs (Qwen2.5-VL, Qwen2-Audio, Llama3.2-Vision, Llava, InternVL2.5, MiniCPM-V-2.6, GLM4v, Xcomposer2.5, Yi-VL, DeepSeek-VL2, Phi3.5-Vision, GOT-OCR2, ...).
@@ -133,11 +147,16 @@
    * The official Python SDK for Model Context Protocol servers and clients
  * [playwright-mcp](https://github.com/microsoft/playwright-mcp)
    * 使用Playwright提供浏览器自动化功能的模型上下文协议（MCP）服务器。此服务器使LLM能够通过结构化的可访问性快照与网页交互，从而绕过了对屏幕截图或视觉优化模型的需要。
- * [genai-toolbox](https://github.com/googleapis/genai-toolbox)
+ * [genai-toolbox](https://github.com/googleapis/mcp-toolbox)
    * MCP Toolbox for Databases is an open source MCP server for databases.
    * 用于数据库的开源MCP服务器
 
 ## Agent
+ * [Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT)
+   * An experimental open-source attempt to make GPT-4 fully autonomous.
+ * [AgentGPT](https://github.com/reworkd/AgentGPT)
+   * 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+ * [`google` dopamine `Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.`](https://github.com/google/dopamine)
  * [openai-agents-python](https://github.com/openai/openai-agents-python)
    * A lightweight, powerful framework for multi-agent workflows
  * [owl](https://github.com/camel-ai/owl)
@@ -145,7 +164,7 @@
  * [OpenManus](https://github.com/mannaandpoem/OpenManus)
    * MetaGPT 复现几乎完整的 manus 功能
  * [browser-use](https://github.com/browser-use/browser-use)
-   * Make websites accessible for AI agents 
+   * Make websites accessible for AI agents
  * [agentscope](https://github.com/agentscope-ai/agentscope)
    * AgentScope: Agent-Oriented Programming for Building LLM Applications
    * AgentScope：面向代理的构建LLM应用程序的编程
@@ -156,13 +175,19 @@
 
 ## 模型社区
  * [ModelScope](https://www.modelscope.cn/home)
-   * [modelscope github](https://github.com/modelscope) 
+   * [modelscope github](https://github.com/modelscope)
    * 开源模型社区
  * [huggingface](https://huggingface.co/spaces)
    * 开源模型社区
  * [LLMs-Technology-Community-Beyondata](https://github.com/fufankeji/LLMs-Technology-Community-Beyondata)
-   * [大模型技术社区](https://kq4b3vgg5b.feishu.cn/wiki/JuJSwfbwmiwvbqkiQ7LcN1N1nhd)
 
 ## 向量数据库
  * [milvus](https://github.com/milvus-io/milvus)
-   * Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search 
+   * Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
+
+## 视觉
+ - [pix2code `Generating Code from a Graphical User Interface Screenshot`](https://github.com/tonybeltramelli/pix2code)
+ - [mace `MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.`](https://github.com/XiaoMi/mace)
+ - [libfacedetection `An open source library for face detection in images. The face detection speed can reach 1500FPS.`](https://github.com/ShiqiYu/libfacedetection)
+ - [opencv `opencv` `Open Source Computer Vision Library 跨平台计算机视觉库`](https://github.com/opencv/opencv)
+ - [EasyPR `opencv` `EasyPR是一个开源的中文车牌识别系统，其目标是成为一个简单、高效、准确的非限制场景(unconstrained situation)下的车牌识别库`](https://github.com/liuruoze/EasyPR)

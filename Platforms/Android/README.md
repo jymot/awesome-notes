@@ -10,11 +10,10 @@
   - [awesome-android](https://github.com/snowdream/awesome-android)
   - [android-security-awesome](https://github.com/ashishb/android-security-awesome)
   - [AndroidInterview](https://github.com/helen-x/AndroidInterview)
-  - [androidinterview](https://www.diycode.cc/wiki/androidinterview)
-  - [android-instant-apps `google`](https://github.com/googlesamples/android-instant-apps) [instant-apps `document`](https://developer.android.com/topic/instant-apps/index.html)
+  - [android-instant-apps `google`](https://github.com/googlearchive/android-instant-apps) [instant-apps `document`](https://developer.android.com/topic/instant-apps/index.html)
   - [TinyDancer `An android library for displaying fps from the choreographer and percentage of time with two or more frames dropped
 `](https://github.com/friendlyrobotnyc/TinyDancer)
-  - [screenshot-tests-for-android `screenshot-test-for-android is a library that can generate fast deterministic screenshots while running instrumentation tests in android. `](https://github.com/facebook/screenshot-tests-for-android)
+  - [screenshot-tests-for-android `screenshot-test-for-android is a library that can generate fast deterministic screenshots while running instrumentation tests in android. `](https://github.com/meta/screenshot-tests-for-android)
   - [`APK` MusicDNA `A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music.`](https://github.com/harjot-oberai/MusicDNA)
   - [Floo `An URL router supporting AOP, stack control, cross-page message, and dynamic routing.`](https://github.com/drakeet/Floo)
   - [NullAway `A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead`](https://github.com/uber/NullAway)
@@ -27,7 +26,7 @@
   - [androidos `Android源码下载以及相关资源代理`](https://www.androidos.net.cn/)
   - [ProgressManager `ProgressManager 一行代码即可监听 App 中所有网络链接的上传以及下载进度,包括 Glide 的图片加载进度,实现原理类似 EventBus,你可在 App 中的任何地方,将多个监听器,以 Url 地址作为标识符,注册到本框架,当此 Url 地址存在下载或者上传的动作时,框架会主动调用所有使用此 Url 地址注册过的监听器,达到多个模块的同步更新.`](https://github.com/JessYanCoding/ProgressManager)
   - [FillBlankView `基于EditText，仿手机支付宝、微信支付时数字密码输入验证的控件，同时支持文字输入验证`](https://github.com/woxingxiao/FillBlankView)
-  - [docker-android](https://github.com/butomo1989/docker-android)
+  - [docker-android](https://github.com/budtmo/docker-android)
   - [noDrawable `一个旨在减少99%的drawable.xml文件的库，可直接在布局文件中对任意View声明drawable属性。`](https://github.com/whataa/noDrawable)
   - [T-MVVM `This repository contains a detailed sample app that implements MVVM architecture using LiveData,ViewModel,Retrofit,Rxjava`](https://github.com/SelfZhangTQ/T-MVVM)
   - [`alibaba` freeline `Freeline 是 Android 平台上的秒级编译方案，Instant Run 的替代品`](https://github.com/alibaba/freeline)
@@ -56,8 +55,6 @@
   - [一大波Android技术干货！](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247484939&idx=1&sn=d1871b09de55ca681da6ec2432a63ee1&chksm=96cda746a1ba2e501605dbb64b32f82b2cb44ad9c6f9ba2308a9321231b2782e6ba679ef31a6&scene=21#wechat_redirect)
   - [巧用Android多进程](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247485002&idx=1&sn=e07f1949362946ee545079259b6b9014&chksm=96cda707a1ba2e11da927e18c0500bcc9231a82e401069f06048f68b09392c3f332e7893f9a5&scene=21#wechat_redirect)
   - [Android内存优化杂谈 `WeChat`](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=400656149&idx=1&sn=122b4f4965fafebf78ec0b4fce2ef62a&mpshare=1&scene=1&srcid=0501f6p8yRsM5qj6OBKEVY1T&key=16e063fbfd27c52cdf5c92791e0542126da55aeb373dcd13df6aa6c417ec61127af2618384b2201ffa7c918e4bbe6780b4d20d3e2ec989af4e2ec3adfda18308cac9706ac4f970ae73fb86211c44b7c2&ascene=0&uin=ODExMTkxNjU%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.12.3+build&version=12020510&nettype=WIFI&fontScale=100&pass_ticket=AxhG0QxjCX8weF512sU8ttFb%2B7z%2B8JxvShlgh7diOtM%3D)
-  - [Android 增量更新](http://xiaoniaojun.cn/2017/03/10/Android-7-%E5%A2%9E%E9%87%8F%E6%9B%B4%E6%96%B0-Mac.html)
-  - [Google 官方推出应用开发架构指南](https://zhuanlan.zhihu.com/p/27026614)
 
 ### 视频
  - [GSYVideoPlayer `视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，其他一些小动画效果，rtsp、concat、mpeg。`](https://github.com/CarGuo/GSYVideoPlayer)
@@ -71,12 +68,12 @@
  - [aosp-mirror !!!](https://github.com/aosp-mirror)
  - [iosched](https://github.com/google/iosched)
  - [`google` cameraview](https://github.com/google/cameraview)
- - [`googlesamples` android-topeka `A fun to play quiz that showcases material design on Android`](https://github.com/googlesamples/android-topeka)
- - [`googlesamples` android-architecture-components `Samples for Android Architecture Components`](https://github.com/googlesamples/android-architecture-components)
+ - [`googlesamples` android-topeka `A fun to play quiz that showcases material design on Android`](https://github.com/android/topeka)
+ - [`googlesamples` android-architecture-components `Samples for Android Architecture Components`](https://github.com/android/architecture-components-samples)
  - [`google` dagger2](https://github.com/google/dagger)
  - [`google` google-ar](https://github.com/google-ar/arcore-android-sdk)
  - [conscrypt `Conscrypt is a Java Security Provider that implements parts of the Java Cryptography Extension and Java Secure Socket Extension.`](https://github.com/google/conscrypt/)
- - [`googlesamples` android-sunflower `A gardening app illustrating Android development best practices with Android Jetpack. https://developer.android.com/jetpack/`](https://github.com/googlesamples/android-sunflower)
+ - [`googlesamples` android-sunflower `A gardening app illustrating Android development best practices with Android Jetpack. https://developer.android.com/jetpack/`](https://github.com/android/sunflower)
 
 ### Android System && Android Open Source Project
   - [Android 系统开篇](http://gityuan.com/android/)
@@ -84,19 +81,19 @@
 ### Image/压缩
  - [Compressor `An android image compression library.`](https://github.com/zetbaitsu/Compressor)
  - [CompressHelper `压缩文件，压缩图片，压缩Bitmap，Compress, CompressImage, CompressFile, CompressBitmap`](https://github.com/nanchen2251/CompressHelper)
- - [fresco `facebook`](https://github.com/facebook/fresco)
+ - [fresco `facebook`](https://github.com/meta/fresco)
  - [picasso `square`](https://github.com/square/picasso)
  - [zopfli `Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.`](https://github.com/google/zopfli)
  - [一种JNI方法实现图片压缩，压缩率极高 `https://github.com/zengfw/EffectiveBitmap`](https://mp.weixin.qq.com/s/FVQR6VGA0dvqh6EvEuoFfA)
 
 ### Android Utils
- - [DoraemonKit `简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。`](https://github.com/didi/DoraemonKit)
+ - [DoraemonKit `简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。`](https://github.com/didi/DoKit)
  - [`tencent` matrix `Matrix is a plugin style, no-intrusion APM system developed by WeChat.` `Matrix 是一款微信研发并日常使用的 APM（Application Performance Manage），当前主要运行在 Android 平台上。 Matrix 的目标是建立统一的应用性能接入框架，通过各种性能监控方案，对性能监控项的异常数据进行采集和分析，输出相应的问题分析、定位与优化建议，从而帮助开发者开发出更高质量的应用。`](https://github.com/tencent/matrix)
  - [DSBridge-Android `WebView` `JS bridge`](https://github.com/wendux/DSBridge-Android)
  - [WebViewJavascriptBridge `WebView` `JS bridge`](https://github.com/wendux/WebViewJavascriptBridge)
- - [JsBridge `WebView` `JS bridge`](https://github.com/lzyzsd/JsBridge)
+ - [JsBridge `WebView` `JS bridge`](https://github.com/happydog-intj/JsBridge)
  - [android-job `Android library to handle jobs in the background`](https://github.com/evernote/android-job)
- - [PermissionsDispatcher `Simple annotation-based API to handle runtime permissions.`](https://github.com/hotchemi/PermissionsDispatcher)
+ - [PermissionsDispatcher `Simple annotation-based API to handle runtime permissions.`](https://github.com/permissions-dispatcher/PermissionsDispatcher)
  - [`Tencent` soter `A secure and quick biometric authentication standard and platform in Android held by Tencent.`](https://github.com/Tencent/soter)
  - [material-remixer-android `Remixer for Android. Live adjustment of app variables`](https://github.com/material-foundation/material-remixer-android)
  - [RxBus `Event Bus By RxJava.`](https://github.com/AndroidKnife/RxBus)
@@ -118,22 +115,22 @@
  - [`RecyclerView LayoutManager` LondonEyeLayoutManager](https://github.com/danylovolokh/LondonEyeLayoutManager)
  - [`RecyclerView LayoutManager` flexbox-layout](https://github.com/google/flexbox-layout)
  - [`RecyclerView LayoutManager` HiveLayoutManager](https://github.com/Chacojack/HiveLayoutManager)
- - [`RecyclerView LayoutManager` ChipsLayoutManager](https://github.com/BelooS/ChipsLayoutManager)
+ - [`RecyclerView LayoutManager` ChipsLayoutManager](https://github.com/Oleg-Beloy/ChipsLayoutManager)
  - [`RecyclerView LayoutManager` vlayout](https://github.com/alibaba/vlayout)
  - [MultiType `An Android library to create multiple item types list views easily and flexibly`](https://github.com/drakeet/MultiType)
 
 ### Android UI
  - [Android-skin-support `Android-skin-support is an easy to use dynamic skin framework for Android, Only one line of code to integrate it.一款用心去做的Android 换肤框架, 极低的学习成本, 极好的用户体验. 一行代码就可以实现换肤, 你值得拥有!!!`](https://github.com/ximsfei/Android-skin-support)
  - [JazzyViewPager `An easy to use ViewPager that adds an awesome set of custom swiping animations. Just change your ViewPagers to JazzyViewPagers, two more steps, and you're good to go!`](https://github.com/jfeinstein10/JazzyViewPager)
- - [MarqueeView `可垂直跑、可水平跑的跑马灯；学名：可垂直翻、可水平翻的翻页公告`](https://github.com/sfsheng0322/MarqueeView)
+ - [MarqueeView `可垂直跑、可水平跑的跑马灯；学名：可垂直翻、可水平翻的翻页公告`](https://github.com/sunfusheng/MarqueeView)
  - [MarqueeViewLibrary `一个帮您快速实现跑马灯效果的library`](https://github.com/gongwen/MarqueeViewLibrary)
- - [AndroidMarqueeView `跑马灯`](https://github.com/dalong982242260/AndroidMarqueeView)
+ - [AndroidMarqueeView `跑马灯`](https://github.com/yixiaolunhui/AndroidMarqueeView)
  - [picasso-transformations `An Android transformation library providing a variety of image transformations for Picasso`](https://github.com/wasabeef/picasso-transformations)
  - [ShimmerRecyclerView `Facebook loading Skeleton Screen`](https://github.com/sharish/ShimmerRecyclerView)
  - [loaderviewlibrary `Facebook loading Skeleton Screen`](https://github.com/elye/loaderviewlibrary)
  - [ShimmerLayout `Facebook loading Skeleton Screen`](https://github.com/team-supercharge/ShimmerLayout)
  - [UniversalToast `简洁优雅可点击的toast控件，仿手机百度9.0，无BadTokenException风险`](https://github.com/bboylin/UniversalToast)
- - [QMUI_Android `提高 Android UI 开发效率的 UI 库`](https://github.com/QMUI/QMUI_Android)
+ - [QMUI_Android `提高 Android UI 开发效率的 UI 库`](https://github.com/Tencent/QMUI_Android)
  - [StoriesProgressView `show horizontal progress like instagram stories.`](https://github.com/shts/StoriesProgressView)
  - [MPAndroidChart `A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations`](https://github.com/PhilJay/MPAndroidChart)
  - [SmartRefreshLayout `Android智能下拉刷新框架，支持越界回弹，集成了几十种炫酷的Header和 Footer`](https://github.com/scwang90/SmartRefreshLayout)
@@ -144,8 +141,8 @@
  - [Grav - Configurable animations based on points](https://github.com/glomadrian/Grav)
  - [FloatingText](https://github.com/UFreedom/FloatingText)
  - [CarouselPicker `A Carousel picker library for android which supports both text and icons .`](https://github.com/GoodieBag/CarouselPicker)
- - [PhotoView `Implementation of ImageView for Android that supports zooming, by various touch gestures.`](https://github.com/chrisbanes/PhotoView)
- - [StatusBarUtil `A util for setting status bar style on Android App. `](https://github.com/laobie/StatusBarUtil)
+ - [PhotoView `Implementation of ImageView for Android that supports zooming, by various touch gestures.`](https://github.com/Baseflow/PhotoView)
+ - [StatusBarUtil `A util for setting status bar style on Android App. `](https://github.com/houzi3/StatusBarUtil)
  - [PswInputViewDemo](https://github.com/huage2580/PswInputViewDemo)
  - [PhotoPicker `Image Picker like Wechat `](https://github.com/donglua/PhotoPicker)
  - [navigation-toolbar-android `Navigation toolbar is a slide-modeled UI navigation controller made by @Ramotion`](https://github.com/Ramotion/navigation-toolbar-android)
@@ -154,7 +151,7 @@
  - [ScrollNumber `custom widget--srcoll number`](https://github.com/a-voyager/ScrollNumber)
  - [CountdownView `倒计时视图`](https://github.com/iwgang/CountdownView)
  - [FlycoTabLayout `一个Android TabLayout库,目前有3个TabLayout. SlidingTabLayout, CommonTabLayout, SegmentTabLayout`](https://github.com/H07000223/FlycoTabLayout)
- - [Android-ConvenientBanner `Simple and convenient banner, loop viewpager with 3D effects` `banner 轮播`](https://github.com/Bigkoo/Android-ConvenientBanner)
+ - [Android-ConvenientBanner `Simple and convenient banner, loop viewpager with 3D effects` `banner 轮播`](https://github.com/saiwu-bigkoo/Android-ConvenientBanner)
  - [banner `banner 轮播`](https://github.com/youth5201314/banner)
  - [android-gif-drawable `Views and Drawable for displaying animated GIFs on Android`](https://github.com/koral--/android-gif-drawable)
  - [GifView `Library for playing gifs on Android`](https://github.com/Cutta/GifView)
@@ -166,7 +163,7 @@
  - [Material-Animations `Android Transition animations explanation with examples.`](https://github.com/lgvalle/Material-Animations)
  - [lottie-android `Render After Effects animations natively on Android and iOS`](https://github.com/airbnb/lottie-android)
  - [Fish `灵动的红鲤鱼`](https://github.com/Jichensheng/Fish)
- - [`facebook` rebound `A Java library that models spring dynamics and adds real world physics to your app.`](https://github.com/facebook/rebound)
+ - [`facebook` rebound `A Java library that models spring dynamics and adds real world physics to your app.`](https://github.com/facebookarchive/rebound)
  - [PlayPauseView `让播放、暂停按钮优雅的过渡`](https://github.com/Lauzy/PlayPauseView)
  - [AnimatedMenuIcon `Demo for the tutorial on how to animate an SVG menu icon based on Tamas Kojo's Dribbble shot hamburger menu and implemented Segment. By Luis Manuel.`](https://github.com/codrops/AnimatedMenuIcon)
  - [Android-Animation-Set `Android 所有动画系列详尽教程。 Explain all animations in Android. https://www.jianshu.com/p/0eb89d43eea4`](https://github.com/OCNYang/Android-Animation-Set)
@@ -178,7 +175,6 @@
  - [`alibaba` atlas `A powerful Android Dynamic Component Framework.`](https://github.com/alibaba/atlas)
  - [Small](https://github.com/wequick/Small)
  - [`360` DroidPlugin](https://github.com/Qihoo360/DroidPlugin)
- - [ACDD(原名OpenAtlas)](https://github.com/bunnyblue/ACDD)
  - [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk)
  - [`携程` DynamicAPK](https://github.com/CtripMobile/DynamicAPK)
  - [Fast load dex in memory](https://github.com/asLody/TurboDex)
@@ -190,7 +186,6 @@
  - [Android Dex分包之旅](http://yydcdut.com/2016/03/20/split-dex/)
  - [掌阅-最简单易懂的Android插件补丁框架](https://github.com/iReaderAndroid/ZeusPlugin)
  - [Android动态加载技术 系列索引](https://zhuanlan.zhihu.com/p/20515113)
- - [Android博客周刊专题之《插件化开发》](http://www.androidblog.cn/index.php/Index/detail/id/16)
  - [MultiDex工作原理分析和优化方案](https://zhuanlan.zhihu.com/p/24305296)
  - [其实你不知道MultiDex到底有多坑](http://blog.zongwu233.com/the-touble-of-multidex)
 
@@ -217,15 +212,13 @@
  - [ZeusPlugin插件框架热修复gradle插件源码](https://github.com/iReaderAndroid/PatchPluginForZeus)
  - [RocooFix](https://github.com/dodola/RocooFix)
  - [ Android Classloader热修复技术之百家齐放](http://blog.csdn.net/sbsujjbcy/article/details/51760578)
- - [从Instant-Run出发，谈谈Android上的热修复](http://zjutkz.net/2016/05/10/%E4%BB%8EInstant-Run%E5%87%BA%E5%8F%91%EF%BC%8C%E8%B0%88%E8%B0%88Android%E4%B8%8A%E7%9A%84%E7%83%AD%E4%BF%AE%E5%A4%8D/)
- - [Android热修复与增量升级，基于微信Tinker原理](https://github.com/byteam/delta)
  - [`github` `美丽说` Aceso](https://github.com/meili/Aceso)
 
 ### Android 加固与反编译
  - [Android反编译工具的合集](https://github.com/Juude/droidReverse)
  - [Apktool](http://ibotpeaches.github.io/Apktool/)
  - [dex2jar](http://sourceforge.net/projects/dex2jar/)
- - [DecompileApk](https://github.com/MasonLiuChn/DecompileApk)
+ - [DecompileApk](https://github.com/damonliuchn/DecompileApk)
  - [Android APK加固技术方案调研](http://www.jianshu.com/p/856bf5b437aa)
  - [Android apk包res 资源混淆工具](https://github.com/joker535/Baffle)
  - [微信资源混淆](https://github.com/shwenzhang/AndResGuard)
@@ -250,7 +243,7 @@
  - [Android最佳性能实践(2)：分析内存的使用情况](http://blog.csdn.net/guolin_blog/article/details/42238633)
  - [Android最佳性能实践(3)：高性能编码优化](http://blog.csdn.net/guolin_blog/article/details/42318689)
  - [Android最佳性能实践(4)：布局优化技巧](http://blog.csdn.net/guolin_blog/article/details/43376527)
- - [blockcanary-轻松找出Android App界面卡顿元凶](https://github.com/moduth/blockcanary)
+ - [blockcanary-轻松找出Android App界面卡顿元凶](https://github.com/markzhai/AndroidPerformanceMonitor)
  - [Android Splash页秒开 Activity白屏 Activity黑屏](http://blog.csdn.net/yanzhenjie1003/article/details/52201896)
  - [Android GC 那点事](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw%3D%3D&hmsr=toutiao.io&idx=1&mid=400021278&scene=0&sn=0e971807eb0e9dcc1a81853189a092f3&utm_medium=toutiao.io&utm_source=toutiao.io)
  - [GC那些事儿--Android内存优化第一弹](http://www.jianshu.com/p/5db05db4f5ab)
@@ -262,10 +255,10 @@
  - [ReactiveX](http://reactivex.io/)
  - [`Github` RxJava ](https://github.com/ReactiveX/RxJava/)
  - [`Github` RxAndroid](https://github.com/ReactiveX/RxAndroid)
- - [`Library` RxLifecycle `Lifecycle handling APIs for Android apps using RxJava`](https://github.com/trello/RxLifecycle)
+ - [`Library` RxLifecycle `Lifecycle handling APIs for Android apps using RxJava`](https://github.com/trello-archive/RxLifecycle)
  - [`Library` RxPermissions `Android runtime permissions powered by RxJava`](https://github.com/tbruyelle/RxPermissions)
  - [`Library` RxBinding `RxJava binding APIs for Android's UI widgets.`](https://github.com/JakeWharton/RxBinding)
- - [Awesome RxJava](https://github.com/lzyzsd/Awesome-RxJava)
+ - [Awesome RxJava](https://github.com/happydog-intj/Awesome-RxJava)
  - [`(译)` RxJava中文文档](https://github.com/mcxiaoke/RxDocs)
  - [`(译)` 在正确的线程上观察](http://www.jianshu.com/p/72911b9ba2d7)
  - [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
@@ -279,7 +272,6 @@
 
  
 ### agera
-- [android-agera](https://code-labs.cn/codelabs/android-agera/#0)
 - [agera](https://github.com/google/agera/wiki)
 
 ### ORM
@@ -290,7 +282,7 @@
 ### Ibeacon与蓝牙4.0
  - [一个ibeacon交互库](https://github.com/AltBeacon/android-beacon-library)
  - [AprilBeacon-Android-sdk](https://github.com/AprilBrother/AprilBeacon-Android-SDK)
- - [Estimote SDK](https://github.com/Estimote/Android-SDK)
+ - [Estimote SDK](https://github.com/Estimote/Android-Fleet-Management-SDK)
  - [蓝牙4.0相关](https://github.com/devunwired/accessory-samples)
 
 ### Gradle
@@ -332,16 +324,13 @@
  - [tutorialspoint](http://www.tutorialspoint.com/android/)
  - [tutsplus](http://code.tutsplus.com/categories/android-sdk)
  - [oderzheaven](http://www.coderzheaven.com/android-tutorials/)
- - [thenewcircle](https://thenewcircle.com/training/android/)
  - [coreservlets](http://www.coreservlets.com/android-tutorial/)
  - [Droid-Blog](http://droid-blog.net/)
  - [coursera.org](https://www.coursera.org/)
  - [commonsware.com](http://commonsware.com/blog/archive.html)
- - [http://android.amberfog.com/](http://android.amberfog.com/)
  - [anddev](http://www.anddev.org/)
 
 ### Other
-  - [Android 开源交流](https://github.com/aosp-exchange-group/share)
   - [Awesome ADB](https://github.com/mzlogin/awesome-adb)
   - [http://blog.csdn.net/lhd201006/article/details/50920464](http://blog.csdn.net/lhd201006/article/details/50920464)
   - [android-tips-tricks-cn `Android开发技巧`](https://github.com/cctanfujun/android-tips-tricks-cn)
@@ -353,10 +342,9 @@
   - [Android SO文件的兼容和适配](http://blog.coderclock.com/2017/05/07/android/Android-so-files-compatibility-and-adaptation/)
 
 ### Camera
-  - [material-camera](https://github.com/afollestad/material-camera)
   - [FlipsideCamera `google play`](https://github.com/andyb129/FlipsideCamera)
   - [CameraFilter](https://github.com/nekocode/CameraFilter)
-  - [Fotoapparat `Making Camera for Android more friendly.`](https://github.com/Fotoapparat/Fotoapparat)
+  - [Fotoapparat `Making Camera for Android more friendly.`](https://github.com/RedApparat/Fotoapparat)
   - [CameraFragment `A simple easy-to-integrate Camera Fragment for Android`](https://github.com/florent37/CameraFragment)
 
 ### Build
@@ -370,5 +358,9 @@
   - [Android Studio 翻译插件,可以将英文翻译为中文](https://github.com/Skykai521/ECTranslation)
   - [Android Studio 代码行数统计](https://plugins.jetbrains.com/plugin/4509-statistic)
   - [插件整理](https://ydmmocoo.github.io/2016/06/28/Android-Studio%E6%8F%92%E4%BB%B6%E6%95%B4%E7%90%86/)
-  - [SmartQQ4IntelliJ](https://github.com/Jamling/SmartQQ4IntelliJ)
+  - [SmartQQ4IntelliJ](https://github.com/Jamling/SmartIM4IntelliJ)
   - [ClassPlugin `替换jar或gradle中的类为自己的，当引用库存在bug时，可以用自己的类替换`](https://github.com/dinuscxj/ClassPlugin)
+
+### 视频 / GPU
+ - [VBrowser-Android `M3U8嗅探, 缓存, 播放`](https://github.com/xm0625/VBrowser-Android)
+ - [`Android` `GPU` GPUImage](https://github.com/wasabeef/android-gpuimage)
