@@ -120,6 +120,9 @@
  * [kotaemon](https://github.com/Cinnamon/kotaemon)
    * An open-source RAG-based tool for chatting with your documents.
    * 【企业级】RAG&GraphRAG 知识库对话框架
+ * [auto-ontology](https://github.com/NVIDIA/auto-ontology)
+   * Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
+   * NVIDIA 开源的自动本体框架，在数据上构建语义图推理层，改善 LLM 与 Agent 的检索、查询生成和可解释性。
  * [open-webui](https://github.com/open-webui/open-webui)
    * User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
    * 【企业级】RAG&Agent 多功能综合前端框架
@@ -165,6 +168,9 @@
    * MetaGPT 复现几乎完整的 manus 功能
  * [browser-use](https://github.com/browser-use/browser-use)
    * Make websites accessible for AI agents
+ * [agent-browser](https://github.com/vercel-labs/agent-browser)
+   * Browser automation CLI for AI agents
+   * 面向 AI Agent 的浏览器自动化命令行工具，让 Agent 直接操作网页。
  * [agentscope](https://github.com/agentscope-ai/agentscope)
    * AgentScope: Agent-Oriented Programming for Building LLM Applications
    * AgentScope：面向代理的构建LLM应用程序的编程
@@ -175,6 +181,9 @@
  * [orca](https://github.com/stablyai/orca)
    * Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
    * 用自己的订阅并行运行 Claude Code、Codex 等编码 Agent，支持桌面、移动端和远程运行时。
+ * [claude-mem](https://github.com/thedotmack/claude-mem)
+   * Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions.
+   * 跨会话的 Agent 长期记忆：采集并压缩每次会话上下文，再注入到后续会话，支持 Claude Code、OpenClaw、Codex、Gemini、Hermes 等。
 
 ## 模型社区
  * [ModelScope](https://www.modelscope.cn/home)
