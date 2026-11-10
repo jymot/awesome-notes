@@ -22,6 +22,9 @@
  * [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
    * 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
    * 强大的少样本语音转换与语音合成Web用户界面
+ * [VoxCPM](https://github.com/OpenBMB/VoxCPM)
+   * VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+   * OpenBMB 开源的无分词器语音合成模型，支持多语种语音生成、音色设计与高保真声音克隆。
  * [claude-task-master](https://github.com/eyaltoledano/claude-task-master)
    * An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
    * 一个基于人工智能的任务管理系统，您可以将其放入Cursor、Lovable、Windsurf、Roo等。
@@ -84,6 +87,9 @@
    * BISHENG是一个面向下一代企业人工智能应用的开放式LLM开发平台。强大而全面的功能包括：GenAI工作流、RAG、Agent、统一模型管理、评估、SFT、数据集管理、企业级系统管理、可观察性等。
  * [open-webui](https://github.com/open-webui/open-webui)
    * User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+ * [DeepTutor](https://github.com/HKUDS/DeepTutor)
+   * DeepTutor: Lifelong Personalized Tutoring.
+   * 港大 HKUDS 开源的个性化 AI 学习助手，基于 Agent 和 RAG 做长期陪伴式辅导。
 
 ### Deploy
  * [ollama](https://github.com/ollama/ollama)
@@ -184,6 +190,9 @@
  * [claude-mem](https://github.com/thedotmack/claude-mem)
    * Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions.
    * 跨会话的 Agent 长期记忆：采集并压缩每次会话上下文，再注入到后续会话，支持 Claude Code、OpenClaw、Codex、Gemini、Hermes 等。
+ * [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)
+   * Secure, Fast, and Extensible Sandbox runtime for AI agents.
+   * 面向 AI Agent 的安全、快速、可扩展的沙箱运行时，用来隔离执行代码和工具调用。
 
 ## 模型社区
  * [ModelScope](https://www.modelscope.cn/home)

@@ -8,6 +8,7 @@
  - [anaconda 清华镜像](https://mirror.tuna.tsinghua.edu.cn/help/anaconda/)
  - [pipcook `基于 tfjs-node 的前端算法工程框架 front-end algorithm engineer platform based on tfjs-node https://alibaba.github.io/pipcook/`](https://github.com/alibaba/pipcook)
  - [《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning https://nndl.ai](https://github.com/nndl/nndl.github.io)
+ - [ai-engineering-from-scratch `从零学习 AI 工程：动手构建并交付 AI 应用 Learn AI Engineering! Learn it. Build it. Ship it for others.`](https://github.com/rohitg00/ai-engineering-from-scratch)
 
 ## Tensorflow
  - [tensorflow `Computation using data flow graphs for scalable machine learning `](https://github.com/tensorflow/tensorflow)
