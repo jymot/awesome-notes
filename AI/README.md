@@ -159,6 +159,9 @@
  * [genai-toolbox](https://github.com/googleapis/mcp-toolbox)
    * MCP Toolbox for Databases is an open source MCP server for databases.
    * 用于数据库的开源MCP服务器
+ * [ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
+   * Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
+   * Home Assistant 的 MCP 服务器，让 Claude、ChatGPT 等 AI 助手直接配置和自动化智能家居。
 
 ## Agent
  * [Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT)
@@ -193,6 +196,9 @@
  * [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)
    * Secure, Fast, and Extensible Sandbox runtime for AI agents.
    * 面向 AI Agent 的安全、快速、可扩展的沙箱运行时，用来隔离执行代码和工具调用。
+ * [claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
+   * A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+   * Anthropic 官方的 Claude API 快速上手项目集，包含客服 Agent、Computer Use、自主编码 Agent 等可部署示例。
 
 ## 模型社区
  * [ModelScope](https://www.modelscope.cn/home)
