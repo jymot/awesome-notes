@@ -12,6 +12,12 @@
 - [agent-skills](https://github.com/addyosmani/agent-skills)
     - Production-grade engineering skills for AI coding agents.
     - Addy Osmani 整理的生产级工程技能集，给 AI 编码 Agent 提供规划、测试、评审等工程实践技能。
+- [modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+    - Keep your coding agent up to date with the latest web best practices
+    - Chrome / Edge / Firefox / MDN 联合维护的现代 Web 技能集，把平台 API、性能和无障碍指南注入编码 Agent，避免生成过时写法。
+- [SkillSpector](https://github.com/NVIDIA/SkillSpector)
+    - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
+    - NVIDIA 开源的 Agent Skill 安全扫描器，在安装 Claude Code / Codex / MCP 技能前检测提示注入、数据外泄和供应链风险。
 
 ## Design
 

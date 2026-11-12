@@ -208,6 +208,12 @@
  * [dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
    * Towards a More Autonomous Agent System. A proactive coding agent for one GitHub repository, packaged for DeepSeek Harness (research prototype).
    * DeepSeek 团队开源的主动式编码 Agent 研究原型：监听 GitHub/飞书请求，独立开工并以 PR 等形式回复，主张尽量少占用人的注意力。
+ * [OpenBot](https://github.com/CopilotKit/OpenBot)
+   * Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
+   * CopilotKit 开源的 AI 同事工作区：每个 Agent 有独立电脑（浏览器、文件和工具），动作先决策后记录，可接入任意 AG-UI Agent。
+ * [agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)
+   * Let your command-line agents pick up work and follow it through in the background — staying quiet when they can handle it, and sending you a card only when a decision is yours to make.
+   * 让命令行 Agent 在后台自己接活并跟进到底；平时不打扰，拿不准时才发卡片请你拍板。
 
 ## 模型社区
  * [ModelScope](https://www.modelscope.cn/home)
