@@ -132,6 +132,12 @@
  * [open-webui](https://github.com/open-webui/open-webui)
    * User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
    * 【企业级】RAG&Agent 多功能综合前端框架
+ * [LightRAG](https://github.com/HKUDS/LightRAG)
+   * [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
+   * 港大开源的轻量 GraphRAG 框架，结合知识图谱与向量检索，简单、快速。
+ * [PageIndex](https://github.com/VectifyAI/PageIndex)
+   * Document Index for Vectorless, Reasoning-based RAG
+   * 无需向量库的推理式 RAG：把长文档建成树状目录索引，让 LLM 像人一样逐层查找答案。
 
 ### 微调
  * [unsloth](https://github.com/unslothai/unsloth)
@@ -199,6 +205,9 @@
  * [claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
    * A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
    * Anthropic 官方的 Claude API 快速上手项目集，包含客服 Agent、Computer Use、自主编码 Agent 等可部署示例。
+ * [dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
+   * Towards a More Autonomous Agent System. A proactive coding agent for one GitHub repository, packaged for DeepSeek Harness (research prototype).
+   * DeepSeek 团队开源的主动式编码 Agent 研究原型：监听 GitHub/飞书请求，独立开工并以 PR 等形式回复，主张尽量少占用人的注意力。
 
 ## 模型社区
  * [ModelScope](https://www.modelscope.cn/home)
