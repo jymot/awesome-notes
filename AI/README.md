@@ -90,6 +90,9 @@
  * [DeepTutor](https://github.com/HKUDS/DeepTutor)
    * DeepTutor: Lifelong Personalized Tutoring.
    * 港大 HKUDS 开源的个性化 AI 学习助手，基于 Agent 和 RAG 做长期陪伴式辅导。
+ * [open-code-review](https://github.com/alibaba/open-code-review)
+   * Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset, OpenAI & Anthropic compatible.
+   * 阿里巴巴开源的 AI 代码评审工具，确定性流水线结合 LLM Agent，给出行级评论，内置多语言规则集。
 
 ### Deploy
  * [ollama](https://github.com/ollama/ollama)
@@ -168,6 +171,9 @@
  * [ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
    * Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
    * Home Assistant 的 MCP 服务器，让 Claude、ChatGPT 等 AI 助手直接配置和自动化智能家居。
+ * [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+   * Chrome DevTools for coding agents
+   * Chrome DevTools 官方 MCP 服务器，让编码 Agent 能控制和调试真实 Chrome（性能追踪、网络、控制台、截图等）。
 
 ## Agent
  * [Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT)
@@ -214,6 +220,12 @@
  * [agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)
    * Let your command-line agents pick up work and follow it through in the background — staying quiet when they can handle it, and sending you a card only when a decision is yours to make.
    * 让命令行 Agent 在后台自己接活并跟进到底；平时不打扰，拿不准时才发卡片请你拍板。
+ * [ag-ui](https://github.com/ag-ui-protocol/ag-ui)
+   * AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
+   * 开放的 Agent 与用户界面交互协议，用事件流把 Agent 接入前端应用（CopilotKit 等框架支持）。
+ * [plannotator](https://github.com/backnotprop/plannotator)
+   * The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
+   * 面向编码 Agent 的计划与代码评审工作台，可标注计划、评审代码并一键把反馈发回 Agent。
 
 ## 模型社区
  * [ModelScope](https://www.modelscope.cn/home)

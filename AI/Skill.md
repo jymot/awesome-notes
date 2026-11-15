@@ -18,6 +18,9 @@
 - [SkillSpector](https://github.com/NVIDIA/SkillSpector)
     - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
     - NVIDIA 开源的 Agent Skill 安全扫描器，在安装 Claude Code / Codex / MCP 技能前检测提示注入、数据外泄和供应链风险。
+- [SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)
+    - Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation.
+    - NVIDIA 开源的 Agent Skill 多层评估框架，包含质量门禁、语义重叠检测和合成评测。
 
 ## Design
 
