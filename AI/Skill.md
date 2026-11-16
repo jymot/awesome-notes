@@ -21,6 +21,9 @@
 - [SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)
     - Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation.
     - NVIDIA 开源的 Agent Skill 多层评估框架，包含质量门禁、语义重叠检测和合成评测。
+- [last30days-skill](https://github.com/mvanhorn/last30days-skill)
+    - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary.
+    - 让 Agent 跨 Reddit、X、YouTube、HN、Polymarket 和网页调研任意话题，并输出有出处的近 30 天综述。
 
 ## Design
 

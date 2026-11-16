@@ -174,6 +174,9 @@
  * [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
    * Chrome DevTools for coding agents
    * Chrome DevTools 官方 MCP 服务器，让编码 Agent 能控制和调试真实 Chrome（性能追踪、网络、控制台、截图等）。
+ * [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
+   * Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex.
+   * 给编码 Agent 用的本地视频剪辑工具：42 个 FFmpeg 工具 + MCP Server，支持剪切、字幕、重构图、响度和平台导出，无需云端和 API Key。
 
 ## Agent
  * [Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT)
@@ -226,6 +229,9 @@
  * [plannotator](https://github.com/backnotprop/plannotator)
    * The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
    * 面向编码 Agent 的计划与代码评审工作台，可标注计划、评审代码并一键把反馈发回 Agent。
+ * [paper-orchestra](https://github.com/google-research/paper-orchestra)
+   * PaperOrchestra is a multi-agent framework for automated AI research paper writing.
+   * Google Research 开源的多 Agent 论文写作框架，自动完成 AI 研究论文从构思到成稿的协作流程。
 
 ## 模型社区
  * [ModelScope](https://www.modelscope.cn/home)
