@@ -24,6 +24,9 @@
 - [last30days-skill](https://github.com/mvanhorn/last30days-skill)
     - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary.
     - 让 Agent 跨 Reddit、X、YouTube、HN、Polymarket 和网页调研任意话题，并输出有出处的近 30 天综述。
+- [stitch-skills](https://github.com/google-labs-code/stitch-skills)
+    - A library of Agent Skills designed to work with the Stitch MCP server, following the Agent Skills open standard for Antigravity, Gemini CLI, Claude Code, Cursor.
+    - Google Labs 出品的 Agent Skills 库，配合 Stitch MCP 服务使用，遵循 Agent Skills 开放标准，可用于 Gemini CLI、Claude Code、Cursor 等编码代理。
 
 ## Design
 

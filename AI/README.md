@@ -93,6 +93,12 @@
  * [open-code-review](https://github.com/alibaba/open-code-review)
    * Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset, OpenAI & Anthropic compatible.
    * 阿里巴巴开源的 AI 代码评审工具，确定性流水线结合 LLM Agent，给出行级评论，内置多语言规则集。
+ * [codex-security](https://github.com/openai/codex-security)
+   * OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities.
+   * OpenAI 官方的 Codex Security 命令行与 TypeScript SDK，用于发现、验证并修复代码中的安全漏洞。
+ * [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+   * LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+   * LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。
 
 ### Deploy
  * [ollama](https://github.com/ollama/ollama)
@@ -232,6 +238,9 @@
  * [paper-orchestra](https://github.com/google-research/paper-orchestra)
    * PaperOrchestra is a multi-agent framework for automated AI research paper writing.
    * Google Research 开源的多 Agent 论文写作框架，自动完成 AI 研究论文从构思到成稿的协作流程。
+ * [LoopForge](https://github.com/Tencent/LoopForge)
+   * Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates.
+   * 腾讯开源的自托管编码 Agent 交付工作流，用脚本和人工审批关卡编排 CodeBuddy、Codex 与 Claude Code。
 
 ## 模型社区
  * [ModelScope](https://www.modelscope.cn/home)
