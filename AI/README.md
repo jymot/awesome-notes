@@ -99,6 +99,9 @@
  * [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
    * LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
    * LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。
+ * [yogurt](https://github.com/FrigadeHQ/yogurt)
+   * Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.
+   * 本地运行的私有 AI 会议记录：录音、转写与摘要都留在本机，开源 Granola 替代，支持 Mac / Windows / Linux。
 
 ### Deploy
  * [ollama](https://github.com/ollama/ollama)
@@ -241,6 +244,12 @@
  * [LoopForge](https://github.com/Tencent/LoopForge)
    * Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates.
    * 腾讯开源的自托管编码 Agent 交付工作流，用脚本和人工审批关卡编排 CodeBuddy、Codex 与 Claude Code。
+ * [pinky](https://github.com/DIYgod/pinky)
+   * Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.
+   * 让任意 MCP Agent（或手机上的 Pinky 自身）操控 iPhone/Android，关键操作需人在环中批准。
+ * [Mika](https://github.com/wangzan101/Mika)
+   * An on-device AI agent for Android that operates apps and the web to get things done for you.
+   * 端侧 Android AI Agent：在后台虚拟屏上操作手机 App 和网页，完成你交代的任务。
 
 ## 模型社区
  * [ModelScope](https://www.modelscope.cn/home)

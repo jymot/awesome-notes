@@ -27,6 +27,9 @@
 - [stitch-skills](https://github.com/google-labs-code/stitch-skills)
     - A library of Agent Skills designed to work with the Stitch MCP server, following the Agent Skills open standard for Antigravity, Gemini CLI, Claude Code, Cursor.
     - Google Labs 出品的 Agent Skills 库，配合 Stitch MCP 服务使用，遵循 Agent Skills 开放标准，可用于 Gemini CLI、Claude Code、Cursor 等编码代理。
+- [inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)
+    - Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization
+    - 用于优化本地 LLM 推理速度的 Agent Skill：先算理论上限，再对 decode、投机解码、prefill、KV、TTFT 做对照实验。
 
 ## Design
 
