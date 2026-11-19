@@ -102,6 +102,9 @@
  * [yogurt](https://github.com/FrigadeHQ/yogurt)
    * Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.
    * 本地运行的私有 AI 会议记录：录音、转写与摘要都留在本机，开源 Granola 替代，支持 Mac / Windows / Linux。
+ * [lot-map](https://github.com/alexeyw/lot-map)
+   * Claude Code plugin showing a live local map of tool calls, model steps, hooks, skills and subagents beside the chat.
+   * Claude Code 插件，在聊天旁边实时展示本机工具调用、模型步骤、钩子、技能和子 Agent 的地图。
 
 ### Deploy
  * [ollama](https://github.com/ollama/ollama)
@@ -186,6 +189,9 @@
  * [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
    * Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex.
    * 给编码 Agent 用的本地视频剪辑工具：42 个 FFmpeg 工具 + MCP Server，支持剪切、字幕、重构图、响度和平台导出，无需云端和 API Key。
+ * [sandbox-mcp](https://github.com/shanselman/sandbox-mcp)
+   * MCP server + CLI that gives an AI agent a fresh, disposable Windows Sandbox machine to deploy, UI-test and tear down apps.
+   * MCP 服务器与 CLI，给 AI Agent 一台可随时丢弃的 Windows Sandbox，用来部署、UI 测试并拆除应用。
 
 ## Agent
  * [Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT)
@@ -250,6 +256,12 @@
  * [Mika](https://github.com/wangzan101/Mika)
    * An on-device AI agent for Android that operates apps and the web to get things done for you.
    * 端侧 Android AI Agent：在后台虚拟屏上操作手机 App 和网页，完成你交代的任务。
+ * [linger](https://github.com/simplexai-labs/linger)
+   * Open-source personal agent that runs fully on your PC with local models (MoE engine keeps hot experts on GPU), long-term memory, proactive tasks.
+   * 开源个人 Agent，完全在本机用本地模型运行（MoE 引擎把热专家留在 GPU），具备长期记忆和主动任务。
+ * [agentes-chat](https://github.com/agentes-chat/agentes-chat)
+   * Open-source, self-hosted Slack alternative where teams and AI agents work together in channels and DMs; agents have roles/budgets, MCP tools, ask before sensitive actions.
+   * 开源自托管 Slack 替代：团队与 AI Agent 在频道和私信里协作；Agent 有角色/预算和 MCP 工具，敏感操作会先询问。
 
 ## 模型社区
  * [ModelScope](https://www.modelscope.cn/home)
