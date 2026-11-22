@@ -65,6 +65,9 @@
 ### Video
  * [Open-Sora](https://github.com/hpcaitech/Open-Sora)
    * Open-Sora: Democratizing Efficient Video Production for All
+ * [autoclip](https://github.com/zhouxiaoka/autoclip)
+   * Open-source AI video clipping desktop tool: turn long videos into short clips with subtitles.
+   * 开源 AI 视频剪辑桌面工具，把播客、访谈、课程等长视频自动切成短视频，并生成字幕、封面和发布文案。
 
 ### Application
  * [chatbox](https://github.com/chatboxai/chatbox)
@@ -124,6 +127,9 @@
    * 大模型部署工具
  * [ktransformers](https://github.com/kvcache-ai/ktransformers)
    * A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
+ * [openvino](https://github.com/openvinotoolkit/openvino)
+   * OpenVINO is an open source toolkit for optimizing and deploying AI inference.
+   * Intel 开源的 AI 推理优化与部署工具包，支持 CPU / GPU / NPU，覆盖 LLM、视觉、语音等模型。
 
 ### 集群
   * [exo](https://github.com/exo-explore/exo)
@@ -161,6 +167,9 @@
    * Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
  * [ms-SWIFT](https://github.com/modelscope/ms-swift)
    * Use PEFT or Full-parameter to finetune 450+ LLMs (Qwen2.5, InternLM3, GLM4, Llama3.3, Mistral, Yi1.5, Baichuan2, DeepSeek-R1, ...) and 150+ MLLMs (Qwen2.5-VL, Qwen2-Audio, Llama3.2-Vision, Llava, InternVL2.5, MiniCPM-V-2.6, GLM4v, Xcomposer2.5, Yi-VL, DeepSeek-VL2, Phi3.5-Vision, GOT-OCR2, ...).
+ * [minimind](https://github.com/jingyaogong/minimind)
+   * Train your own 64M LLM from scratch in 2 hours.
+   * 从 0 训练约 64M 小参数 LLM 的教学项目，覆盖预训练、SFT、LoRA、RLHF 等完整链路。
 
 ### DeepSeek
  * [DeepEP](https://github.com/deepseek-ai/DeepEP)
@@ -262,6 +271,12 @@
  * [agentes-chat](https://github.com/agentes-chat/agentes-chat)
    * Open-source, self-hosted Slack alternative where teams and AI agents work together in channels and DMs; agents have roles/budgets, MCP tools, ask before sensitive actions.
    * 开源自托管 Slack 替代：团队与 AI Agent 在频道和私信里协作；Agent 有角色/预算和 MCP 工具，敏感操作会先询问。
+ * [CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+   * CLI-Anything: Making ALL Software Agent-Native. CLI-Hub turns arbitrary apps into agent-ready CLIs.
+   * 港大 HKUDS 开源：把任意软件变成 Agent 可用的 CLI（CLI-Hub），让 Agent 直接操控现有应用。
+ * [opensre](https://github.com/Tracer-Cloud/opensre)
+   * The open-source agent for CI/CD reliability.
+   * 面向 CI/CD 可靠性的开源 Agent：读取失败流水线、定位根因并提交修复供你审阅，可自托管与自备模型。
 
 ## 模型社区
  * [ModelScope](https://www.modelscope.cn/home)
