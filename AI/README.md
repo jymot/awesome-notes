@@ -108,6 +108,9 @@
  * [lot-map](https://github.com/alexeyw/lot-map)
    * Claude Code plugin showing a live local map of tool calls, model steps, hooks, skills and subagents beside the chat.
    * Claude Code 插件，在聊天旁边实时展示本机工具调用、模型步骤、钩子、技能和子 Agent 的地图。
+ * [open-artifact](https://github.com/JimLiu/open-artifact)
+   * Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, sheets, dashboards, docs, and motion.
+   * 开源、与 Agent/模型无关的 Artifacts 方案，幻灯片、UI 设计、白板、表格、看板、文档等都以本地纯文件保存，可编辑、批注和导出。
 
 ### Deploy
  * [ollama](https://github.com/ollama/ollama)
@@ -130,6 +133,12 @@
  * [openvino](https://github.com/openvinotoolkit/openvino)
    * OpenVINO is an open source toolkit for optimizing and deploying AI inference.
    * Intel 开源的 AI 推理优化与部署工具包，支持 CPU / GPU / NPU，覆盖 LLM、视觉、语音等模型。
+ * [trnrt](https://github.com/RunanywhereAI/trnrt)
+   * The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API.
+   * 面向 AWS Trainium 的开源 LLM 推理引擎，NKI megakernel、百万 token 上下文、兼容 OpenAI API。
+ * [gputaskman](https://github.com/shanselman/gputaskman)
+   * A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights for NVIDIA, AMD, and Intel GPUs.
+   * 跨平台 GPU 任务管理器，按进程查看显存与 GPU 占用，并能看到本地 LLM 模型与 KV Cache 情况。
 
 ### 集群
   * [exo](https://github.com/exo-explore/exo)
@@ -277,6 +286,9 @@
  * [opensre](https://github.com/Tracer-Cloud/opensre)
    * The open-source agent for CI/CD reliability.
    * 面向 CI/CD 可靠性的开源 Agent：读取失败流水线、定位根因并提交修复供你审阅，可自托管与自备模型。
+ * [plugins](https://github.com/cursor/plugins)
+   * Cursor plugin specification and official plugins
+   * Cursor 官方插件规范与官方插件集合（rules、skills、MCP 等打包分发）。
 
 ## 模型社区
  * [ModelScope](https://www.modelscope.cn/home)

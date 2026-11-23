@@ -35,3 +35,6 @@
 
 - [impeccable](https://github.com/pbakaus/impeccable)
     - The design language that makes your AI harness better at design.
+- [diagram-design](https://github.com/cathrynlavery/diagram-design)
+    - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor ... 52 diagram types. Self-contained HTML + SVG.
+    - 给编码 Agent 用的图表设计 Skill，52 种图表类型，输出自包含 HTML + SVG。
