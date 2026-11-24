@@ -68,6 +68,9 @@
  * [autoclip](https://github.com/zhouxiaoka/autoclip)
    * Open-source AI video clipping desktop tool: turn long videos into short clips with subtitles.
    * 开源 AI 视频剪辑桌面工具，把播客、访谈、课程等长视频自动切成短视频，并生成字幕、封面和发布文案。
+ * [rea-video](https://github.com/JuneYaooo/rea-video)
+   * Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it.
+   * 逐镜头拆解视频（实拍、AI 生成或代码生成），判断制作方式并给出复刻方案，输出 VIDEO.md。
 
 ### Application
  * [chatbox](https://github.com/chatboxai/chatbox)
@@ -179,6 +182,9 @@
  * [minimind](https://github.com/jingyaogong/minimind)
    * Train your own 64M LLM from scratch in 2 hours.
    * 从 0 训练约 64M 小参数 LLM 的教学项目，覆盖预训练、SFT、LoRA、RLHF 等完整链路。
+ * [songe](https://github.com/sous-labs/songe)
+   * A training engine for your local model, using your idle compute
+   * 用本机空闲算力微调本地模型：从你的对话里学偏好与纠错，空闲时训练 adapter，过关才切换。
 
 ### DeepSeek
  * [DeepEP](https://github.com/deepseek-ai/DeepEP)
@@ -289,6 +295,9 @@
  * [plugins](https://github.com/cursor/plugins)
    * Cursor plugin specification and official plugins
    * Cursor 官方插件规范与官方插件集合（rules、skills、MCP 等打包分发）。
+ * [SoduWork](https://github.com/mdiri-ai/SoduWork)
+   * The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.
+   * 面向团队的自托管多 Agent 引擎：可切换 Pi、OpenCode、Codex 等 harness，一人做、另一人审，请求需发起者签收才算完成。
 
 ## 模型社区
  * [ModelScope](https://www.modelscope.cn/home)
