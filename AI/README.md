@@ -68,6 +68,9 @@
  * [autoclip](https://github.com/zhouxiaoka/autoclip)
    * Open-source AI video clipping desktop tool: turn long videos into short clips with subtitles.
    * 开源 AI 视频剪辑桌面工具，把播客、访谈、课程等长视频自动切成短视频，并生成字幕、封面和发布文案。
+ * [neonclipping](https://github.com/iamajmeena/neonclipping)
+   * Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).
+   * 本地运行的开源长视频切片工具：贴一个 YouTube/Twitch/Kick 链接或本地 MP4，约两分钟生成带字幕的 9:16 短视频及标题、钩子。
  * [rea-video](https://github.com/JuneYaooo/rea-video)
    * Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it.
    * 逐镜头拆解视频（实拍、AI 生成或代码生成），判断制作方式并给出复刻方案，输出 VIDEO.md。
@@ -114,6 +117,9 @@
  * [open-artifact](https://github.com/JimLiu/open-artifact)
    * Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, sheets, dashboards, docs, and motion.
    * 开源、与 Agent/模型无关的 Artifacts 方案，幻灯片、UI 设计、白板、表格、看板、文档等都以本地纯文件保存，可编辑、批注和导出。
+ * [fast-anything](https://github.com/EL4CTEO/fast-anything)
+   * Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
+   * 先 profile 找出 Python/Node/Ruby 等应用里最慢的函数，让编码 Agent 只把这部分移植到 Rust，用真实调用录制验证结果一致后再替换，可回退。
 
 ### Deploy
  * [ollama](https://github.com/ollama/ollama)
@@ -298,6 +304,12 @@
  * [SoduWork](https://github.com/mdiri-ai/SoduWork)
    * The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.
    * 面向团队的自托管多 Agent 引擎：可切换 Pi、OpenCode、Codex 等 harness，一人做、另一人审，请求需发起者签收才算完成。
+ * [amuse](https://github.com/replit/amuse)
+   * Self-hosted personal AI agent: research, a live browser, reminders and small apps, with approvals before actions. Runs on your own computer with an OpenAI key.
+   * Replit 官方开源的自托管个人 AI Agent：网页调研、可接管的实时浏览器、提醒与后台监控、目标拆解，发送/提交/付款前先征求确认。
+ * [PiBot](https://github.com/w01fb0ss/PiBot)
+   * Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.
+   * 本地优先的桌面 AI Agent 团队：多个具名 Bot 单聊或群聊协作，能执行命令、改文件、浏览网页、操作电脑，风险步骤需要审批；基于 pi agent 内核，支持 macOS/Windows/Linux 和 Android。
 
 ## 模型社区
  * [ModelScope](https://www.modelscope.cn/home)
