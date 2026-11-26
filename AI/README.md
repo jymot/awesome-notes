@@ -120,6 +120,9 @@
  * [fast-anything](https://github.com/EL4CTEO/fast-anything)
    * Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
    * 先 profile 找出 Python/Node/Ruby 等应用里最慢的函数，让编码 Agent 只把这部分移植到 Rust，用真实调用录制验证结果一致后再替换，可回退。
+ * [shrink-anything](https://github.com/EL4CTEO/shrink-anything)
+   * Less code, same tests passing: delete dead code, files, dependencies and assets, and keep each cut only if your own tests still pass.
+   * 让编码 Agent 删除死代码、无用文件、依赖和资源，每次删减都用项目自己的测试验证，不过就回滚。
 
 ### Deploy
  * [ollama](https://github.com/ollama/ollama)
@@ -148,6 +151,9 @@
  * [gputaskman](https://github.com/shanselman/gputaskman)
    * A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights for NVIDIA, AMD, and Intel GPUs.
    * 跨平台 GPU 任务管理器，按进程查看显存与 GPU 占用，并能看到本地 LLM 模型与 KV Cache 情况。
+ * [llm.asm](https://github.com/alesha-pro/llm.asm)
+   * Qwen3-0.6B inference (14 KB), a bootable bare-metal LLM OS (24 KB), and a from-scratch Mini-GPT trainer with live Braille TUI — 100% pure x86-64 NASM, zero libc.
+   * 纯 x86-64 汇编实现 Qwen3-0.6B 推理、可启动裸机 LLM 系统，以及从零训练 Mini-GPT 的训练器（带 Braille TUI），零 C / 零 libc。
 
 ### 集群
   * [exo](https://github.com/exo-explore/exo)
@@ -310,6 +316,9 @@
  * [PiBot](https://github.com/w01fb0ss/PiBot)
    * Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.
    * 本地优先的桌面 AI Agent 团队：多个具名 Bot 单聊或群聊协作，能执行命令、改文件、浏览网页、操作电脑，风险步骤需要审批；基于 pi agent 内核，支持 macOS/Windows/Linux 和 Android。
+ * [opengame](https://github.com/nexu-io/opengame)
+   * The Super Game Agent — Unity & Unreal for AI agents. Turn 20+ coding agents into a full-stack AI game studio: remix 25 playable templates and publish 3D & mini-games.
+   * 面向 AI Agent 的开源游戏开发框架：把 Claude Code、Codex、DeepSeek 等编码 Agent 变成全栈游戏工作室，可 remix 模板并发布 3D / 小游戏。
 
 ## 模型社区
  * [ModelScope](https://www.modelscope.cn/home)

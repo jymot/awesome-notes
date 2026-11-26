@@ -38,3 +38,6 @@
 - [diagram-design](https://github.com/cathrynlavery/diagram-design)
     - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor ... 52 diagram types. Self-contained HTML + SVG.
     - 给编码 Agent 用的图表设计 Skill，52 种图表类型，输出自包含 HTML + SVG。
+- [inkworks-skill](https://github.com/Moh4696/inkworks-skill)
+    - Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet.
+    - 让编码 Agent 生成工程图风格的交互式 3D 原理页：用 three.js 原语和解析运动学展示发动机、泵等机械如何运转。
