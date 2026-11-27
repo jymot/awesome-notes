@@ -34,3 +34,18 @@
  - [zopfli `图片压缩`](https://github.com/google/zopfli)
  - [UPNG.js `图片压缩`](https://github.com/photopea/UPNG.js)
  - [tinypng `图片压缩`](https://tinypng.com/)
+
+## 远程桌面
+
+对比（基于公开资料，未实测）：大多数情况 [RustDesk](https://github.com/rustdesk/rustdesk) 更省心、更成熟；[CrossDesk](https://github.com/kunkundi/crossdesk) 较新，亮点是 WebRTC P2P 和 Web 管理后台，代价是自签证书配置更麻烦、资料少。
+
+ - [CrossDesk](https://github.com/kunkundi/crossdesk)
+    - A lightweight, cross-platform remote desktop based on WebRTC, with Web client access. Prefers P2P and falls back to TURN; official public service is available.
+    - 基于 WebRTC 的开源远程桌面，优先 P2P 直连，必要时走 TURN 中继；可直接用官方公共服务。[服务端](https://github.com/kunkundi/crossdesk-server) · [自托管指南](https://www.crossdesk.cn/en/self-hosting/)
+    - 自建：Linux amd64/arm64 + Docker Compose；从 Release 下载 compose.yaml 与 env.example
+    - 配置：填 EXTERNAL_IP、INTERNAL_IP；`openssl rand -hex 32` 生成两个不同密钥填 COTURN_AUTH_SECRET、COTURN_STATELESS_NONCE_SECRET
+    - 端口：9099/TCP 信令、3478/TCP+UDP STUN/TURN、50000–60000/UDP 中继
+    - 证书与客户端：自签证书需在每个客户端导入 `certs/api.crossdesk.cn_root.crt`；「设置 → 自托管配置」填地址端口，两端须指向同一服务器；Web 管理后台 `/admin`，数据存 SQLite
+ - [RustDesk](https://github.com/rustdesk/rustdesk)
+    - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+    - 老牌开源远程桌面，社区大，覆盖 Win/Mac/Linux/iOS/Android/Web；自建服务器简单，一个 [rustdesk-server](https://github.com/rustdesk/rustdesk-server) 容器即可，资料多。
